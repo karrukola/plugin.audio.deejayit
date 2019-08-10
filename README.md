@@ -1,7 +1,5 @@
 # plugin.audio.deejayit
-==============================
-
-[![Build Status](https://travis-ci.com/karrukola/plugin.audio.deejayIt.reloaded.svg?branch=v2)](https://travis-ci.com/karrukola/plugin.audio.deejayIt.reloaded)
+![Build Status](https://travis-ci.org/karrukola/plugin.audio.deejayit.svg?branch=master)
 
 [IT]
 I reloaded di Radio DeeJay su Kodi. Da Deejay Chiama Italia a Tropical Pizza, da Asganaway al Deejay Time, i programmi di [Radio Deejay](http://www.deejay.it) da riascoltare quando e dove vuoi.
