@@ -18,3 +18,11 @@ Version 2 of this plugin relies on the API used by the official mobile apps, sni
 http://www.deejay.it/api/pub/v1/programs_ondemand?section=radio
 ## Get latest episode(s)
 http://www.deejay.it/api/pub/v1/archive_ondemand?last_day=1&pid=225196&rid=225228
+The oldest episode is from 23-09-2009 - hard stop there?
+
+## Sample usage
+Episodi di Via Massena
+http://www.deejay.it/api/pub/v1/archive_ondemand?pid=44&rid=44&date_start=2019-06-18&date_end=2019-07-18
+
+Cordialmente
+http://www.deejay.it/api/pub/v1/archive_ondemand?pid=15&rid=15&date_start=2018-05-01
