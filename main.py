@@ -29,12 +29,19 @@ def build_programs_list():
     progs = DEEJAY.get_programs()
     progs_list = []
     for prog in progs:
-        li = xbmcgui.ListItem(label=prog['title'],
-                              iconImage=prog['images']['size_320x320'])
-        li.setProperty('fanart_image',
-                       prog['images']['size_full'])
+        show = prog['title']
+        icon = prog['images']['size_320x320']
+        fanart = prog['images']['size_full']
+        spkrs = DEEJAY.get_speakers(prog)
+        li = xbmcgui.ListItem(label=show,
+                              iconImage=icon)
+        li.setProperty('fanart_image', fanart)
         url = build_url({'mode': 'eplist',
-                         'id': prog['id']})
+                         'id': prog['id'],
+                         'fanart': fanart,
+                         'icon': icon,
+                         'show': show,
+                         'spkrs': spkrs})
         # this is still a folder, so isFolder must be True
         progs_list.append((url, li, True))
     xbmcplugin.addDirectoryItems(ADDON_HANDLE,
@@ -44,9 +51,14 @@ def build_programs_list():
 
 
 def build_ep_list():
-    eps_list = []
+    # mostly passing through
     show_id = ARGS.get('id', None)[0]
+    fanart = ARGS.get('fanart', None)[0]
+    icon = ARGS.get('icon', None)[0]
+    show = ARGS.get('show', None)[0]
+    spkrs = ARGS.get('spkrs', None)[0]
     eps = DEEJAY.get_show_episodes(show_id)
+    eps_list = []
     for ep in eps:
         data = ep.keys()[0]
         for tipo in ['reloaded']:
@@ -63,9 +75,14 @@ def build_ep_list():
                 file_url = ep[data][tipo]['file']
                 li = xbmcgui.ListItem(label=title)
                 li.setProperty('IsPlayable', 'true')
+                li.setArt({'fanart': fanart})
+                # li.setInfo('music', {'date': ep[1], 'count': idx})
                 url = build_url({'mode': 'stream',
                                  'url': file_url,
-                                 'title': title})
+                                 'title': title,
+                                 'icon': icon,
+                                 'show': show,
+                                 'spkrs': spkrs})
                 eps_list.append((url, li, False))
     xbmcplugin.addDirectoryItems(ADDON_HANDLE,
                                  eps_list,
@@ -73,8 +90,14 @@ def build_ep_list():
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
 
 
-def play_song(url):
-    play_item = xbmcgui.ListItem(path=url)
+def play_item():
+    play_item = xbmcgui.ListItem(path=ARGS['url'][0])
+    icon = ARGS.get('icon', None)[0]
+    play_item.setThumbnailImage(icon)
+    show_name = ARGS.get('show', None)[0]
+    spkrs = ARGS.get('spkrs', None)[0]
+    play_item.setInfo('music', {'album': show_name,
+                                'artist': spkrs})
     xbmcplugin.setResolvedUrl(ADDON_HANDLE, True, listitem=play_item)
 
 
@@ -86,7 +109,7 @@ def main():
     elif mode[0] == 'eplist':
         build_ep_list()
     elif mode[0] == 'stream':
-        play_song(ARGS['url'][0])
+        play_item()
 
 
 if __name__ == '__main__':

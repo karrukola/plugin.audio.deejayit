@@ -23,3 +23,9 @@ class DeejayItParser():
         qry = 'archive_ondemand?pid=%s&rid=%s' % (id, id)
         print qry
         return self._q_and_r(qry)
+
+    def get_speakers(self, prog):
+        spkrs = []
+        for spkr in prog['speakers']:
+            spkrs.append(spkr['title'])
+        return ', '.join(spkrs)
