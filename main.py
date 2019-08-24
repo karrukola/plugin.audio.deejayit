@@ -3,7 +3,6 @@
 from resources.lib import kodilogging
 import logging
 import sys
-import urllib
 import urlparse
 import xbmc
 import xbmcaddon
@@ -20,30 +19,8 @@ kodilogging.config()
 DEEJAY = DeejayItParser()
 
 
-def build_url(query):
-    base_url = sys.argv[0]
-    return base_url + '?' + urllib.urlencode(query)
-
-
 def build_programs_list():
-    progs = DEEJAY.get_programs()
-    progs_list = []
-    for prog in progs:
-        show = prog['title']
-        icon = prog['images']['size_320x320']
-        fanart = prog['images']['size_full']
-        spkrs = DEEJAY.get_speakers(prog)
-        li = xbmcgui.ListItem(label=show,
-                              iconImage=icon)
-        li.setProperty('fanart_image', fanart)
-        url = build_url({'mode': 'eplist',
-                         'id': prog['id'],
-                         'fanart': fanart,
-                         'icon': icon,
-                         'show': show,
-                         'spkrs': spkrs})
-        # this is still a folder, so isFolder must be True
-        progs_list.append((url, li, True))
+    progs_list = DEEJAY.get_programs(sys.argv[0])
     xbmcplugin.addDirectoryItems(ADDON_HANDLE,
                                  progs_list,
                                  len(progs_list))

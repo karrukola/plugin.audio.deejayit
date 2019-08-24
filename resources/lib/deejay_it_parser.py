@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import urllib
 import simplejson as json
+from xbmcgui import ListItem
 
 
 class DeejayItParser():
@@ -16,16 +17,42 @@ class DeejayItParser():
             data_to_ret = json.loads(hres)
         return data_to_ret
 
-    def get_programs(self):
+    def _q_programs(self):
         return self._q_and_r('programs_ondemand?section=radio')
 
-    def get_show_episodes(self, id):
+    def _q_show_episodes(self, id):
         qry = 'archive_ondemand?pid=%s&rid=%s' % (id, id)
         print qry
         return self._q_and_r(qry)
 
-    def get_speakers(self, prog):
+    def _get_speakers(self, prog):
         spkrs = []
         for spkr in prog['speakers']:
             spkrs.append(spkr['title'])
         return ', '.join(spkrs)
+
+    def build_url(self, base_url, query):
+        base_url = base_url
+        return base_url + '?' + urllib.urlencode(query)
+
+    def get_programs(self, base_url):
+        progs = self._q_programs()
+        progs_list = []
+        for prog in progs:
+            show = prog['title']
+            icon = prog['images']['size_320x320']
+            fanart = prog['images']['size_full']
+            spkrs = self._get_speakers(prog)
+            li = ListItem(label=show,
+                          iconImage=icon)
+            li.setProperty('fanart_image', fanart)
+            url = self.build_url(base_url,
+                                 {'mode': 'eplist',
+                                  'id': prog['id'],
+                                  'fanart': fanart,
+                                  'icon': icon,
+                                  'show': show,
+                                  'spkrs': spkrs})
+            # this is still a folder, so isFolder must be True
+            progs_list.append((url, li, True))
+        return progs_list
