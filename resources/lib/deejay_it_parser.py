@@ -56,3 +56,40 @@ class DeejayItParser():
             # this is still a folder, so isFolder must be True
             progs_list.append((url, li, True))
         return progs_list
+
+    def get_show_episodes(self, args, base_url):
+        # mostly passing through
+        show_id = args.get('id', None)[0]
+        fanart = args.get('fanart', None)[0]
+        icon = args.get('icon', None)[0]
+        show = args.get('show', None)[0]
+        spkrs = args.get('spkrs', None)[0]
+        eps = self._q_show_episodes(show_id)
+        eps_list = []
+        for ep in eps:
+            data = ep.keys()[0]
+            for tipo in ['reloaded']:
+                # you get an array of podcast or a single reloaded
+                if tipo == 'podcast':
+                    print ep[data][tipo]
+                    #         for pod in ep[data][tipo]:
+                    #             print pod
+                    #             print pod['title']
+                    #             print pod['file']
+                else:
+                    # i.e. reloaded
+                    title = ep[data][tipo]['title']
+                    file_url = ep[data][tipo]['file']
+                    li = ListItem(label=title)
+                    li.setProperty('IsPlayable', 'true')
+                    li.setArt({'fanart': fanart})
+                    # li.setInfo('music', {'date': ep[1], 'count': idx})
+                    url = self.build_url(base_url,
+                                         {'mode': 'stream',
+                                          'url': file_url,
+                                          'title': title,
+                                          'icon': icon,
+                                          'show': show,
+                                          'spkrs': spkrs})
+                    eps_list.append((url, li, False))
+        return eps_list

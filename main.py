@@ -28,39 +28,8 @@ def build_programs_list():
 
 
 def build_ep_list():
-    # mostly passing through
-    show_id = ARGS.get('id', None)[0]
-    fanart = ARGS.get('fanart', None)[0]
-    icon = ARGS.get('icon', None)[0]
-    show = ARGS.get('show', None)[0]
-    spkrs = ARGS.get('spkrs', None)[0]
-    eps = DEEJAY.get_show_episodes(show_id)
-    eps_list = []
-    for ep in eps:
-        data = ep.keys()[0]
-        for tipo in ['reloaded']:
-            # you get an array of podcast or a single reloaded
-            if tipo == 'podcast':
-                print ep[data][tipo]
-                #         for pod in ep[data][tipo]:
-                #             print pod
-                #             print pod['title']
-                #             print pod['file']
-            else:
-                # i.e. reloaded
-                title = ep[data][tipo]['title']
-                file_url = ep[data][tipo]['file']
-                li = xbmcgui.ListItem(label=title)
-                li.setProperty('IsPlayable', 'true')
-                li.setArt({'fanart': fanart})
-                # li.setInfo('music', {'date': ep[1], 'count': idx})
-                url = build_url({'mode': 'stream',
-                                 'url': file_url,
-                                 'title': title,
-                                 'icon': icon,
-                                 'show': show,
-                                 'spkrs': spkrs})
-                eps_list.append((url, li, False))
+    eps_list = DEEJAY.get_show_episodes(ARGS,
+                                        sys.argv[0])
     xbmcplugin.addDirectoryItems(ADDON_HANDLE,
                                  eps_list,
                                  len(eps_list))
