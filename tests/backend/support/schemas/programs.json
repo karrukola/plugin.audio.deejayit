@@ -1,0 +1,79 @@
+{
+  "description": "JSON schema for the list of ondemand programs v1 API",
+  "items": {
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "images": {
+        "properties": {
+          "size_160x120": {
+            "type": "string"
+          },
+          "size_160x160": {
+            "type": "string"
+          },
+          "size_320x167": {
+            "type": "string"
+          },
+          "size_320x240": {
+            "type": "string"
+          },
+          "size_320x320": {
+            "type": "string"
+          },
+          "size_800x418": {
+            "type": "string"
+          },
+          "size_800x600": {
+            "type": "string"
+          },
+          "size_full": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "size_320x320",
+          "size_full"
+        ],
+        "type": "object"
+      },
+      "reloaded_id": {
+        "type": "integer"
+      },
+      "speakers": {
+        "items": {
+          "properties": {
+            "title": {
+              "description": "Name of the speaker",
+              "type": "string"
+            }
+          },
+          "required": [
+            "title"
+          ],
+          "type": "object"
+        },
+        "minItems": 0,
+        "type": "array"
+      },
+      "title": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "images",
+      "speakers",
+      "title"
+    ],
+    "type": "object"
+  },
+  "minItems": 1,
+  "title": "Deejay.it programs",
+  "type": "array",
+  "uniqueItems": true
+}
