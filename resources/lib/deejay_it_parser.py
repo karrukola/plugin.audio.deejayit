@@ -17,6 +17,9 @@ class DeejayItParser():
             data_to_ret = json.loads(hres)
         return data_to_ret
 
+    def q_cordialmente(self):
+        return self._q_and_r('archive_ondemand?pid=15&rid=15&date_start=2018-05-01')
+
     def q_programs(self):
         return self._q_and_r('programs_ondemand?section=radio')
 
