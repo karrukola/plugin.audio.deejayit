@@ -12,6 +12,7 @@ pip install -r requirements.txt
     stage('Run tests') {
       steps {
         sh 'pytest --junitxml=pytest_jout.xml -v'
+        junit(testResults: 'pytest_jout', healthScaleFactor: 1)
       }
     }
   }
