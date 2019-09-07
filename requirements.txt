@@ -1,0 +1,4 @@
+jsonschema==3.0.2
+Kodistubs==18.0.0
+pytest==4.6.5
+simplejson==3.16.0

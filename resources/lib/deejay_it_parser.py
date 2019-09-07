@@ -17,7 +17,10 @@ class DeejayItParser():
             data_to_ret = json.loads(hres)
         return data_to_ret
 
-    def _q_programs(self):
+    def q_cordialmente(self):
+        return self._q_and_r('archive_ondemand?pid=15&rid=15&date_start=2018-05-01')
+
+    def q_programs(self):
         return self._q_and_r('programs_ondemand?section=radio')
 
     def _q_show_episodes(self, id):
@@ -36,7 +39,7 @@ class DeejayItParser():
         return base_url + '?' + urllib.urlencode(query)
 
     def get_programs(self, base_url):
-        progs = self._q_programs()
+        progs = self.q_programs()
         progs_list = []
         for prog in progs:
             show = prog['title']
