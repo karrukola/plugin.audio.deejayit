@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('error') {
       steps {
-        sh '''python2 -m virtaulenv venv
+        sh '''python2 -m virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
 '''
