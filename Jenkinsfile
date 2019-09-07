@@ -1,12 +1,12 @@
 pipeline {
   agent any
   stages {
-    stage('') {
+    stage('error') {
       steps {
-        sh '''python -m virtaulenv venv
+        sh '''python2 -m virtaulenv venv
 source venv/bin/activate
 pip install -r requirements.txt
-pytest'''
+'''
       }
     }
   }
