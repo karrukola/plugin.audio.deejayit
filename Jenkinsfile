@@ -11,7 +11,11 @@ pip install -r requirements.txt
     }
     stage('Run tests') {
       steps {
-        sh 'pytest --junitxml=pytest_jout.xml -v'
+        sh '''
+        source venv/bin/activate
+        pip -V
+        pytest --junitxml=pytest_jout.xml -v
+        '''
         junit(testResults: 'pytest_jout.xml', healthScaleFactor: 1)
       }
     }
