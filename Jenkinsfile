@@ -20,4 +20,9 @@ pip install -r requirements.txt
       }
     }
   }
+  post {
+    always {
+      emailext body: '$DEFAULT_CONTENT', subject: '$DEFAULT_SUBJECT', to: '$DEFAULT_RECIPIENTS'
+    }
+  }
 }
