@@ -1,4 +1,6 @@
 jsonschema==3.0.2
 Kodistubs==18.0.0
 pytest==4.6.5
+pytest-bdd==3.2.1
+pytest-mock-1.10.4
 simplejson==3.16.0
