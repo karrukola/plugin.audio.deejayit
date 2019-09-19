@@ -15,6 +15,11 @@ class TestDeejayItParser:
         prog = self._load_json_file('speakers_empty_array.json')
         assert deejay.get_speakers(prog) == 'Radio Deejay'
 
+    def test_speakers_missing(self):
+        deejay = DeejayItParser()
+        prog = self._load_json_file('speakers_missing.json')
+        assert deejay.get_speakers(prog) == 'Radio Deejay'
+
     def _load_json_file(self, filename):
         abs_path = join(dirname(__file__), filename)
         with open(abs_path) as schema_file:
