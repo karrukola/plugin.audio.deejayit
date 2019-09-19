@@ -26,12 +26,14 @@ class DeejayItParser():
         return self._q_and_r(qry)
 
     def get_speakers(self, prog):
-        spkrs = []
-        if not prog['speakers']:
-            spkrs = ['Radio Deejay']
-        else:
-            for spkr in prog['speakers']:
-                spkrs.append(spkr['title'])
+        spkrs = ['Radio Deejay']
+        try:
+            if prog['speakers']:
+                spkrs = []
+                for spkr in prog['speakers']:
+                    spkrs.append(spkr['title'])
+        except KeyError:
+            pass
         return ', '.join(spkrs)
 
     def build_url(self, base_url, query):
