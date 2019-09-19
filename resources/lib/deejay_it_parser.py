@@ -25,10 +25,13 @@ class DeejayItParser():
         print qry
         return self._q_and_r(qry)
 
-    def _get_speakers(self, prog):
+    def get_speakers(self, prog):
         spkrs = []
-        for spkr in prog['speakers']:
-            spkrs.append(spkr['title'])
+        if not prog['speakers']:
+            spkrs = ['Radio Deejay']
+        else:
+            for spkr in prog['speakers']:
+                spkrs.append(spkr['title'])
         return ', '.join(spkrs)
 
     def build_url(self, base_url, query):
@@ -42,7 +45,7 @@ class DeejayItParser():
             show = prog['title']
             icon = prog['images']['size_320x320']
             fanart = prog['images']['size_full']
-            spkrs = self._get_speakers(prog)
+            spkrs = self.get_speakers(prog)
             li = ListItem(label=show,
                           iconImage=icon)
             li.setProperty('fanart_image', fanart)
