@@ -1,0 +1,7 @@
+{
+  "description": "JSON schema for the list of ondemand episodes v1 API",
+  "minItems": 1,
+  "title": "Deejay.it programs",
+  "type": "array",
+  "uniqueItems": true
+}
