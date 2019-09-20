@@ -1,6 +1,7 @@
 #!/usr/bin/python2
 from os.path import join, dirname
 from simplejson import loads
+import pytest
 from resources.lib.deejay_it_parser import DeejayItParser
 
 
@@ -19,6 +20,12 @@ class TestDeejayItParser:
         deejay = DeejayItParser()
         prog = self._load_json_file('speakers_missing.json')
         assert deejay.get_speakers(prog) == 'Radio Deejay'
+
+    def test_speakers_none(self):
+        deejay = DeejayItParser()
+        prog = None
+        with pytest.raises(TypeError):
+            deejay.get_speakers(prog)
 
     def _load_json_file(self, filename):
         abs_path = join(dirname(__file__), filename)
