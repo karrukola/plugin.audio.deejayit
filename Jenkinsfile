@@ -4,7 +4,7 @@ pipeline {
     stage('Set up Python env') {
       steps {
         sh '''python2 -m virtualenv venv
-source venv/bin/activate
+. venv/bin/activate
 pip install -r requirements.txt
 '''
       }
@@ -12,7 +12,7 @@ pip install -r requirements.txt
     stage('Run tests') {
       steps {
         sh '''
-        source venv/bin/activate
+        . venv/bin/activate
         pip -V
         pytest --junitxml=pytest_jout.xml -v
         '''
