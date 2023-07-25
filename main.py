@@ -161,15 +161,29 @@ def _play_live_content(
     player = xbmc.Player()  # assumption: this does not change over execution time
     monitor = xbmc.Monitor()  # from forum: use monitor.waitForAbort() iso sleep()
 
+    # A small delay is needed for getPlayingItem() to return.
+    # This is now set to 3 seconds to be conservative, the only thing it delays
+    # is the update of the metadata for the currently playing webradio stream.
+    # FIXME: consider looping continuously through exception
+    if monitor.waitForAbort(3):
+        return
+
     last_update = ""
     while True:
+        try:
+            item = player.getPlayingItem()
+        except RuntimeError:
+            # If the player is not active anymore, the exception is raised.
+            # If a metadata update is due and the player had been stopped,
+            # this situation would occur. In this condition there is no point
+            # to download and parse the metadata as well.
+            return  # exit directly, no point in breaking out of the loop
         metadata = DeejayIt.parse_webradio_metadata(metadata_url)
         if metadata.last_update == last_update:
             # metadata was not yet updated, just wait
             aborted = monitor.waitForAbort(5)
         else:
             # let's update the metadata
-            item = player.getPlayingItem()
             tag = item.getMusicInfoTag()
             tag.setTitle(metadata.title)
             tag.setArtist(metadata.artist)
