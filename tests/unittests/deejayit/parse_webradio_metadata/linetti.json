@@ -1,0 +1,87 @@
+{
+    "_id": "deejaywfmlinus",
+    "_rev": "31EE756E-5ED6-45E1-862E-4CE5E3697926",
+    "error": "not_found",
+    "reason": "missing",
+    "json": {
+        "success": true,
+        "time": "2023-07-22 11:42:56",
+        "now": {
+            "id": "SONG003275",
+            "artist": "ABC",
+            "title": "The Look Of Love",
+            "album": "The Lexicon Of Love",
+            "label": "Neutron Records",
+            "datePlay": "2023-07-22 11:42:56",
+            "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song003275_100x100.jpg"
+        },
+        "next": [
+            {
+                "id": "SONG022622",
+                "artist": "DAVID BOWIE",
+                "title": "Ashes To Ashes",
+                "album": "Scary Monsters",
+                "label": "Virgin",
+                "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song022622_100x100.jpg",
+                "datePlay": "2023-07-22 11:46:25"
+            },
+            {
+                "id": "SONG010590",
+                "artist": "FLASH & THE PAN",
+                "title": "Walking In The Rain",
+                "album": "Flash And The Pan",
+                "label": "Epic",
+                "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song010590_100x100.jpg",
+                "datePlay": "2023-07-22 11:50:41"
+            }
+        ],
+        "playlist": [
+            {
+                "id": "SONG010102",
+                "artist": "DON HENLEY",
+                "title": "Dirty Laundry",
+                "album": "I Can't Stand Still",
+                "label": "Warner",
+                "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song010102_100x100.jpg",
+                "datePlay": "2023-07-22 11:37:32"
+            },
+            {
+                "id": "SONG007390",
+                "artist": "LUCIO BATTISTI",
+                "title": "Perchè No",
+                "album": "Una Donna Per Amico",
+                "label": "Numero Uno",
+                "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song007390_100x100.jpg",
+                "datePlay": "2023-07-22 11:31:52"
+            },
+            {
+                "id": "SONG004062",
+                "artist": "HAROLD MELVIN & THE BLUE NOTES",
+                "title": "Wake Up Everybody",
+                "album": "Wake Up Everybody",
+                "label": "Philadelphia International",
+                "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song004062_100x100.jpg",
+                "datePlay": "2023-07-22 11:28:17"
+            },
+            {
+                "id": "SONG010611",
+                "artist": "PREMIATA FORNERIA MARCONI",
+                "title": "Impressioni Di Settembre",
+                "album": "Storia Di Un Minuto",
+                "label": "Rca",
+                "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song010611_100x100.jpg",
+                "datePlay": "2023-07-22 11:24:07"
+            },
+            {
+                "id": "SONG037472",
+                "artist": "REO SPEEDWAGON",
+                "title": "Keep On Loving You",
+                "album": "Hi Infidelity",
+                "label": "Epic",
+                "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song037472_100x100.jpg",
+                "datePlay": "2023-07-22 11:20:52"
+            }
+        ]
+    },
+    "active": "pri"
+}

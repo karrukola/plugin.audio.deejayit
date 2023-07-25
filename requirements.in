@@ -1,0 +1,19 @@
+Kodistubs
+requests
+
+
+# dev
+black
+commitizen
+isort
+mypy
+nox
+pre-commit
+pylint
+pytest
+pytest-html
+pytest-randomly
+requests-mock
+rich
+ruff
+types-requests

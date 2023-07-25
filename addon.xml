@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.deejayit" name="Deejay On Demand" version="0.0.1" provider-name="Filippo Carra">
+<addon id="plugin.audio.deejayit" name="Radio Deejay" version="0.0.8" provider-name="karrukola">
     <requires>
-        <import addon="xbmc.python" version="2.24.0"/>
-        <import addon="script.module.routing" version="0.2.0"/>
-        <import addon="script.module.simplejson" version="3.3.0"/>
+        <import addon="xbmc.python" version="3.0.1" />
+        <import addon="script.module.requests" version="2.31.0" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>audio</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Access Radio Deejay on-demand content.</summary>
-        <description lang="en_GB"></description>
-        <language></language>
+        <summary lang="en_GB">Radio Deejay</summary>
+        <description lang="en_GB">Kodi, like a deejay. Access reloaded and webradios content from deejay.it from your media player of choice. Radio DeeJay is an Italian radio station. It was founded on 1 February 1982 by the Italian radio and television personality Claudio Cecchetto and was acquired by the Gruppo Editoriale L'Espresso in 1989 (which also owns DeeJay TV, Repubblica Radio TV, m2o and Radio Capital).</description>
+        <disclaimer lang="en_GB">Unofficial, I'm just a fan.</disclaimer>
+        <summary lang="it">Deejay RELOADED</summary>
+        <description lang="it">Kodi, like a Deejay. Accedi ai reloaded e alle webradio di deejay.it dal tuo riproduttore multimediale preferito.
+        </description>
+        <disclaimer lang="it">Non ufficiale, sono solo un fan.</disclaimer>
+        <language>it</language> <!-- language of the content the add-on provides, omit if the add-on does not provide any content -->
         <platform>all</platform>
-        <license>unlicense</license>
-        <forum></forum>
-        <website>https://github.com/karrukola/plugin.audio.deejayit</website>
-        <email>karrukola@users.noreply.github.com</email>
-        <source>https://github.com/karrukola/plugin.audio.deejayit.git</source>
-        <news></news>
-        <disclaimer>Not official; I am just a fan.</disclaimer>
+        <license>GPL-2.0</license>
+        <forum>https://forum.kodi.tv/showthread.php?tid=xxxx</forum> <!-- may be omitted -->
+        <website>https://github.com/karrukola/plugin.audio.deejayit</website> <!-- URL of the website that supplies the content, or the website for your plugin; may be omitted. -->
+        <email>Filippo dot Carra at gMail dot com</email> <!-- may be omitted -->
+        <source>https://github.com/karrukola/plugin.audio.deejayit</source>
         <assets>
             <icon>resources/icon.png</icon>
             <fanart>resources/fanart.jpg</fanart>
+            <!--
+            <banner></banner> <!-- optional -->
+            <clearlogo>resources/clearlogo.png</clearlogo> <!-- optional -->
+            <screenshot></screenshot> <!-- optional, max. 10 -->
+            -->
         </assets>
-    </extension>
+  </extension>
 </addon>
