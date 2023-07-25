@@ -192,13 +192,20 @@ def _play_live_content(
             print(f">>>> metadata updated: {metadata.title} - {metadata.artist}")
 
             last_update = metadata.last_update
-            time_delta = datetime.fromisoformat(metadata.next_date) - datetime.now()
-            print(f">>>> next update: {metadata.next_date} <<<<<")
-            print(f">>>> about to sleep for {time_delta.seconds} seconds <<<<<")
+            now = datetime.now()
+            then = datetime.fromisoformat(metadata.next_date)
+            # FIXME: sometimes we still have a negative delta, not clear why
+            # this logic reacts to that situation
+            if then > now:
+                time_delta = then - now
+                print(f">>>> next update: {metadata.next_date} <<<<<")
+                print(f">>>> about to sleep for {time_delta.seconds} seconds <<<<<")
+                aborted = monitor.waitForAbort(time_delta.seconds + 3)
+            else:
+                aborted = monitor.waitForAbort(5)
 
-            aborted = monitor.waitForAbort(time_delta.seconds + 3)
         if aborted:
-            return  # exit
+            return  # exit directly, no point in breaking out of the loop
 
 
 def _play_content(
