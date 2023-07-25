@@ -205,22 +205,21 @@ def _play_content(
         {
             "fanart": fanart_url,
             "landscape": fanart_url,
-            "clearlogo": logo_url,
         }
     )
     xbmcplugin.setResolvedUrl(ADDON_HANDLE, True, listitem=item)
 
 
 def _build_main_page() -> None:
-    targets = (
-        "programmi",
-        "webradio",
-    )
-    for target in targets:
+    targets = {
+        "programmi": "Tutti i programmi",
+        "webradio": "Webradio",
+    }
+    for target, name in targets.items():
         xbmcplugin.addDirectoryItem(
             ADDON_HANDLE,
             _build_url({"mode": target}),
-            xbmcgui.ListItem(target.capitalize()),
+            xbmcgui.ListItem(name),
             isFolder=True,
         )
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
