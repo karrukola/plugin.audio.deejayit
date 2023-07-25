@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import sys
 from datetime import datetime
-from typing import Union
 from urllib.parse import parse_qs, urlencode
 
 import xbmc
@@ -190,10 +189,9 @@ def _play_live_content(
 
 def _play_content(
     url: str,
-    artist: Union[str | None] = None,
-    album: Union[str | None] = None,
-    fanart_url: Union[str | None] = None,
-    logo_url: Union[str | None] = None,
+    artist: str,
+    album: str,
+    fanart_url: str,
 ) -> None:
     item = xbmcgui.ListItem(path=url)
     item.setInfo(
@@ -253,17 +251,11 @@ def _main():
             args["metadata_url"][0],
         )
     elif mode[0] == "stream":
-        speakers = args.get("speakers", None)
-        fanart_url = args.get("fanart_url", None)
-        logo_url = args.get("logo_url", None)
-        album = args.get("album", None)
-
         _play_content(
             url=args["url"][0],
-            artist=speakers[0] if speakers is not None else None,
-            fanart_url=fanart_url[0] if fanart_url is not None else None,
-            album=album[0] if album is not None else None,
-            logo_url=logo_url[0] if logo_url is not None else None,
+            artist=args["speakers"][0],
+            album=args["album"][0],
+            fanart_url=args["fanart_url"][0],
         )
     else:
         raise ValueError("Unhandled mode %s" % (mode))
