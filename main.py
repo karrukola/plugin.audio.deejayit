@@ -33,6 +33,7 @@ def _build_webradios_page():
             {
                 "mode": "livestream",
                 "url": radio.content_url,
+                "webradio": radio.name,
                 "fanart_url": radio.fanart_url,
                 "logo_url": radio.logo_url,
                 "metadata_url": radio.metadata_url,
@@ -123,7 +124,7 @@ def _build_reloaded_page(show_id: int, page_nr: int, show_fanart_url: str) -> No
 
 
 def _play_live_content(
-    url: str, fanart_url: str, logo_url: str, metadata_url: str
+    url: str, webradio: str, fanart_url: str, logo_url: str, metadata_url: str
 ) -> None:
     """Play a live webradio.
 
@@ -155,16 +156,16 @@ def _play_live_content(
             "icon": logo_url,
         }
     )
+    item.setInfo("music", {"comment": webradio})
     xbmcplugin.setResolvedUrl(ADDON_HANDLE, True, listitem=item)
 
-    # as this
     player = xbmc.Player()  # assumption: this does not change over execution time
     monitor = xbmc.Monitor()  # from forum: use monitor.waitForAbort() iso sleep()
 
     # A small delay is needed for getPlayingItem() to return.
     # This is now set to 3 seconds to be conservative, the only thing it delays
     # is the update of the metadata for the currently playing webradio stream.
-    # FIXME: consider looping continuously through exception
+    # TODO: consider looping continuously through exception
     if monitor.waitForAbort(3):
         return
 
@@ -178,13 +179,21 @@ def _play_live_content(
             # this situation would occur. In this condition there is no point
             # to download and parse the metadata as well.
             return  # exit directly, no point in breaking out of the loop
+
+        tag = item.getMusicInfoTag()
+        print(f">>>> {tag.getComment()=}")
+        print(f">>>> {webradio=}")
+        if tag.getComment() != webradio:
+            # this means we changed the stream while waiting for the next moment
+            # to update the metadata
+            print(f">>>> we are not playing the {webradio} anymore, exiting...")
+            return
         metadata = DeejayIt.parse_webradio_metadata(metadata_url)
         if metadata.last_update == last_update:
             # metadata was not yet updated, just wait
             aborted = monitor.waitForAbort(5)
         else:
             # let's update the metadata
-            tag = item.getMusicInfoTag()
             tag.setTitle(metadata.title)
             tag.setArtist(metadata.artist)
             tag.setAlbum(metadata.album)
@@ -208,12 +217,7 @@ def _play_live_content(
             return  # exit directly, no point in breaking out of the loop
 
 
-def _play_content(
-    url: str,
-    artist: str,
-    album: str,
-    fanart_url: str,
-) -> None:
+def _play_content(url: str, artist: str, album: str, fanart_url: str) -> None:
     item = xbmcgui.ListItem(path=url)
     item.setInfo(
         "music",
@@ -266,6 +270,7 @@ def _main():
     elif mode[0] == "livestream":
         _play_live_content(
             args["url"][0],
+            args["webradio"][0],
             args["fanart_url"][0],
             args["logo_url"][0],
             args["metadata_url"][0],
