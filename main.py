@@ -45,6 +45,7 @@ def _build_webradios_page():
     # set the content of the directory
     xbmcplugin.setContent(ADDON_HANDLE, "songs")
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
 
 
 def _build_shows_page():
@@ -59,13 +60,14 @@ def _build_shows_page():
                 "show_id": show.id,
                 "page": 1,
                 "fanart_url": show.fanart_url,
-            }
+            },
         )
         li_list.append((url, item, True))
     xbmcplugin.addDirectoryItems(ADDON_HANDLE, li_list, len(li_list))
     # set the content of the directory
     xbmcplugin.setContent(ADDON_HANDLE, "songs")
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
 
 
 def _adjust_show_date(ddmmyyyy: str) -> str:
@@ -88,7 +90,7 @@ def _build_reloaded_page(show_id: int, page_nr: int, show_fanart_url: str) -> No
         fanart_url = epsd.fanart_url if epsd.fanart_url is not None else show_fanart_url
         item = xbmcgui.ListItem(epsd.title, epsd.desc, offscreen=True)
         item.setArt({"icon": epsd.logo_url, "fanart": fanart_url})
-        # TODO: item.setDateTime(_adjust_show_date(epsd.date))
+        item.setDateTime(_adjust_show_date(epsd.date))
 
         item.setInfo("music", {"comment": epsd.desc})
 
@@ -100,12 +102,14 @@ def _build_reloaded_page(show_id: int, page_nr: int, show_fanart_url: str) -> No
                 "speakers": epsd.speakers,
                 "album": epsd.program,
                 "fanart_url": fanart_url,
-            }
+            },
         )
         li_list.append((url, item, False))
     xbmcplugin.addDirectoryItems(ADDON_HANDLE, li_list, len(li_list))
 
     # next page
+    next_page_item = xbmcgui.ListItem(">>> Di più")
+    next_page_item.setDateTime("1982-02-01")  # cannot be earlier than then!
     xbmcplugin.addDirectoryItem(
         ADDON_HANDLE,
         _build_url(
@@ -113,14 +117,16 @@ def _build_reloaded_page(show_id: int, page_nr: int, show_fanart_url: str) -> No
                 "mode": "reloaded",
                 "show_id": show_id,
                 "page": int(page_nr) + 1,
-            }
+                "fanart_url": fanart_url,
+            },
         ),
-        xbmcgui.ListItem(">>> Di più"),
+        next_page_item,
         isFolder=True,
     )
-
     xbmcplugin.setContent(ADDON_HANDLE, "songs")
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
+
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_DATE)
 
 
 def _play_live_content(
