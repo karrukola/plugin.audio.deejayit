@@ -11,12 +11,12 @@ import xbmcplugin
 from resources.lib.deejayit import DeejayIt
 
 
-def _build_url(query):
+def _build_url(query: dict[str, str | int]) -> str:
     base_url = sys.argv[0]
     return base_url + "?" + urlencode(query)
 
 
-def _build_webradios_page():
+def _build_webradios_page() -> None:
     li_list = []
     radios = DeejayIt().get_radios()
     for radio in radios:
@@ -25,8 +25,8 @@ def _build_webradios_page():
             {
                 "icon": radio.logo_url,
                 "fanart": radio.fanart_url,
-                # TODO: consider icon
-            }
+                # TODO: @karrukola consider icon
+            },
         )
         item.setProperty("IsPlayable", "true")
         url = _build_url(
@@ -37,7 +37,7 @@ def _build_webradios_page():
                 "fanart_url": radio.fanart_url,
                 "logo_url": radio.logo_url,
                 "metadata_url": radio.metadata_url,
-            }
+            },
         )
         li_list.append((url, item, False))
 
@@ -48,7 +48,7 @@ def _build_webradios_page():
     xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
 
 
-def _build_shows_page():
+def _build_shows_page() -> None:
     li_list = []
     for show in DeejayIt().get_shows():
         item = xbmcgui.ListItem(label=show.name, label2=show.desc)
@@ -82,7 +82,7 @@ def _adjust_show_date(ddmmyyyy: str) -> str:
     return f"{year}-{month}-{day}"
 
 
-def _build_reloaded_page(show_id: int, page_nr: int, show_fanart_url: str) -> None:
+def _build_reloaded_page(show_id: str, page_nr: int, show_fanart_url: str) -> None:
     li_list = []
     for epsd in DeejayIt().get_show_episodes(show_id, page_nr):
         # not all episodes have pics associated to them, in such case we fall
@@ -130,7 +130,11 @@ def _build_reloaded_page(show_id: int, page_nr: int, show_fanart_url: str) -> No
 
 
 def _play_live_content(
-    url: str, webradio: str, fanart_url: str, logo_url: str, metadata_url: str
+    url: str,
+    webradio: str,
+    fanart_url: str,
+    logo_url: str,
+    metadata_url: str,
 ) -> None:
     """Play a live webradio.
 
@@ -160,7 +164,7 @@ def _play_live_content(
             "landscape": fanart_url,
             "clearlogo": logo_url,
             "icon": logo_url,
-        }
+        },
     )
     item.setInfo("music", {"comment": webradio})
     xbmcplugin.setResolvedUrl(ADDON_HANDLE, True, listitem=item)
@@ -171,7 +175,7 @@ def _play_live_content(
     # A small delay is needed for getPlayingItem() to return.
     # This is now set to 3 seconds to be conservative, the only thing it delays
     # is the update of the metadata for the currently playing webradio stream.
-    # TODO: consider looping continuously through exception
+    # TODO: @karrukola consider looping continuously through exception
     if monitor.waitForAbort(3):
         return
 
@@ -236,7 +240,7 @@ def _play_content(url: str, artist: str, album: str, fanart_url: str) -> None:
         {
             "fanart": fanart_url,
             "landscape": fanart_url,
-        }
+        },
     )
     xbmcplugin.setResolvedUrl(ADDON_HANDLE, True, listitem=item)
 
@@ -256,7 +260,7 @@ def _build_main_page() -> None:
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
 
 
-def _main():
+def _main() -> None:
     args = parse_qs(sys.argv[2][1:])
     mode = args.get("mode", None)
 
