@@ -17,6 +17,7 @@ def _build_url(query: dict[str, str | int]) -> str:
 
 
 def _build_webradios_page() -> None:
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
     li_list = []
     radios = DeejayIt().get_radios()
     for radio in radios:
@@ -45,10 +46,10 @@ def _build_webradios_page() -> None:
     # set the content of the directory
     xbmcplugin.setContent(ADDON_HANDLE, "songs")
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
-    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
 
 
 def _build_shows_page() -> None:
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
     li_list = []
     for show in DeejayIt().get_shows():
         item = xbmcgui.ListItem(label=show.name, label2=show.desc)
@@ -67,7 +68,6 @@ def _build_shows_page() -> None:
     # set the content of the directory
     xbmcplugin.setContent(ADDON_HANDLE, "songs")
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
-    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
 
 
 def _adjust_show_date(ddmmyyyy: str) -> str:
@@ -83,6 +83,8 @@ def _adjust_show_date(ddmmyyyy: str) -> str:
 
 
 def _build_reloaded_page(show_id: str, page_nr: int, show_fanart_url: str) -> None:
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_DATE)
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_UNSORTED)
     li_list = []
     for epsd in DeejayIt().get_show_episodes(show_id, page_nr):
         # not all episodes have pics associated to them, in such case we fall
@@ -125,8 +127,6 @@ def _build_reloaded_page(show_id: str, page_nr: int, show_fanart_url: str) -> No
     )
     xbmcplugin.setContent(ADDON_HANDLE, "songs")
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
-
-    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_DATE)
 
 
 def _play_live_content(
