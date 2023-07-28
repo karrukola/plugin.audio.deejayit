@@ -155,7 +155,11 @@ class DeejayIt:
             url = None
         return url
 
-    def get_show_episodes(self, show_id: int | str, page_nr: int) -> frozenset[Episode]:
+    def get_show_episodes(
+        self,
+        show_id: int | str,
+        page_nr: int | str,
+    ) -> frozenset[Episode]:
         """Return one page of the list of episodes for a show.
 
         As there are many episodes per show, we let the users go through the
@@ -171,7 +175,7 @@ class DeejayIt:
         :return: set of episodes
         :rtype: frozenset[Episode]
         """
-        eps_raw, _ = self._query_episodes(show_id, page_nr)
+        eps_raw, _ = self._query_episodes(show_id, int(page_nr))
         self.logger.debug(eps_raw)
 
         return frozenset(

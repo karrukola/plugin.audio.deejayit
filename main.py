@@ -82,7 +82,7 @@ def _adjust_show_date(ddmmyyyy: str) -> str:
     return f"{year}-{month}-{day}"
 
 
-def _build_reloaded_page(show_id: str, page_nr: int, show_fanart_url: str) -> None:
+def _build_reloaded_page(show_id: str, page_nr: str, show_fanart_url: str) -> None:
     xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_DATE)
     xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_UNSORTED)
     li_list = []
