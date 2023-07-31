@@ -1,6 +1,6 @@
 Kodistubs
 requests
-
+python-dateutil
 
 # dev
 black
@@ -16,4 +16,5 @@ pytest-randomly
 requests-mock
 rich
 ruff
+types-python-dateutil
 types-requests

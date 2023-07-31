@@ -7,6 +7,7 @@ from urllib.parse import parse_qs, urlencode
 import xbmc
 import xbmcgui
 import xbmcplugin
+from dateutil import parser, tz
 
 from resources.lib.deejayit import DeejayIt
 
@@ -211,8 +212,12 @@ def _play_live_content(
             print(f">>>> metadata updated: {metadata.title} - {metadata.artist}")
 
             last_update = metadata.last_update
-            now = datetime.now()
-            then = datetime.fromisoformat(metadata.next_date)
+            now = datetime.now(tz=tz.tzlocal())
+            then = parser.parse(
+                f"{metadata.next_date} IT",
+                tzinfos={"IT": tz.gettz("Europe/Rome")},
+            )
+
             # FIXME: sometimes we still have a negative delta, not clear why
             # this logic reacts to that situation
             if then > now:

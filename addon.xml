@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.deejayit" name="Radio Deejay" version="0.0.8" provider-name="karrukola">
+<addon id="plugin.audio.deejayit" name="Radio Deejay" version="0.0.13" provider-name="karrukola">
     <requires>
         <import addon="xbmc.python" version="3.0.1" />
         <import addon="script.module.requests" version="2.31.0" />
+        <import addon="script.module.dateutil" version="2.8.2" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>audio</provides>
