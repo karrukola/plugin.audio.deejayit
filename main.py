@@ -197,7 +197,7 @@ def _play_live_content(
         if tag.getComment() != webradio:
             # this means we changed the stream while waiting for the next moment
             # to update the metadata
-            print(f">>>> we are not playing the {webradio} anymore, exiting...")
+            print(f">>>> we are not playing {webradio} anymore, exiting...")
             return
         metadata = DeejayIt.parse_webradio_metadata(metadata_url)
         if metadata.last_update == last_update:
