@@ -168,7 +168,7 @@ def _play_live_content(
         },
     )
     item.setInfo("music", {"comment": webradio})
-    xbmcplugin.setResolvedUrl(ADDON_HANDLE, True, listitem=item)
+    xbmcplugin.setResolvedUrl(ADDON_HANDLE, succeeded=True, listitem=item)
 
     player = xbmc.Player()  # assumption: this does not change over execution time
     monitor = xbmc.Monitor()  # from forum: use monitor.waitForAbort() iso sleep()
@@ -247,7 +247,8 @@ def _play_content(url: str, artist: str, album: str, fanart_url: str) -> None:
             "landscape": fanart_url,
         },
     )
-    xbmcplugin.setResolvedUrl(ADDON_HANDLE, True, listitem=item)
+
+    xbmcplugin.setResolvedUrl(ADDON_HANDLE, succeeded=True, listitem=item)
 
 
 def _build_main_page() -> None:
