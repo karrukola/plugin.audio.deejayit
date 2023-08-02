@@ -1,3 +1,7 @@
+"""Main application for Kodi's audio plugin to consume Radio Deejay.
+
+:raises ValueError: when an unexpected mode is read.
+"""
 from __future__ import annotations
 
 import sys
@@ -299,7 +303,8 @@ def _main() -> None:
             fanart_url=args["fanart_url"][0],
         )
     else:
-        raise ValueError("Unhandled mode %s" % (mode))
+        msg = f"Unhandled mode: {mode}"
+        raise ValueError(msg)
 
 
 if __name__ == "__main__":
