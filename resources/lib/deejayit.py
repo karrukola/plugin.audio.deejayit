@@ -219,28 +219,3 @@ class DeejayIt:
             out["now"]["coverUrl"].strip(),
             out["next"][0]["datePlay"].strip(),
         )
-
-
-def _main() -> int:
-    try:
-        # just making pretty prints on PC
-        from rich import print
-    except ImportError:
-        pass
-
-    deejay = DeejayIt()
-
-    # radios = deejay.get_radios()
-    # print(radios)
-
-    shows = deejay.get_shows()
-    print(shows)
-
-    # eps = deejay.get_show_episodes(15, 1)  # 15 = Cordialmente
-    # print(eps)
-
-    return 0
-
-
-if __name__ == "__main__":
-    raise SystemExit(_main())
