@@ -5,6 +5,7 @@ python-dateutil
 # dev
 black
 commitizen
+coverage
 isort
 mypy
 nox
