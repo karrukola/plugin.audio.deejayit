@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "id": 256049,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/01\/",
+            "title": "Deejay 80",
+            "content": "Il meglio della musica anni '80",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejay80\/playlist.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejay80\/playlist.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejay80.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-01\/2502\/2504",
+            "isFeatured": "0",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 01 (2502-2504)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-1200x627.jpg",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-800x418.jpg",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-640x334.jpg",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-320x167.jpg",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801.jpg",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-800x800.jpg",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-640x640.jpg",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-320x320.jpg",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-160x160.jpg",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-1200x675.jpg",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-800x450.jpg",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_801-640x360.jpg"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2017\/07\/deejay_80.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Deejay 80",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        },
+        {
+            "id": 256051,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/02\/",
+            "title": "Deejay Time",
+            "content": "La musica del programma cult di Albertino.",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaytime\/playlist.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaytime\/playlist.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejaytime.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-02\/2493\/2495",
+            "isFeatured": "0",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 02 (2493-2495)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-1200x627.jpg",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-800x418.jpg",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-640x334.jpg",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-320x167.jpg",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time.jpg",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-800x800.jpg",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-640x640.jpg",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-320x320.jpg",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-160x160.jpg",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-1200x675.jpg",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-800x450.jpg",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_time-640x360.jpg"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_time.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Deejay Time",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        },
+        {
+            "id": 256052,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/03\/",
+            "title": "Deejay Tropical Pizza",
+            "content": "Rock e suoni eclettici selezionati da Nikki.",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaytropicalpizza\/playlist.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaytropicalpizza\/playlist.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejaytropicalpizza.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-03\/2494\/2496",
+            "isFeatured": "0",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 03 (2494-2496)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-1200x627.jpg",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-800x418.jpg",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-640x334.jpg",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-320x167.jpg",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza.jpg",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-800x800.jpg",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-640x640.jpg",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-320x320.jpg",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-160x160.jpg",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-1200x675.jpg",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-800x450.jpg",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/tropical_pizza-640x360.jpg"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_tropical.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Deejay Tropical Pizza",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        },
+        {
+            "id": 256053,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/04\/",
+            "title": "Deejay One Two One Two",
+            "content": "La webradio trap, rap e hip hop.",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejayonetwoonetwo\/playlist.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejayonetwoonetwo\/playlist.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejayonetwoonetwo.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-04\/2495\/2497",
+            "isFeatured": "0",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 04 (2495-2497)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-1200x627.jpg",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-800x418.jpg",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-640x334.jpg",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-320x167.jpg",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad.jpg",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-800x800.jpg",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-640x640.jpg",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-320x320.jpg",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-160x160.jpg",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-1200x675.jpg",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-800x450.jpg",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/say_wad-640x360.jpg"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_one_two.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Deejay One Two One Two",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        },
+        {
+            "id": 256054,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/05\/",
+            "title": "Radio Linetti",
+            "content": "La pi\u00f9 bella musica radiofonica scelta da Linus.",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaywfmlinus\/playlist.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaywfmlinus\/playlist.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejaywfmlinus.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-05\/2496\/2498",
+            "isFeatured": "0",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 05 (2496-2498)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-1200x627.jpg",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-800x418.jpg",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-640x334.jpg",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-320x167.jpg",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1.jpg",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-800x800.jpg",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-640x640.jpg",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-320x320.jpg",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-160x160.jpg",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-1200x675.jpg",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-800x450.jpg",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/webradio_linus1-640x360.jpg"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/linetti.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Radio Linetti",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        },
+        {
+            "id": 256055,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/06\/",
+            "title": "Deejay 30 Songs",
+            "content": "I 30 brani pi\u00f9 programmati da Radio DEEJAY.",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/radiodeejay30songs\/radiodeejay30songs\/master_ma.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/radiodeejay30songs\/radiodeejay30songs\/master_ma.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejay30songs.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-06\/2497\/2499",
+            "isFeatured": "0",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 06 (2497-2499)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-1200x627.jpg",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-800x418.jpg",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-640x334.jpg",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-320x167.jpg",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song.jpg",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-800x800.jpg",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-640x640.jpg",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-320x320.jpg",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-160x160.jpg",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-1200x675.jpg",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-800x450.jpg",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/30_song-640x360.jpg"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_30_songs.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Deejay 30 Songs",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        },
+        {
+            "id": 256056,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/07\/",
+            "title": "Deejay Suona Italia",
+            "content": "La musica italiana in stile DEEJAY.",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaysuonaitalia\/playlist.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaysuonaitalia\/playlist.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejaysuonaitalia.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-07\/2498\/2500",
+            "isFeatured": "0",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 07 (2498-2500)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_suona_italia.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Deejay Suona Italia",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        },
+        {
+            "id": 256058,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/08\/",
+            "title": "Deejay Gasolina",
+            "content": "La musica latina in stile DEEJAY.",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaygasolina\/playlist.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejaygasolina\/playlist.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejaygasolina.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-08\/2499\/2501",
+            "isFeatured": "0",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 08 (2499-2501)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-1200x627.jpg",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-800x418.jpg",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-640x334.jpg",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-320x167.jpg",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina.jpg",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-800x800.jpg",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-640x640.jpg",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-320x320.jpg",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-160x160.jpg",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-1200x675.jpg",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-800x450.jpg",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/gasolina-640x360.jpg"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/03\/webradio_deejay_gasolina.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Deejay Gasolina",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        },
+        {
+            "id": 256059,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/09\/",
+            "title": "Deejay On The Road",
+            "content": "La musica da viaggio",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejayontheroad\/playlist.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejayontheroad\/playlist.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejayontheroad.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-09\/2500\/2502",
+            "isFeatured": "0",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 09 (2500-2502)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-1200x627.jpg",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-800x418.jpg",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-640x334.jpg",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-320x167.jpg",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road.jpg",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-800x800.jpg",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-640x640.jpg",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-320x320.jpg",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-160x160.jpg",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-1200x675.jpg",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-800x450.jpg",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/04\/deejay_on_the_road-640x360.jpg"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2015\/05\/webradio_deejay_on_the_road.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Deejay On The Road",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        },
+        {
+            "id": 256061,
+            "permalink": "https:\/\/www.deejay.it\/webradio\/10\/",
+            "title": "Deejay One Love",
+            "content": "La webradio dell'amore",
+            "streamingUrlHDS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejayonelove\/playlist.m3u8",
+            "streamingUrlHLS": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/deejayonelove\/playlist.m3u8",
+            "metadataUrl": "https:\/\/4c4b867c89244861ac216426883d1ad0.msvdn.net\/webradio\/metadata\/deejayonelove.json",
+            "iFrameUrl": "https:\/\/video.deejay.it\/embed\/copertina\/webradio-10\/2501\/2503",
+            "isFeatured": "1",
+            "status": "on",
+            "webtrekkData": {
+                "wtTitle": "[DEE_DEE] WEBRADIO - 10 (2501-2503)",
+                "wtTree": {
+                    "videolivello1": "deejay",
+                    "videolivello2": "deejay - deejay",
+                    "videolivello3": "deejay - deejay - copertina"
+                }
+            },
+            "appImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png"
+                }
+            },
+            "featuredImage": {
+                "sizes": {
+                    "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love-320x167.png",
+                    "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love-320x320.png",
+                    "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love-160x160.png",
+                    "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png",
+                    "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2016\/02\/webradio_deejay_one_love.png"
+                }
+            },
+            "ga": {
+                "video_VideoLivello1": "Radio Deejay",
+                "video_VideoLivello2": "webradio",
+                "video_VideoLivello3": "Deejay One Love",
+                "video_VideoLivello4": "n\/d",
+                "video_VideoLivello5": "live",
+                "video_VideoLivello6": "n\/d"
+            }
+        }
+    ]
+}
