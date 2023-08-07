@@ -1,0 +1,716 @@
+{
+    "count": 30,
+    "results": [
+        {
+            "id": 5165,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Prisco_Cover-1200x627-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 339520,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/339520",
+                    "start": "2022-09-05",
+                    "end": "2023-07-30"
+                }
+            ],
+            "genres": [
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Deejay 6 Tu Weekend",
+            "description": "Deejay 6 Tu Weekend \u00e8 in onda il sabato e la domenica dalle 6 alle 7 con Alessandro Prisco.",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7363315",
+            "url": "https:\/\/www.deejay.it\/programmi\/deejay-6-tu-weekend\/"
+        },
+        {
+            "id": 7042,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/gazzoli-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 349954,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/349954",
+                    "start": "2023-01-09",
+                    "end": "2023-09-03"
+                }
+            ],
+            "genres": [
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "GG Show",
+            "description": "\"Uno\u00a0show che fa ridere ma anche riflettere\" tutti i weekend dalle 14.00 alle 16.00 con Gianluca Gazzoli.",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:11061183",
+            "url": "https:\/\/www.deejay.it\/programmi\/gg-show\/"
+        },
+        {
+            "id": 6915,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627-.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627-.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/Guido-Bagatta-2-Cover-1200x627--800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 339523,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/339523",
+                    "start": "2022-09-05",
+                    "end": "2023-07-30"
+                }
+            ],
+            "genres": [],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "GiBi Show",
+            "description": "Fari puntati sull'attualit\u00e0, sullo sport, sul cinema e sugli eventi: nel pomeriggio del weekend Guido Bagatta sapr\u00e0 raccontare curiosit\u00e0 e dettagli di tutto quanto fa spettacolo.",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:10265795",
+            "url": "https:\/\/www.deejay.it\/programmi\/gibi-show\/"
+        },
+        {
+            "id": 5083,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/12\/rudy-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 363331,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/363331",
+                    "start": "2023-07-03",
+                    "end": "2023-09-03"
+                }
+            ],
+            "genres": [],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Rudy Zerbi",
+            "description": "Rudy Zerbi per tutto il mese di agosto \u00e8 in diretta da Riccone dalle 10 alle 13",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:8446972",
+            "url": "https:\/\/www.deejay.it\/programmi\/rudy-zerbi\/"
+        },
+        {
+            "id": 5082,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/07\/i-vitiello-COVER-1200x627px-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 347064,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/347064",
+                    "start": "2023-01-02",
+                    "end": "2023-09-03"
+                }
+            ],
+            "genres": [],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "I Vitiello",
+            "description": "",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7363946",
+            "url": "https:\/\/www.deejay.it\/programmi\/i-vitiello\/"
+        },
+        {
+            "id": 8,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/AnimalHouse_Cover-1200x627-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 339528,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/339528",
+                    "start": "2022-09-05",
+                    "end": "2023-07-30"
+                }
+            ],
+            "genres": [
+                "Salute e Benessere"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Animal House",
+            "description": "Animal House con Paolo Menegatti e Dunia Rahwan \u00e8 l\u2019appuntamento domenicale che Radio DEEJAY dedica al mondo degli animali. Protagonisti\u2026 cani, gatti, pesci rossi, conigli, criceti.. insomma tutti gli animali che vengono chiamati \u2018d\u2019affezione\u2019 e che vivono nelle nostre case. Ma non solo.\r\n\r\nDi puntata in puntata si cerca anche di dare informazioni su grandi predatori, animali marini e animali selvatici. Ma anche su milioni di animaletti che non vediamo e fanno parte della nostra vita, come gli insetti o la microfauna. Si coinvolgono gli ascoltatori che raccontano le loro \u2018esperienze animalesche\u2019 e li si incuriosiscono attraverso aneddotti e notizie divertenti sul mondo animale raccontate con ironia e leggerezza.\r\n\r\nL\u2019intento \u00e8 quello di provare a conoscere un po\u2019 meglio tutto il mondo animale, gli habitat e i comportamenti che noi esseri umani dobbiamo osservare anche in funzione a una pi\u00f9 rispettosa, serena e felice convivenza.\r\n\r\nCon l\u2019aiuto di esperti come istruttori, veterinari, studiosi e ricercatori saranno affrontate le tematiche che comportano il relazionarsi con un animale dando consigli su come vivere al meglio la meravigliosa esperienza che \u00e8 condividere la propria vita con uno o pi\u00f9 pets.",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7361673",
+            "url": "https:\/\/www.deejay.it\/programmi\/animal-house\/"
+        },
+        {
+            "id": 5107,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/NightCall_Cover-1200x627-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 337136,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/337136",
+                    "start": "2022-06-27",
+                    "end": "2023-09-03"
+                }
+            ],
+            "genres": [],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Chicco Giuliani",
+            "description": "",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7362826",
+            "url": "https:\/\/www.deejay.it\/programmi\/chicco-giuliani\/"
+        },
+        {
+            "id": 5438,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739.png",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-1200x627.png",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739.png",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-320x167.png",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-640x360.png",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-640x627.png",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-800x418.png",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-160x160.png",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-1200x627.png",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-640x334.png",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-320x320.png",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-800x450.png",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/Claudia-Cassani-1200-x-62739-800x627.png"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 349950,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/349950",
+                    "start": "2023-01-09",
+                    "end": "2023-08-27"
+                }
+            ],
+            "genres": [
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Megajay",
+            "description": "Il magazine di Radio DEEJAY condotto da Claudia Cassani. Con lei ogni settimana gli speaker della radio con i temi pi\u00f9 discussi della settimana.",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7364354",
+            "url": "https:\/\/www.deejay.it\/programmi\/megajay\/"
+        },
+        {
+            "id": 15,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/12\/cordialmente-4-stagioni-1200x627-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 363066,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/363066",
+                    "start": "2023-07-01",
+                    "end": "2023-12-31"
+                }
+            ],
+            "genres": [
+                "Comedy"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Cordialmente 4 Stagioni",
+            "description": "Cordialmente con Linus e gli Elio e le Storie Tese torna per quattro puntate all'anno: una per stagione\r\n\r\n2022\r\n\r\nInverno 28 febbraio\r\n\r\nPrimavera 23 maggio\r\n\r\nEstate 19 settembre\r\n\r\nAutunno 21 novembre\r\n\r\n&nbsp;\r\n\r\n2023\r\n\r\n&nbsp;\r\n\r\nInverno 6 marzo <a href=\"https:\/\/www.deejay.it\/programmi\/cordialmente\/puntate\/cordialmente-4-stagioni-del-06-03-2023\/\">ascolta qui<\/a>\r\n\r\nPrimavera\u00a0 22 maggio <a href=\"https:\/\/www.deejay.it\/programmi\/cordialmente\/puntate\/cordialmente-4-stagioni-del-22-05-2023\/\">ascolta qui\u00a0<\/a>\r\n\r\nEstate 24 luglio",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7362932",
+            "url": "https:\/\/www.deejay.it\/programmi\/cordialmente\/"
+        },
+        {
+            "id": 25,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2021\/11\/djtrainingcenter-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 341658,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/341658",
+                    "start": "2022-09-26",
+                    "end": "2023-07-30"
+                }
+            ],
+            "genres": [
+                "Sport"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Deejay Training Center",
+            "description": "Linus, Elena Casiraghi, Davide Cassani, Stefano Baldini, Herv\u00e9 Barmasse, Daniel Fontana e Alessandra Patitucci parlano di allenamento, preparazione, integrazione, alimentazione, gare e tante altre cose che girano attorno alla vita degli sportivi. Con particolare attenzione agli sport di fatica e alle ricerche scientifiche grazie alla collaborazione con Enervit, sponsor del programma.",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7363777",
+            "url": "https:\/\/www.deejay.it\/programmi\/deejay-training-center\/"
+        },
+        {
+            "id": 24,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/ALBERTINO1-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 339519,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/339519",
+                    "start": "2022-09-05",
+                    "end": "2023-07-02"
+                }
+            ],
+            "genres": [
+                "Musica"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Deejay Parade",
+            "description": "Lo storico programma di Albertino e Mario Fargetta: Deejay Parade. Un grande regalo per tutti gli appassionati di musica dance in onda ogni sabato alle 23. Da non perdere!\r\n\r\n<a href=\"https:\/\/www.deejay.it\/classifiche\/deejay-parade\/\" target=\"_blank\" rel=\"noopener\">Sfoglia la classifica della settimana<\/a>",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7363715",
+            "url": "https:\/\/www.deejay.it\/programmi\/deejay-parade\/"
+        },
+        {
+            "id": 97,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/deejay-time-1200-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 339518,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/339518",
+                    "start": "2022-09-05",
+                    "end": "2023-07-30"
+                }
+            ],
+            "genres": [
+                "Musica"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Deejay Time",
+            "description": "Il programma dance che ha fatto la storia di Radio DEEJAY \u00e8 in onda ogni sabato alle 22 con Albertino, Fargetta, Molella e Prezioso.",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7363758",
+            "url": "https:\/\/www.deejay.it\/programmi\/deejay-time\/"
+        },
+        {
+            "id": 4905,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2019\/06\/IL-BOSS-DEL-WEEKEND-1200-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 339536,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/339536",
+                    "start": "2022-09-05",
+                    "end": "2023-07-30"
+                }
+            ],
+            "genres": [
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Il Boss Del Weekend",
+            "description": "Il programma che segna il ritorno dopo 20 anni di Daniele Bossari su Radio DEEJAY. In onda ogni domenica dalle 22 a mezzanotte con ospiti e approfondimenti",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7364015",
+            "url": "https:\/\/www.deejay.it\/programmi\/il-boss-del-weekend\/"
+        },
+        {
+            "id": 35,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200.jpg",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-1200x627.jpg",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200.jpg",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-320x167.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-640x360.jpg",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-640x627.jpg",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-800x418.jpg",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-160x160.jpg",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-1200x627.jpg",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-640x334.jpg",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-320x320.jpg",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-800x450.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2018\/09\/LA-BOMBA-GASTEL-1200-800x627.jpg"
+            },
+            "cover_app_images": null,
+            "program_seasons": [
+                {
+                    "id": 341655,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/341655",
+                    "start": "2022-09-26",
+                    "end": "2023-06-30"
+                }
+            ],
+            "genres": [
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "La Bomba",
+            "description": "Luciana Littizzetto e il Vic in diretta ogni sabato dalle 10.00 alle 12.00 su Radio DEEJAY.",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7364275",
+            "url": "https:\/\/www.deejay.it\/programmi\/la-bomba\/"
+        },
+        {
+            "id": 41,
+            "content_type": "Program",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta.png",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-1200x627.png",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta.png",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-320x167.png",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-640x360.png",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-640x627.png",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-800x418.png",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-160x160.png",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-1200x627.png",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-640x334.png",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-320x320.png",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-800x450.png",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-800x627.png"
+            },
+            "cover_app_images": {
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta.png",
+                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-1200x627.png",
+                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta.png",
+                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-320x167.png",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-640x360.png",
+                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-640x627.png",
+                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-800x418.png",
+                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-160x160.png",
+                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-1200x627.png",
+                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-640x334.png",
+                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-320x320.png",
+                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-800x450.png",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/Miclini_Cover-1200x627-alta-800x627.png"
+            },
+            "program_seasons": [
+                {
+                    "id": 339527,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/339527",
+                    "start": "2022-09-05",
+                    "end": "2023-09-03"
+                }
+            ],
+            "genres": [
+                "Musica"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Sunday Morning",
+            "description": "La musica\u00a0di Radio DEEJAY nella notte tra sabato e domenica scelta da Mauro Miclini.",
+            "short_app_description": "",
+            "image": null,
+            "id_ext": "espresso:mhub:7365182",
+            "url": "https:\/\/www.deejay.it\/programmi\/sunday-morning\/"
+        }
+    ]
+}
