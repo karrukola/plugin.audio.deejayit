@@ -1,4 +1,4 @@
-"""Test suite to verify get_show_episodes() functionality."""
+"""Test suite to verify get_radios() functionality."""
 from pathlib import Path
 
 import pytest
@@ -17,7 +17,7 @@ def test_get_webradios(requests_mock):
     Asserts on Radio Linetti.
 
     :param requests_mock: mocker for requests
-    :type requests_mock: mocked request_
+    :type requests_mock: mocked request
     """
     mock_answer = Path(__file__).parent / "webradios.json"
     requests_mock.get(GET_RADIOS_URL, text=mock_answer.read_text())
