@@ -75,6 +75,78 @@ def _build_shows_page() -> None:
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
 
 
+def _build_podcasts_page() -> None:
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
+    li_list = []
+    for show in DeejayIt().get_podcasts():
+        item = xbmcgui.ListItem(label=show.name, label2=show.desc)
+        item.setProperty("IsPlayable", "false")
+        item.setArt({"icon": show.logo_url, "fanart": show.fanart_url})
+        url = _build_url(
+            {
+                "mode": "podcast_season",
+                "show_id": show.id,
+                "page": 1,
+                "fanart_url": show.fanart_url,
+            },
+        )
+        li_list.append((url, item, True))
+    xbmcplugin.addDirectoryItems(ADDON_HANDLE, li_list, len(li_list))
+    # set the content of the directory
+    xbmcplugin.setContent(ADDON_HANDLE, "songs")
+    xbmcplugin.endOfDirectory(ADDON_HANDLE)
+
+
+def _build_podcast_season_page(season_id: str, page_nr: str, fanart_url: str) -> None:
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_DATE)
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_UNSORTED)
+    li_list = []
+    for epsd in DeejayIt().get_podcast_season_episodes(season_id, page_nr):
+        # not all episodes have pics associated to them, in such case we fall
+        # back to the show one
+        fanart_url = epsd.fanart_url if epsd.fanart_url is not None else fanart_url
+        item = xbmcgui.ListItem(epsd.title, epsd.desc, offscreen=True)
+        item.setArt({"icon": epsd.logo_url, "fanart": fanart_url})
+        item.setDateTime(_adjust_show_date(epsd.date))
+
+        item.setInfo("music", {"comment": epsd.desc})
+
+        item.setProperty("IsPlayable", "true")
+        url = _build_url(
+            {
+                "mode": "stream",
+                "url": epsd.content_url,
+                "speakers": epsd.speakers,
+                "album": epsd.program,
+                "fanart_url": fanart_url,
+            },
+        )
+        li_list.append((url, item, False))
+
+    # next page
+    next_page_item = xbmcgui.ListItem(">>> Di più")
+    next_page_item.setDateTime("1982-02-01")  # cannot be earlier than then!
+    xbmcplugin.addDirectoryItem(
+        ADDON_HANDLE,
+        _build_url(
+            {
+                "mode": "podcast_season",
+                "show_id": season_id,
+                "page": int(page_nr) + 1,
+                "fanart_url": fanart_url,
+            },
+        ),
+        next_page_item,
+        isFolder=True,
+    )
+
+    # and close
+    xbmcplugin.addDirectoryItems(ADDON_HANDLE, li_list, len(li_list))
+    xbmcplugin.setContent(ADDON_HANDLE, "songs")
+    xbmcplugin.endOfDirectory(ADDON_HANDLE)
+
+
 def _adjust_show_date(ddmmyyyy: str) -> str:
     """Transform date from dd/mm/yyyy to yyyy-mm-dd format.
 
@@ -259,6 +331,7 @@ def _build_main_page() -> None:
     targets = {
         "programmi": "Tutti i programmi",
         "webradio": "Webradio",
+        "podcasts": "Podcasts",
     }
     for target, name in targets.items():
         xbmcplugin.addDirectoryItem(
@@ -281,8 +354,16 @@ def _main() -> None:
         _build_webradios_page()
     elif mode[0] == "programmi":
         _build_shows_page()
+    elif mode[0] == "podcasts":
+        _build_podcasts_page()
     elif mode[0] == "reloaded":
         _build_reloaded_page(
+            args["show_id"][0],
+            args["page"][0],
+            args["fanart_url"][0],
+        )
+    elif mode[0] == "podcast_season":
+        _build_podcast_season_page(
             args["show_id"][0],
             args["page"][0],
             args["fanart_url"][0],

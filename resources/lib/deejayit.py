@@ -81,6 +81,29 @@ class DeejayIt:
 
         return results
 
+    def _query_podcasts(self) -> list[JsonType]:
+        results = []
+        residual = 1
+        idx = 1
+        while residual > 0 and idx < _ITER_LIMIT:  # idx is a safety measure
+            # https://www.deejay.it/api/pub/v2/all/mhub/series?brand_id=deejay&page=1&pagination_rows=15&sort=desc
+            out = self._get_request(
+                "series",
+                params={
+                    "brand_id": "deejay",
+                    "page": idx,
+                    "pagination_rows": 15,
+                    "sort": "desc",
+                },
+            )
+            for prog in out.json()["results"]:
+                results.append(prog)  # noqa: PERF402
+
+            residual = out.json()["count"] - len(results)
+            idx += 1
+
+        return results
+
     def _query_episodes(
         self,
         show_id: int | str,
@@ -218,4 +241,82 @@ class DeejayIt:
             album,
             out["now"]["coverUrl"].strip(),
             out["next"][0]["datePlay"].strip(),
+        )
+
+    def get_podcasts(self) -> frozenset[Show]:
+        """Get the whole list of podcasts.
+
+        Results are paginated by 15, to get the whole list more than 1 request
+        is made.
+
+        :raises ValueError: when a podcast with more than 1 season is found.
+        :return: set of podcast shows.
+        :rtype: frozenset[Show]
+        """
+        shows_raw = self._query_podcasts()
+
+        # TODO: consider moving the following to an integration test.
+        # comprehension filters only when nr of seasons is 1.
+        for show in shows_raw:
+            if not show["published_on"]:
+                continue
+            nr_seasons = len(show["serie_seasons"])
+            if nr_seasons != 1:
+                msg = f'{show["name"]} has {nr_seasons}'
+                raise ValueError(msg)
+
+        return frozenset(
+            Show(
+                show["name"],
+                show["serie_seasons"][0]["id"],
+                show["description"],
+                show["images"]["size_480x320"],
+                show["image"],
+            )
+            for show in shows_raw
+            # there is at least one show which has not been published anywhere
+            # it is about Christmas songs, and its metadata is all messed up;
+            # so let us ignore it, without filtering on which platfrm the
+            # podcast was published.
+            if show["published_on"] and len(show["serie_seasons"]) == 1
+        )
+
+    def get_podcast_season_episodes(
+        self,
+        season_id: int | str,
+        page_nr: int | str,
+    ) -> frozenset[Episode]:
+        """Get episodes of a given podcast season.
+
+        Podcast episodes are paginated by 10; page_nr must be passed.
+
+        :param season_id: season identifier
+        :type season_id: int | str
+        :param page_nr: to go through pagination
+        :type page_nr: int | str
+        :return: set of episodes
+        :rtype: frozenset[Episode]
+        """
+        # https://www.deejay.it/api/pub/v2/all/mhub/audios?season_id=6658&page=1&sort=desc
+
+        eps_raw = self._get_request(
+            "audios",
+            params={
+                "season_id": season_id,
+                "page": page_nr,
+                "sort": "desc",
+            },
+        ).json()["results"]
+        return frozenset(
+            Episode(
+                ep["name"],
+                ep["description"],
+                ep["hls_url"] if ep["hls_url"] is not None else ep["mp3_url"],
+                ep["images"]["size_320x320"],
+                ep["images"]["size_1200x675"],
+                ep["datePublished"],
+                " e ".join(speaker["name"] for speaker in ep["speakers"]),
+                ep["serie"]["name"],
+            )
+            for ep in eps_raw
         )

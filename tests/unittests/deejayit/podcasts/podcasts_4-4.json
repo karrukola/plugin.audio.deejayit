@@ -1,0 +1,148 @@
+{
+    "count": 46,
+    "results": [
+        {
+            "id": 6532,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6533,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6533"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/1400x1400-AmoreNonEAmare2023.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/1400x1400-AmoreNonEAmare2023-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/1400x1400-AmoreNonEAmare2023.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/1400x1400-AmoreNonEAmare2023.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/1400x1400-AmoreNonEAmare2023-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/1400x1400-AmoreNonEAmare2023.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/1400x1400-AmoreNonEAmare2023.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/1400x1400-AmoreNonEAmare2023.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/800x1200-AmoreNonEAmare2023.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/800x1200-AmoreNonEAmare2023-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/800x1200-AmoreNonEAmare2023.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/800x1200-AmoreNonEAmare2023.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/800x1200-AmoreNonEAmare2023-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/800x1200-AmoreNonEAmare2023.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/800x1200-AmoreNonEAmare2023.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/800x1200-AmoreNonEAmare2023.jpg"
+            },
+            "genres": [
+                "Salute e Benessere"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Amore non \u00e8 Amare",
+            "description": "Sembra un gioco di parole ma non \u00e8: provare amore non significa necessariamente essere capaci di amare. Nicola e Gianluca Vitiello partono per un viaggio alla scoperta dei diversi modi di vivere una relazione. Meglio seguire il cuore o il cervello? Perch\u00e9 le nostre relazioni seguono sempre lo stesso copione? Come riconoscere un narcisista? Si pu\u00f2 essere amore-dipendenti? Una relazione turbolenta \u00e8 segno di un amore pi\u00f9 forte? Cos \u00e8 il gaslighting? A rispondere alle mille domande dei due storici speaker della notte di Radio Deejay \u00e8 la dottoressa Ombretta Cecchini, psicoterapeuta esperta di relazioni e autrice del libro \u201cIl sesto senso. Riconosci le persone che potrebbero complicarti la vita e impara a difenderti\u201d (Alise Editore).",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/02\/1400x1400-AmoreNonEAmare2023.jpg",
+            "id_ext": "espresso:mhub:7443611",
+            "speakers": [
+                {
+                    "id": 84,
+                    "name": "Nicola Vitiello",
+                    "description": "300 Premi Fedelt\u00e0 vinti!!! Sar\u00e0 stato questo a fare letteralmente innamorare Nicola di Radio Deejay?\r\n\r\nE' iniziata proprio in questo modo, a 15 anni, la sua avventura radiofonica: da ascoltatore attivo!\r\nNicola vive di radio da un bel po\u2019 di tempo. Pur di gravitare nel mondo Deejay, Nicola scelto da Claudio Cecchetto, nel 1992 inizia come giornalista a Radio Capital, (\u00e8 pubblicista dal 1995) dove scrive, legge i notiziari e collabora in redazione ai programmi di Amadeus e Luca Laurenti, Fiorello, Beppe Fiorello, Giorgio Mastrota, Gabriella Golia.\r\n\r\nEd \u00e8 proprio a Radio Capital che conosce Digei Angelo e Nicola Savino con i quali inizia un lavoro che l\u2019ha fatto crescere professionalmente. Infatti, qualche anno dopo, nel 1997, arriva a Radio Deejay, diretta da Linus, nella squadra di \"Ciao Belli\" al quale presta la sua voce e collabora all'ideazione dei testi e dei personaggi. Nicola ha interpretato, tra gli altri, Gianni Nespolo, il colorito ed esplicito venditore di auto della concessionaria \"AUTONESPOLO\" e il maggiordomo Vito Pastello.\r\n\r\nDal 2001 iniziano per lui le sveglie prima dell'alba per \"6Sveglio\", programma del quale \u00e8 stato autore e conduttore, e che dava il via alla giornata di Radio Deejay. Prima di avere un programma tutto suo, ha redatto e letto i notiziari ed ha collaborato alla redazione del programma di Marco Baldini (Baldini'S Land).\r\n\r\nNicola si occupa di molte altre cose che ruotano intorno alle sue tante passioni: speaker pubblicitario nazionale, (ha prestato la sua voce anche per l'introduzione di \"PIOVE-REMIX\" di Lorenzo-Jovanotti. E' stato la voce ufficiale di IT-ITALIA TEEN TELEVISION e la voce di Real Duel, dal format Real Tv in onda su DUEL TV, entrambi canali satellitari di Mediaset), autore televisivo per il programma \"Dance It\", presentatore in diverse convention di aziende nazionali (FASTWEB, FABRICA-BENETTON, SEA-AEREOPORTI, HYUNDAY, ADIDAS) animatore e Dj in discoteca.\r\n\r\nNicola che ha frequentato una scuola di recitazione, grazie alle sue spontanee doti recitative, ha interpretato 4 cortometraggi realizzati con giovani registi italiani. Il cinema \u00e8 tra le sue grandi passioni: ha condotto diverse stagioni di \u201cCINEMA DEEJAY\u201d il settimanale cinematografico della radio.\r\n\r\nHa avuto anche una fortunata esperienza come \"Iena\" nell'omonimo programma di Italia1. Suo infatti il servizio in cui, facendo irruzione sul palco del teatro dove si eleggeva Miss Padania chiedeva, in napoletano, una raccomandazione ad Umberto Bossi per poter sposare una \"donna Padana\".\r\n\r\nMa Radio Deejay rimane la sua grande passione e visto l\u2019orario in cui ha suonato la sua sveglia ogni mattina per sei anni, non lo possiamo dubitare. Infatti con 6 Sveglio, in onda tutte le mattine dalle 6.00 alle 7.00, Nicola ha aperto il palinsesto della Radio e non sono state solo le \u201cSveglie Birichine\u201d a mettere in risalto la sua abilit\u00e0 di improvvisare in diretta ma anche le sue doti giornalistiche, un forte senso dell\u2019ironia ed una sincera cordialit\u00e0 che hanno reso gradevole il risveglio degli ascoltatori di Radio Deejay.\r\n\r\nDa Febbraio 2007 inizia a collaborare con All Music, in qualit\u00e0 di speaker per i programmi \"In prova\" e \"Cinerama\" e da Giugno commenta le divertenti \"papere\" in onda nel programma \"Amici miei\", su Comedy Central. (Sky canale 115).\r\n\r\nDa Settembre dello stesso anno Nicola ha avuto un nuovo ruolo ed una nuova collocazione nel palinsesto di Radio Deejay con il programma \"Domenica Deejay\", sei ore in diretta, dalle 17.00 alle 23.00.\r\nUn nuovo programma, un nuovo format, voluto da Linus e pensato da Nicola insieme ad un gruppo di validi collaboratori, giornalisti e redattori.\r\nNicola \u00e8 stato anche la voce di \"Scorie\" il dopo Isola dei Famosi, condotto da Nicola Savino e Digei Angelo nelle prime edizioni e in seguito da Elena Di Cioccio.\r\n\r\nSempre nel 2007 conosce Gianluca Vitiello, lo vuole al suo fianco in redazione, e in brevissimo tempo nasce una fortunata collaborazione anche al microfono. I due, sfruttando dapprima la casuale omonimia e una spontanea sintonia emotiva ed artistica, molto partenopea, conducono con grande successo \u201cDeenotte\u201d, l\u2019appuntamento notturno nel quale gli ascoltatori di Radio Deejay si raccontano intimamente. Giunto quest\u2019anno alla sua terza stagione, con migliaia di contatti quotidiani, anche sulle loro pagine Facebook, Deenotte dei Vitiello, si conferma vero e proprio programma \u201ccult\u201d della notte radiofonica italiana.\r\n\r\nNel 2010 i Vitiello, Nicola e Gianluca, hanno anche recitato in numerose puntate di \u201cVia Massena\u201d, la sketch-com di Deejay Tv e commentato per Rai2 le performance dei cantanti di X-Factor ne \u201cIl processo ad X-Factor\u201d.\r\n\r\nAttualmente Nicola Vitiello conduce con Gianluca Vitiello il programma Dee Notte .",
+                    "permalink": false,
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 70,
+                    "name": "Gianluca Vitiello",
+                    "description": "Gianluca Vitiello nasce a C. Mare di Stabia in provincia di Napoli nel luglio del 1976. Cancro ascendente Cancro.\r\n\r\nSi interessa di tutti i fenomeni legati alle culture urbane e metropolitane. Appassionato di musica Hip Hop, nel 2004 pubblica il suo primo CD, interamente autoprodotto, Hai notizie di me? sotto lo pseudonimo di Triplazero; nello stesso anno parte un mini tour promozionale dell\u2019album, che attraversa tutta l\u2019Italia.\r\n\r\nNell\u2019ottobre del 2005 si trasferisce a Roma, dove lavora come copywriter curando diverse campagne di comunicazione e progetti editoriali.\r\nNel 2006 si trasferisce a Milano, dove lavora come copywriter e successivamente come ufficio stampa.\r\nCome giornalista, scrive e fotografa per Tribu mag curando rubriche sulla street art, sulla musica, sulle tendenze.\r\nSempre nel 2006 scrive gli \u201cspecial\u201d del Video di Rezophonic L\u2019Uomo di Plastica, premiato come miglior video e progetto musicale dell\u2019anno.\r\n\r\nCollabora con Nick Magazine, rivista di cinema e costume\r\n\r\nRADIO\r\n\r\nNell\u2019aprile 2007 collabora con Radio Deejay, dove inizialmente segue i programmi Platinissima e Deejay chiama Italia.\r\n\r\nSuccessivamente Nicola Vitiello (stesso cognome ma non sono parenti) lo chiama come redattore con interventi \u201con air\u201d nel suo nuovo programma Domenica Deejay in onda tutte le domeniche dalle 17 alle 22 su Radio Deejay.\r\nDal 29 settembre 2008 conduce insieme a Nicola Vitiello DeeNotte in onda dalla domenica al gioved\u00ec dalle 22.\r\n\r\nTELEVISIONE\r\n\r\nLo si vede in Via Massena la sketchcom in onda su DeejayTv Gianluca Tripla Vitiello news.\r\nSta concludendo il suo primo libro Da grande \u00e8 tra \u00bd ora.\r\nSta scrivendo i testi per due diversi progetti musicali, il primo da solista Claim Show, il secondo Bisquits \u00e8 una sorta di connessione musicale tra Napoli, Milano e Londra.\r\nFortap\u00e0sc \u00e8 il primo \u201cstreet video\u201d dei Biscuits che anticipa l\u2019uscita dell\u2019album.\r\n\r\nAttualmente sta con i piedi per terra e la testa per aria.",
+                    "permalink": "https:\/\/www.deejay.it\/2019\/04\/02\/70\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6541,
+                    "name": "Ombretta Cecchini",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/ciao-belli\/puntate\/ciao-belli-del-14-10-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 84,
+                    "name": "Nicola Vitiello",
+                    "description": "300 Premi Fedelt\u00e0 vinti!!! Sar\u00e0 stato questo a fare letteralmente innamorare Nicola di Radio Deejay?\r\n\r\nE' iniziata proprio in questo modo, a 15 anni, la sua avventura radiofonica: da ascoltatore attivo!\r\nNicola vive di radio da un bel po\u2019 di tempo. Pur di gravitare nel mondo Deejay, Nicola scelto da Claudio Cecchetto, nel 1992 inizia come giornalista a Radio Capital, (\u00e8 pubblicista dal 1995) dove scrive, legge i notiziari e collabora in redazione ai programmi di Amadeus e Luca Laurenti, Fiorello, Beppe Fiorello, Giorgio Mastrota, Gabriella Golia.\r\n\r\nEd \u00e8 proprio a Radio Capital che conosce Digei Angelo e Nicola Savino con i quali inizia un lavoro che l\u2019ha fatto crescere professionalmente. Infatti, qualche anno dopo, nel 1997, arriva a Radio Deejay, diretta da Linus, nella squadra di \"Ciao Belli\" al quale presta la sua voce e collabora all'ideazione dei testi e dei personaggi. Nicola ha interpretato, tra gli altri, Gianni Nespolo, il colorito ed esplicito venditore di auto della concessionaria \"AUTONESPOLO\" e il maggiordomo Vito Pastello.\r\n\r\nDal 2001 iniziano per lui le sveglie prima dell'alba per \"6Sveglio\", programma del quale \u00e8 stato autore e conduttore, e che dava il via alla giornata di Radio Deejay. Prima di avere un programma tutto suo, ha redatto e letto i notiziari ed ha collaborato alla redazione del programma di Marco Baldini (Baldini'S Land).\r\n\r\nNicola si occupa di molte altre cose che ruotano intorno alle sue tante passioni: speaker pubblicitario nazionale, (ha prestato la sua voce anche per l'introduzione di \"PIOVE-REMIX\" di Lorenzo-Jovanotti. E' stato la voce ufficiale di IT-ITALIA TEEN TELEVISION e la voce di Real Duel, dal format Real Tv in onda su DUEL TV, entrambi canali satellitari di Mediaset), autore televisivo per il programma \"Dance It\", presentatore in diverse convention di aziende nazionali (FASTWEB, FABRICA-BENETTON, SEA-AEREOPORTI, HYUNDAY, ADIDAS) animatore e Dj in discoteca.\r\n\r\nNicola che ha frequentato una scuola di recitazione, grazie alle sue spontanee doti recitative, ha interpretato 4 cortometraggi realizzati con giovani registi italiani. Il cinema \u00e8 tra le sue grandi passioni: ha condotto diverse stagioni di \u201cCINEMA DEEJAY\u201d il settimanale cinematografico della radio.\r\n\r\nHa avuto anche una fortunata esperienza come \"Iena\" nell'omonimo programma di Italia1. Suo infatti il servizio in cui, facendo irruzione sul palco del teatro dove si eleggeva Miss Padania chiedeva, in napoletano, una raccomandazione ad Umberto Bossi per poter sposare una \"donna Padana\".\r\n\r\nMa Radio Deejay rimane la sua grande passione e visto l\u2019orario in cui ha suonato la sua sveglia ogni mattina per sei anni, non lo possiamo dubitare. Infatti con 6 Sveglio, in onda tutte le mattine dalle 6.00 alle 7.00, Nicola ha aperto il palinsesto della Radio e non sono state solo le \u201cSveglie Birichine\u201d a mettere in risalto la sua abilit\u00e0 di improvvisare in diretta ma anche le sue doti giornalistiche, un forte senso dell\u2019ironia ed una sincera cordialit\u00e0 che hanno reso gradevole il risveglio degli ascoltatori di Radio Deejay.\r\n\r\nDa Febbraio 2007 inizia a collaborare con All Music, in qualit\u00e0 di speaker per i programmi \"In prova\" e \"Cinerama\" e da Giugno commenta le divertenti \"papere\" in onda nel programma \"Amici miei\", su Comedy Central. (Sky canale 115).\r\n\r\nDa Settembre dello stesso anno Nicola ha avuto un nuovo ruolo ed una nuova collocazione nel palinsesto di Radio Deejay con il programma \"Domenica Deejay\", sei ore in diretta, dalle 17.00 alle 23.00.\r\nUn nuovo programma, un nuovo format, voluto da Linus e pensato da Nicola insieme ad un gruppo di validi collaboratori, giornalisti e redattori.\r\nNicola \u00e8 stato anche la voce di \"Scorie\" il dopo Isola dei Famosi, condotto da Nicola Savino e Digei Angelo nelle prime edizioni e in seguito da Elena Di Cioccio.\r\n\r\nSempre nel 2007 conosce Gianluca Vitiello, lo vuole al suo fianco in redazione, e in brevissimo tempo nasce una fortunata collaborazione anche al microfono. I due, sfruttando dapprima la casuale omonimia e una spontanea sintonia emotiva ed artistica, molto partenopea, conducono con grande successo \u201cDeenotte\u201d, l\u2019appuntamento notturno nel quale gli ascoltatori di Radio Deejay si raccontano intimamente. Giunto quest\u2019anno alla sua terza stagione, con migliaia di contatti quotidiani, anche sulle loro pagine Facebook, Deenotte dei Vitiello, si conferma vero e proprio programma \u201ccult\u201d della notte radiofonica italiana.\r\n\r\nNel 2010 i Vitiello, Nicola e Gianluca, hanno anche recitato in numerose puntate di \u201cVia Massena\u201d, la sketch-com di Deejay Tv e commentato per Rai2 le performance dei cantanti di X-Factor ne \u201cIl processo ad X-Factor\u201d.\r\n\r\nAttualmente Nicola Vitiello conduce con Gianluca Vitiello il programma Dee Notte .",
+                    "permalink": "https:\/\/www.deejay.it\/conduttori\/nicola-vitiello\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 70,
+                    "name": "Gianluca Vitiello",
+                    "description": "Gianluca Vitiello nasce a C. Mare di Stabia in provincia di Napoli nel luglio del 1976. Cancro ascendente Cancro.\r\n\r\nSi interessa di tutti i fenomeni legati alle culture urbane e metropolitane. Appassionato di musica Hip Hop, nel 2004 pubblica il suo primo CD, interamente autoprodotto, Hai notizie di me? sotto lo pseudonimo di Triplazero; nello stesso anno parte un mini tour promozionale dell\u2019album, che attraversa tutta l\u2019Italia.\r\n\r\nNell\u2019ottobre del 2005 si trasferisce a Roma, dove lavora come copywriter curando diverse campagne di comunicazione e progetti editoriali.\r\nNel 2006 si trasferisce a Milano, dove lavora come copywriter e successivamente come ufficio stampa.\r\nCome giornalista, scrive e fotografa per Tribu mag curando rubriche sulla street art, sulla musica, sulle tendenze.\r\nSempre nel 2006 scrive gli \u201cspecial\u201d del Video di Rezophonic L\u2019Uomo di Plastica, premiato come miglior video e progetto musicale dell\u2019anno.\r\n\r\nCollabora con Nick Magazine, rivista di cinema e costume\r\n\r\nRADIO\r\n\r\nNell\u2019aprile 2007 collabora con Radio Deejay, dove inizialmente segue i programmi Platinissima e Deejay chiama Italia.\r\n\r\nSuccessivamente Nicola Vitiello (stesso cognome ma non sono parenti) lo chiama come redattore con interventi \u201con air\u201d nel suo nuovo programma Domenica Deejay in onda tutte le domeniche dalle 17 alle 22 su Radio Deejay.\r\nDal 29 settembre 2008 conduce insieme a Nicola Vitiello DeeNotte in onda dalla domenica al gioved\u00ec dalle 22.\r\n\r\nTELEVISIONE\r\n\r\nLo si vede in Via Massena la sketchcom in onda su DeejayTv Gianluca Tripla Vitiello news.\r\nSta concludendo il suo primo libro Da grande \u00e8 tra \u00bd ora.\r\nSta scrivendo i testi per due diversi progetti musicali, il primo da solista Claim Show, il secondo Bisquits \u00e8 una sorta di connessione musicale tra Napoli, Milano e Londra.\r\nFortap\u00e0sc \u00e8 il primo \u201cstreet video\u201d dei Biscuits che anticipa l\u2019uscita dell\u2019album.\r\n\r\nAttualmente sta con i piedi per terra e la testa per aria.",
+                    "permalink": "https:\/\/www.deejay.it\/conduttori\/gianluca-vitiello\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6541,
+                    "name": "Ombretta Cecchini",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/ombretta-cecchini\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/amore-non-e-amare\/"
+        }
+    ]
+}

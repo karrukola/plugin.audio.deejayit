@@ -1,0 +1,1434 @@
+{
+    "count": 46,
+    "results": [
+        {
+            "id": 6526,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6527,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6527"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg"
+            },
+            "genres": [
+                "Cultura e Societ\u00e0",
+                "Storie"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Una TV tutta d'Oro",
+            "description": "Edmondo Conti, celebre produttore televisivo, ripercorre la storia della tv anni \u201880 e \u201890 attraverso i racconti dei suoi protagonisti.\r\nIn ogni puntata, un personaggio di spicco di quel panorama televisivo rievoca i programmi cult dell\u2019epoca con retroscena inediti, aneddoti esclusivi e incontri indimenticabili, alla riscoperta di una televisione iconica e\u2026tutta d\u2019oro.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+            "id_ext": "espresso:mhub:8880507",
+            "speakers": [
+                {
+                    "id": 6534,
+                    "name": "Edmondo Conti",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/tropical-pizza\/puntate\/tropical-pizza-del-14-10-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 6535,
+                    "name": "Costanza Danelon",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/costanza-danelon\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/una-tv-tutta-doro\/"
+        },
+        {
+            "id": 6657,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6658,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6658"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/03\/1400x1400-UnEttodiFumetto.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/03\/1400x1400-UnEttodiFumetto-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/03\/1400x1400-UnEttodiFumetto.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/03\/1400x1400-UnEttodiFumetto.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/03\/1400x1400-UnEttodiFumetto-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/03\/1400x1400-UnEttodiFumetto.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/03\/1400x1400-UnEttodiFumetto.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/03\/1400x1400-UnEttodiFumetto.jpg"
+            },
+            "cover_app_images": null,
+            "genres": [
+                "Cultura e Societ\u00e0",
+                "Storie",
+                "Comedy"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Un etto di fumetto",
+            "description": "In ogni puntata il Trio Medusa ripercorre la storia dei pi\u00f9 importanti cartoni animati giapponesi trasmessi in Italia negli anni \u201880, tra ricordi e informazioni serie e facete. Al loro fianco, Stefano Rapone e le sue curiosit\u00e0 poco probabili trovate nei meandri del deep web di cui \u00e8 esperto frequentatore.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/03\/1400x1400-UnEttodiFumetto.jpg",
+            "id_ext": "espresso:mhub:8969853",
+            "speakers": [
+                {
+                    "id": 93,
+                    "name": "Trio Medusa",
+                    "description": "La loro storia, raccontata in prima persona plurale nel libro \u201cCulattoni e raccomandati\u201d, ha inizio quando in giovane et\u00e0 frequentano tutti e tre la stessa localit\u00e0 di mare per le vacanze estive, Marina Velca.\r\n\r\nQui, per ingannare il tempo, con l'aiuto di un compagno fidato e grazie ad un buco nel muro del garage di uno di loro, costruiscono la loro prima emittente radiofonica andando in onda a tarda notte, sulle frequenze di Radio Maria, che coprivano con scherzi, lazzi e soprattutto sigle dei cartoni animati.\r\n\r\nAncora oggi sono contraddistinti da una comicit\u00e0 irriverente che ha irritato molte delle persone dello spettacolo e della politica che venivano prese\u00a0 di mira da loro. Tra queste Vittorio Sgarbi, che in una puntata de Le Iene li ha ripetutamente insultati, e che \u00e8 diventato il bersaglio preferito dei tre. \u00abSiete dei culattoni, e raccomandati \u00bb (Il trio secondo Vittorio Sgarbi).\r\n\r\nTra le tante gag \u00e8 da ricordare quella in cui fanno domande imbarazzanti a personaggi del mondo dello spettacolo e della politica, dai quali, inevitabilmente, ricevono delle risposte di circostanza poco credibili che il trio sottolinea scoppiando contemporaneamente in sonore risate.\r\n\r\nSono stati premiati per sei anni di fila con l'Oscar della Tv per Le Iene.\r\nNella stagione 2008-2009 hanno commentato il Takeshi's Castle per GXT.\r\nDal marzo 2009 son entrati a far parte del cast di Parla con me su Rai Tre: prima nell'inedita veste di tre pap\u00e0 moderni che raccontano il mondo di oggi a un figlio attraverso fiabe assurde, poi - nella stagione 2009\/2010 - come \"ausiliari dei TG 1\", incaricati di approfondire le notizie pi\u00f9 improbabili diramate dal telegiornale della prima rete di stato italiana.\r\nSi sono occupati spesso del tema degli incidenti sul lavoro, tanto da aver ricevuto una menzione speciale da Articolo 21. Sono stati autori\u00a0per il mensile XL.\r\n\r\nIn qualit\u00e0 di attori hanno fatto piccoli camei in \u201cFebbre da cavallo - La mandrakata\u201d ed in Boris 2.\r\nHanno recitato in Natale a casa Deejay.\r\nGabriele Corsi ha recitato in alcuni episodi della serie tv \u201cIl Maresciallo Rocca\u201d, interpretando un carabiniere.\r\n\r\nTra gli altri riconoscimenti, hanno vinto anche il Premio Massimo Troisi, il Premio per la Satira Politica di Forte dei Marmi e il Premio Braille per l'impegno pubblico nel trattare temi sociali come la disabilit\u00e0.\r\n\r\nSono testimonial dell'organizzazione umanitaria Cesvi.\r\n\r\nHanno doppiato il cartone animato Sons of Butcher.\r\n\r\nDal 2011 al 2013 hanno fatto parte del cast di Quelli che il calcio condotto da Victoria Cabello. Nel 2012 conducono con Laura Barriales il programma Italia Coast2Coast, nella prima serata di Rai 2.\r\n\r\nNel 2014 entrano a far parte del cast di Zelig\r\n\r\n<span data-contrast=\"auto\">Parallelamente all\u2019esperienza nel Trio Medusa, <\/span>Gabriele Corsi<span data-contrast=\"auto\"> in TV conduce:\u00a0<\/span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">\u00a0<\/span>\r\n<ul>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2016 su Real Time il programma Take Me Out; Sul NOVE, Ninja Warrior; su Rai 3 Carta Bianca.\u00a0<\/span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:259}\">\u00a0<\/span><\/li>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2017 su Real Time: Piccoli Giganti.\u00a0<\/span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:259}\">\u00a0<\/span><\/li>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2018 approda in Rai dove conduce Boss in Incognito su Rai 2 e Reazione a Catena su Rai 1.\u00a0<\/span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:259}\">\u00a0<\/span><\/li>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2019 torna a\u202f<\/span><span data-contrast=\"auto\">Discovery<\/span><span data-contrast=\"auto\">\u202fper condurre il nuovo game show\u202f<\/span><span data-contrast=\"auto\">Deal With <\/span><span data-contrast=\"auto\">It<\/span><span data-contrast=\"auto\"> - Stai al gioco\u00a0<\/span><span data-contrast=\"auto\">\u202fsul\u202f<\/span><span data-contrast=\"auto\">NOVE<\/span><\/li>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2021 la nuova stagione de\u202f<\/span><span data-contrast=\"auto\">Il contadino cerca moglie<\/span><span data-contrast=\"auto\">\u202fsulla piattaforma streaming\u202f<\/span><span data-contrast=\"auto\">Discovery<\/span><span data-contrast=\"auto\">.<\/span><\/li>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2021\u00a0 per NOVE don't forget the lyrics\u00a0<\/span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:259}\">\u00a0<\/span><\/li>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2021 conduce Prodigi con Serena Autieri per Unicef su Rai 1 e affianca\u202f<\/span><span data-contrast=\"auto\">Cristiano Malgioglio<\/span><span data-contrast=\"auto\">\u202fal commento della finale dell'<\/span><span data-contrast=\"auto\">Eurovision<\/span><span data-contrast=\"auto\"> Song Contest<\/span><span data-contrast=\"auto\">\u202f<\/span><\/li>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2022 la 6a edizione de Il contadino cerca moglie.\u00a0<\/span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:259}\">\u00a0<\/span><\/li>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2022 le nuove puntate di Don't forget the lyrics su NOVE<\/span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:259}\">\u00a0<\/span><\/li>\r\n \t<li data-leveltext=\"\uf0b7\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;\uf0b7&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" aria-setsize=\"-1\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">nel 2022 <\/span><span data-contrast=\"auto\">Eurovision<\/span><span data-contrast=\"auto\"> Song Contest 2022<\/span><span data-contrast=\"auto\">\u202fdal\u202f<\/span><span data-contrast=\"auto\">Palasport Olimpico<\/span><span data-contrast=\"auto\">\u202fdi\u202f<\/span><span data-contrast=\"auto\">Torino<\/span><span data-contrast=\"auto\">.<\/span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:259}\">\u00a0<\/span><\/li>\r\n<\/ul>\r\nIl Trio \u00e8 \"spaccato\" in ambito calcistico: Corsi e Corsetti sono tifosi della S.S. Lazio, mentre Daviddi tifa per l'AS Roma.\r\n\r\nwww.triomedusa.net\r\n\r\nAttualmente sono in onda su Radio Deejay con Chiamate Roma Triuno Triuno.",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/tropical-pizza\/puntate\/tropical-pizza-del-23-03-2009\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 6207,
+                    "name": "Gabriele Corsi",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/gabriele-corsi\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6654,
+                    "name": "Furio Corsetti",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/furio-corsetti\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6655,
+                    "name": "Giorgio Maria Daviddi",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/giorgio-maria-daviddi\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6656,
+                    "name": "Stefano Rapone",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/stefano-rapone\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/un-etto-di-fumetto\/"
+        },
+        {
+            "id": 6528,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6529,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6529"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/1400x1400-TheItalianJob-S2.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/1400x1400-TheItalianJob-S2-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/1400x1400-TheItalianJob-S2.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/1400x1400-TheItalianJob-S2.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/1400x1400-TheItalianJob-S2-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/1400x1400-TheItalianJob-S2.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/1400x1400-TheItalianJob-S2.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/1400x1400-TheItalianJob-S2.jpg"
+            },
+            "cover_app_images": null,
+            "genres": [
+                "Storie",
+                "Cultura e Societ\u00e0",
+                "Crime"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "The Italian Job",
+            "description": "Marco Maisano, giornalista e podcaster per l'occasione, racconta le vite incredibili, le storie assurde e i colpi sensazionali dei pi\u00f9 grandi criminali, eroi, buffoni, geni e vigliacchi che nell\u2019ultimo secolo hanno reso grande, si fa per dire, il nome dell\u2019Italia in tutto il mondo. Da Charles Ponzi, il genio della truffa, a Wanna Marchi, da Renato Rinino, il Lupin della riviera, a Luciano Lutring, il solista del mitra e molti altri: i racconti delle mirabolanti avventure di tantissimi talenti ed eccellenze rigorosamente tutte made in Italy.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/08\/1400x1400-TheItalianJob-S2.jpg",
+            "id_ext": "espresso:mhub:7443607",
+            "speakers": [
+                {
+                    "id": 6536,
+                    "name": "Marco Maisano",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/pinocchio\/puntate\/pinocchio-del-14-10-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 6536,
+                    "name": "Marco Maisano",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/marco-maisano\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6537,
+                    "name": "Ettore Mengozzi",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/ettore-mengozzi\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6538,
+                    "name": "Francesco Bozzi",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/francesco-bozzi\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/the-italian-job\/"
+        },
+        {
+            "id": 7003,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [],
+            "images": null,
+            "cover_app_images": null,
+            "genres": [],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Stagione 1",
+            "description": "",
+            "order": "asc",
+            "published_on": [],
+            "image": null,
+            "id_ext": null,
+            "speakers": [],
+            "authors": [],
+            "url": "https:\/\/www.deejay.it\/podcast\/stagione-1-di-canzone-di-natale-2022\/"
+        },
+        {
+            "id": 6683,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6684,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6684"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-Soundalike-1.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-Soundalike-1-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-Soundalike-1.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-Soundalike-1.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-Soundalike-1-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-Soundalike-1.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-Soundalike-1.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-Soundalike-1.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/800x1200-Soundalike.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/800x1200-Soundalike-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/800x1200-Soundalike.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/800x1200-Soundalike.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/800x1200-Soundalike-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/800x1200-Soundalike.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/800x1200-Soundalike.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/800x1200-Soundalike.jpg"
+            },
+            "genres": [
+                "Musica",
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Soundalike",
+            "description": "Soundalike \u2013 Questa l\u2019ho gi\u00e0 sentita\r\n\r\nVi \u00e8 mai capitato di ascoltare una canzone per la prima volta e avere la sensazione di averla gi\u00e0 sentita? Tra ispirazioni, omaggi, assonanze, scopiazzature e veri e propri plagi il confine \u00e8 labile, molto labile\u2026 Michael Jackson aveva davvero copiato Albano? Cosa hanno in comune Ava Max e i Bon Jovi? Tiziano Ferro si \u00e8 almeno un po\u2019 ispirato ad R. Kelly? Possibile che mega hit come Papa don\u2019t preach di Madonna o Whatever degli Oasis siano in realt\u00e0 due plagi? Ma gli esempi sono innumerevoli: Rolling Stones, Queen, David Bowie, Verve, Led Zeppelin, Beatles, Angelo Branduardi, Dua Lipa, Zucchero, Puff Daddy, Claudio Baglioni, Pet Shop Boys, Prince, Chic, Jennifer Lopez, Shakira e tantissimi altri cantanti e gruppi, tutti, almeno una volta, hanno copiato o sono stati copiati. Condotto da Antonio Visca e Cristiano Macr\u00ec, Soundalike \u2013 Questa l\u2019ho gi\u00e0 sentita, \u00e8 il podcast che analizza somiglianze e differenze, citazioni e campionamenti pi\u00f9 o meno dichiarati, riascoltando insieme alcuni frammenti delle canzoni e risuonando \u201clive\u201d i passaggi chiave, per capire in quali casi si pu\u00f2 davvero parlare di plagio\u2026",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-Soundalike-1.jpg",
+            "id_ext": "espresso:mhub:9039873",
+            "speakers": [
+                {
+                    "id": 54,
+                    "name": "Antonio Visca",
+                    "description": "Antonio Visca (Alessandria, 19 Gennaio 1975) si divide da sempre tra le sue grandi passioni: radio e tv. E ultimamente anche podcast!\r\n\r\nDopo la Laurea in Economia Aziendale ha lavorato a Disney Channel e poi a lungo a Mediaset nella Direzione di Italia 1. Successivamente, come editore e giornalista, ha creato e diretto diverse testate tra cui il mensile Telefilm Magazine, ed \u00e8 stato per anni Direttore Operativo del compianto Telefilm Festival.\r\n\r\nHa prodotto programmi tv per Comedy Central, Mediaset Premium, NBC Universal ed \u00e8 stato consulente di All Music (quella che poi sarebbe diventata Deejay Tv). Ha portato anche alcuni programmi italiani all\u2019estero, come ad esempio la versione di Ciao Darwin per la tv cinese.\r\n\r\nNel 2014 ha creato e poi diretto per 7 anni Sky Atlantic, lanciando nel mentre anche altri canali Sky dedicati alle serie tv.\r\n\r\nIl suo primo \u201clavoro\u201d (ai tempi delle medie) \u00e8 stato nei videogiochi, come collaboratore della storica rivista \u201cK\u201d. Successivamente ha rappresentato come agente per l\u2019Italia marchi cult come Atari e Playstation.\r\n\r\nIl suo secondo lavoro, invece, ben prima della tv (era il 1990\u2026), \u00e8 stato proprio in FM, con una passione per il microfono che si \u00e8 sviluppata ed \u00e8 cresciuta prima nelle radio della sua citt\u00e0 e poi in emittenti pi\u00f9 importanti, sia come conduttore che come consulente e giornalista, collaborando anche con molte riviste specializzate in radio e mass media: dalla mitica \u201cRadiomania\u201d a Pubblicit\u00e0 Italia, Punto Com, Millecanali ed altre.\r\n\r\nNel 2022 \u00e8 entrato in GEDI per creare la factory One Podcast, che dirige.<br aria-hidden=\"true\" \/>Gi\u00e0 da prima, dall\u2019ottobre 2016, fa parte della squadra di DEEJAY con il suo \u201cNo Spoiler\u201d.",
+                    "permalink": false,
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6682,
+                    "name": "Cristiano Macr\u00ec",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/via-massena\/puntate\/via-massena-del-04-11-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 54,
+                    "name": "Antonio Visca",
+                    "description": "Antonio Visca (Alessandria, 19 Gennaio 1975) si divide da sempre tra le sue grandi passioni: radio e tv. E ultimamente anche podcast!\r\n\r\nDopo la Laurea in Economia Aziendale ha lavorato a Disney Channel e poi a lungo a Mediaset nella Direzione di Italia 1. Successivamente, come editore e giornalista, ha creato e diretto diverse testate tra cui il mensile Telefilm Magazine, ed \u00e8 stato per anni Direttore Operativo del compianto Telefilm Festival.\r\n\r\nHa prodotto programmi tv per Comedy Central, Mediaset Premium, NBC Universal ed \u00e8 stato consulente di All Music (quella che poi sarebbe diventata Deejay Tv). Ha portato anche alcuni programmi italiani all\u2019estero, come ad esempio la versione di Ciao Darwin per la tv cinese.\r\n\r\nNel 2014 ha creato e poi diretto per 7 anni Sky Atlantic, lanciando nel mentre anche altri canali Sky dedicati alle serie tv.\r\n\r\nIl suo primo \u201clavoro\u201d (ai tempi delle medie) \u00e8 stato nei videogiochi, come collaboratore della storica rivista \u201cK\u201d. Successivamente ha rappresentato come agente per l\u2019Italia marchi cult come Atari e Playstation.\r\n\r\nIl suo secondo lavoro, invece, ben prima della tv (era il 1990\u2026), \u00e8 stato proprio in FM, con una passione per il microfono che si \u00e8 sviluppata ed \u00e8 cresciuta prima nelle radio della sua citt\u00e0 e poi in emittenti pi\u00f9 importanti, sia come conduttore che come consulente e giornalista, collaborando anche con molte riviste specializzate in radio e mass media: dalla mitica \u201cRadiomania\u201d a Pubblicit\u00e0 Italia, Punto Com, Millecanali ed altre.\r\n\r\nNel 2022 \u00e8 entrato in GEDI per creare la factory One Podcast, che dirige.<br aria-hidden=\"true\" \/>Gi\u00e0 da prima, dall\u2019ottobre 2016, fa parte della squadra di DEEJAY con il suo \u201cNo Spoiler\u201d.",
+                    "permalink": "https:\/\/www.deejay.it\/conduttori\/antonio-visca\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6682,
+                    "name": "Cristiano Macr\u00ec",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/cristiano-macri\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/soundalike\/"
+        },
+        {
+            "id": 7154,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 7155,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/7155"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-SottoEffetto.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-SottoEffetto-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-SottoEffetto.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-SottoEffetto.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-SottoEffetto-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-SottoEffetto.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-SottoEffetto.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-SottoEffetto.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-SottoEffetto.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-SottoEffetto-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-SottoEffetto.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-SottoEffetto.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-SottoEffetto-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-SottoEffetto.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-SottoEffetto.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-SottoEffetto.jpg"
+            },
+            "genres": [
+                "Musica"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Sotto Effetto Podcast",
+            "description": "<i>\"La luce del jet set produce ombre che non tutti vedono, ma se fai un gioco per tanto tempo puoi impararne i trucchi. Io voglio sverlarli tutti\"<\/i> (Tormento)<br><\/br>\r\n\r\n\r\n\r\nSOTTO EFFETTO PODCAST \u00e8 un viaggio nel sottobosco della musica alla ricerca dei suoi segreti e delle sue leggi non scritte.\r\nPer rispondere ai quesiti di ogni puntata, Tormento, tra i pionieri del rap in Italia con i Sottotono, ha coinvolto alcune tra le pi\u00f9 brillanti stelle della scena italiana: da Giorgia a Tiziano Ferro, da J-Ax a Gu\u00e8 passando per Danno, Coez, Izi, Luch\u00e9, Shablo, Ensi e Esa. Una ricerca impreziosita dalle riflessioni e dalle testimonianze di tanti altri protagonisti del jet set: dai manager degli artisti multi platino fino ai produttori pi\u00f9 potenti della scena.\r\nSEP \u00e8 un viaggio tra passato e futuro che ci aiuta a capire meglio il presente, non solo della musica, ma anche del mondo che ci circonda.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-SottoEffetto.jpg",
+            "id_ext": "espresso:mhub:11752015",
+            "speakers": [
+                {
+                    "id": 2078,
+                    "name": "Tormento",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/deejay-chiama-italia\/puntate\/deejay-chiama-italia-del-26-01-2012\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 7153,
+                    "name": "Matteo Politan\u00f2",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/matteo-politano\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/sotto-effetto-podcast\/"
+        },
+        {
+            "id": 6751,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6752,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6752"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/04\/1400x1400-SeiBoomerPap%C3%A0.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/04\/1400x1400-SeiBoomerPap%C3%A0-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/04\/1400x1400-SeiBoomerPap%C3%A0.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/04\/1400x1400-SeiBoomerPap%C3%A0.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/04\/1400x1400-SeiBoomerPap%C3%A0-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/04\/1400x1400-SeiBoomerPap%C3%A0.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/04\/1400x1400-SeiBoomerPap%C3%A0.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/04\/1400x1400-SeiBoomerPap%C3%A0.jpg"
+            },
+            "cover_app_images": null,
+            "genres": [
+                "Cultura e Societ\u00e0",
+                "Storie"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Sei Boomer Pap\u00e0!",
+            "description": "\u00c8 pi\u00f9 difficile essere genitori boomer alle prese con figli adolescenti o essere adolescenti alle prese con genitori boomer?\r\n\r\nAndrea Marchesi e Michele Mainardi, speaker di Radio Deejay, insieme ad Alessandra Lupi psicologa e psicoterapeuta, ci portano alla scoperta degli adolescenti di oggi attraverso gli occhi e le parole di persone molto speciali. I pap\u00e0.\r\nUn incontro per esplorare l'essere genitori ai nostri giorni e capire gli stili di vita, le attitudini e i sogni delle nuove generazioni.\r\nSe sei stato chiamato boomer almeno una volta nella vita allora questo \u00e8 il podcast che fa per te.\r\nSei boomer pap\u00e0, un podcast original One Podcast.\r\nLo puoi ascoltare sull'app di One Podcast, sull'app di Radio Deejay e su tutte le principali piattaforme.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/04\/1400x1400-SeiBoomerPap%C3%A0.jpg",
+            "id_ext": "espresso:mhub:9241825",
+            "speakers": [
+                {
+                    "id": 53,
+                    "name": "Andrea Marchesi",
+                    "description": "Andrea Marchesi (Cremona, 30 novembre 1973) fa il suo esordio radiofonico nel 1993 in una radio locale di Cremona, Studioradio, dove conduce il programma dance del pomeriggio \u201cHouse-Party\u201d. In parallelo lavora come redattore presso un quotidiano locale e in coppia con Michele (compagno di classe al Liceo Scientifico) come dj nei locali di Cremona e provincia. In questi anni si appassiona a diversi generi musicali: dance, house, ma, soprattutto, hip-hop (dedicandosi anche a produzioni musicali tra cui uno spot per la birra \u201cHeineken\u201d nel 1995). Laureato in Filosofia, nel 2000 fa la sua prima esperienza come redattore nel programma \"Affari di cuore\" (RAI 2), condotto da Federica Panicucci.\r\nNel 2001 la radio torna protagonista. Andrea viene chiamato a condurre la fascia pomeridiana su Radio Kiss Kiss e coinvolge Michele (gi\u00e0 \u201cmet\u00e0 artistica\u201d in consolle). Nasce cos\u00ec la coppia \u201cAndrea e Michele\u201d anche davanti al microfono: insieme conducono i programmi \"KissMi\" e \"Discolive Club Parade\" (Club Chart) per due stagioni.\r\nNel 2004 A&amp;M passano a \"R.I.N Radio Italia Network\", dove conducono il morning-show \"I 2 senza\" (7.00-10.00). In parallelo lavorano nella redazione del quotidiano sportivo \"Controcampo\".\r\nLa coppia radiofonica Andrea e Michele \u00e8 sempre pi\u00f9 affiatata e nel 2005 il sogno si realizza: Radio Deejay. Nelle prime due stagioni A&amp;M conducono \"Due a zero\" e nel 2007 diventano i \u201cpadroni di casa\u201d della fascia quotidiana 6.00\/7.00 con \u201cDeejay6Tu\u201d. Nascono qui i tormentoni cari al pubblico di chi si sveglia prima dell\u2019alba: il \u201cClub dei guerrieri della mattina\u201d, \u201cbuongiornazzo\u201d, \u201cculofan\u201d. In questa fascia prende vita anche la rubrica \u201cAlta Infedelt\u00e0 \u2013 anonimato garantito\u201d, dalla quale nasce il libro omonimo pubblicato nel 2012 con Kowalski Editori (Feltrinelli). Sempre su Deejay A&amp;M conducono altri programmi: \"Non \u00e8 finita (finch\u00e9 non \u00e8 finita)\", \u201cFormentera For Deejay\u201d e \"The Sound Of Summer\".\r\nSempre in coppia con Michele, Andrea colleziona diverse esperienze anche in ambito televisivo: nel 2007 partecipa a un episodio della sit-com \"Camera Caf\u00e8\" con Luca e Paolo (Italia 1) e nel 2009 affianca Mara Maionchi nel corso dei casting di \"X-Factor\" e fa parte della giuria di \"X-Factor \u2013 Il processo\" (RAI 2). Nel 2010 partecipa a diversi episodi di \u201cVia Massena\u201d, sit-com ambientata a Radio Deejay e in onda su Deejay TV. Nel 2010 arriva l\u2019esperienza pi\u00f9 importante a livello televisivo: A&amp;M entrano del cast fisso del programma \"Quelli che il calcio e\u2026\" (RAI 2), condotto da Simona Ventura, e partecipano a due edizioni consecutive come inviati. Nel 2011 conducono per Deejay Tv il talk-quiz \"Uomini che studiano le donne\" (lun-ven 19.00-20.00) e nel 2013 \"L'uomo di casa\", format sul fai-da-te, su CieloTv\/Sky Uno.\r\nParallelamente a Deejay, dal 2010 Andrea e Michele sono voci di Radio Intesa San Paolo, web-radio aziendale dell\u2019omonimo gruppo bancario. In ambito charity, dal 2004 collaborano con la \"Fondazione Vialli e Mauro\" nel sostenere la ricerca sulla SLA.",
+                    "permalink": "https:\/\/www.deejay.it\/2019\/04\/02\/musica\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 82,
+                    "name": "Michele Mainardi",
+                    "description": "Andrea Marchesi (30 novembre 1973) e Michele Mainardi (17 maggio 1973) si sono conosciuti all\u2019et\u00e0 di 14 anni sui banchi di scuola del Liceo Scientifico G.Aselli di Cremona , citt\u00e0 dove entrambi sono nati. Da compagni di classe, iniziano a condividere la passione per la musica, \u201cgiocando\u201d a fare la radio con mezzi rudimentali e casalinghi.\r\n\r\nIn seguito, in parallelo agli studi (entrambi si sono laureati a Milano: Andrea in Filosofia Estetica alla Statale, Michele in Architettura al Politecnico), iniziano a lavorare nel mondo delle radio e delle discoteche della zona.\r\nAndrea esordisce come speaker radiofonico nel 1993, in una radio locale di Cremona, Studioradio, dove conduce il programma del pomeriggio \u201cHouse-Party\u201d, lavorando anche come dj nelle discoteche del cremonese.\r\nNel 2000 lavora anche nella redazione della trasmissione Affari di cuore, condotta da Federica Panicucci, in onda su Rai Due.\r\n\r\nMichele, con il nome di \u201cMikee\u201d, colleziona alcune esperienze come dj in ambito house, arrivando a mettere i dischi al fianco di alcuni importanti esponenti del clubbing internazionale come Tony Humphries, Dimitri from Paris, Bob Sinclar e Claudio Coccoluto e collaborando con la one-night \u201cMade in Italy\u201d in Ibiza.\r\n\r\nCome \"duo radiofonico\", Andrea e Michele fanno il loro esordio a livello nazionale nel 2001 su Radio Kiss Kiss dove conducono le trasmissioni KissMi e Discolive Club Parade.\r\nNel 2003 passano a R.I.N Radio Italia Network, dove conducono il morning-show \u201cI 2 senza\u201d.\r\n\r\nDal 2007 lavorano a Radio Deejay, dove conducono per due stagioni il programma di calcio della domenica pomeriggio \u201cDue a zero\u201d; per poi passare in fascia quotidiana. Attualmente conducono il programma \u201cDeejay 6 Tu\u201d.\r\nIn televisione, nel 2007 sono comparsi in un episodio della sit com Camera Caf\u00e8 al fianco di Luca e Paolo. Nel 2009 hanno affiancato Mara Maionchi durante i casting di \u201cX-Factor\u201d e hanno fatto parte della giuria di \u201cX-Factor \u2013 Il processo\u201d.\r\nAttualmente, fanno parte del cast di \u201cQuelli che il Calcio e\u2026\u201d, programma condotto da Simona Ventura in onda su Rai 2, in cui si occupano della rubrica satirica \u201cI titoli dei quotidiani\u201d, di cui sono autori e presentatori.\r\n\r\nAl momento conduce <strong>Deejay6tu<\/strong> dal luned\u00ec al venerd\u00ec.",
+                    "permalink": false,
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6749,
+                    "name": "Alessandra Lupi",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/pinocchio\/puntate\/pinocchio-del-13-11-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 6750,
+                    "name": "Francesco Pozza",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/francesco-pozza\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/sei-boomer-papa\/"
+        },
+        {
+            "id": 7199,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 7200,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/7200"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-ProfondoBoss.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-ProfondoBoss-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-ProfondoBoss.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-ProfondoBoss.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-ProfondoBoss-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-ProfondoBoss.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-ProfondoBoss.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-ProfondoBoss.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-ProfondoBoss.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-ProfondoBoss-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-ProfondoBoss.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-ProfondoBoss.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-ProfondoBoss-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-ProfondoBoss.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-ProfondoBoss.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-ProfondoBoss.jpg"
+            },
+            "genres": [
+                "Storie",
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Profondo Boss",
+            "description": "\"CURIOSIT\u00c0\": dal latino curios\u012dtas - l\u2019essere curioso, sia per abitudine sia in determinate circostanze, di vedere, di sapere, per amore del conoscere e come stimolo intellettuale.\r\nQuesto \u00e8 Daniele Bossari, questo \u00e8 Profondo Boss: un viaggio attraverso le passioni di un uomo, che possono interessare tutti gli esseri umani.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-ProfondoBoss.jpg",
+            "id_ext": "espresso:mhub:11950026",
+            "speakers": [
+                {
+                    "id": 4906,
+                    "name": "Daniele Bossari",
+                    "description": "Nato a Milano il primo ottobre 1974.\r\n<h3>Televisione<\/h3>\r\n2018\r\nConduce Chi ha paura del buio? (Italia1)\r\n2017\r\nVincitore del GF VIP (Canale5)\r\n2016 - 2009\r\nconduce il programma di prima serata Mistero (Italia1)\r\n2016 \u2013 2013\r\npresenta i Radio Italia Live (Radio Italia tv)\r\n2015 - 2014\r\nha ideato e condotto Tutto lo stadio, intrattenimento dal campo di San Siro nei prepartita del Milan (Milan Channel)\r\n2013 - 2011\r\nospite fisso nel programma Verissimo (Canale 5)\r\n2012 - 2011\r\nconduce Lilit (Rai 3)\r\n2011\r\npresenta il programma quotidiano Parole Crociate (Iris)\r\n2008\r\nconduce con Maddalena Corvaglia e Paola Maugeri il programma musicale Scalo76 (Rai 2)\r\n2008 - 2005\r\npresenta il quotidiano preserale Azzardo (Italia 1)\r\n2006 - 2003\r\nconduce con Silvia Hsieh il programma musicale Top Of The Pops (talia 1)\r\n2005\r\nconduce la seconda edizione del reality show Campioni (Italia 1)\r\n2004\r\npresenta il reality game in prima serata La Fattoria (Italia 1)\r\n2003\r\nconduce il programma in prima serata Furore (Rai 2) conduce con Gaia De Laurentiis gli Italian Music Awards (Italia 1) presenta la fascia pomeridiana del programma musicale Superstar (Italia 1)\r\n2002\r\nconduce con Alessia Marcuzzi e Michelle Hunziker il Festivalbar (Italia 1) fa parte della giuria di qualit\u00e0 del Festival di Sanremo, in qualit\u00e0 di esperto musicale (Rai 1) presenta il Festivalbar con Alessia Marcuzzi e Natasha Stefanenko (Italia 1)\r\n2001\r\npresenta l&#039;edizione pomeridiana di Saranno Famosi, con Maria De Filippi (Italia 1)\r\n2000\r\npresenta il talent show canoro che ha formato le Lollipop, Pop Star (Italia 1) conduce con Marina Graziani Wozzup? (Italia 1)\r\n1999\r\n\u00e8 al timone di Fuego (Italia 1)\r\n1998\r\npresenta Hit List Italia, Dance Floor Chart, Select da Londra, Mtv on the beach, Disco 2000 (Mtv)\r\n<h3>Radio<\/h3>\r\n\u00e8 in onda ogni domenica dalle 22 alle 24 con il <strong>\u201cBoss del weekend\u201d<\/strong>\r\n\r\n2017 - 2013\r\n\u00e8 in diretta a Radio Italia tutti i week end, alle h 17\r\n2008 - 2005\r\nconduce Hi Tech a Radio Monte Carlo, tutti i giorni alle h 14\r\n1998\r\ndeejay a Radio Deejay\r\n1997\r\nconduttore radiofonico a RTL\r\n1996\r\ndeejay a Radio Capital",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/deejay-chiama-italia\/puntate\/deejay-chiama-italia-del-05-12-2013\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 4906,
+                    "name": "Daniele Bossari",
+                    "description": "Nato a Milano il primo ottobre 1974.\r\n<h3>Televisione<\/h3>\r\n2018\r\nConduce Chi ha paura del buio? (Italia1)\r\n2017\r\nVincitore del GF VIP (Canale5)\r\n2016 - 2009\r\nconduce il programma di prima serata Mistero (Italia1)\r\n2016 \u2013 2013\r\npresenta i Radio Italia Live (Radio Italia tv)\r\n2015 - 2014\r\nha ideato e condotto Tutto lo stadio, intrattenimento dal campo di San Siro nei prepartita del Milan (Milan Channel)\r\n2013 - 2011\r\nospite fisso nel programma Verissimo (Canale 5)\r\n2012 - 2011\r\nconduce Lilit (Rai 3)\r\n2011\r\npresenta il programma quotidiano Parole Crociate (Iris)\r\n2008\r\nconduce con Maddalena Corvaglia e Paola Maugeri il programma musicale Scalo76 (Rai 2)\r\n2008 - 2005\r\npresenta il quotidiano preserale Azzardo (Italia 1)\r\n2006 - 2003\r\nconduce con Silvia Hsieh il programma musicale Top Of The Pops (talia 1)\r\n2005\r\nconduce la seconda edizione del reality show Campioni (Italia 1)\r\n2004\r\npresenta il reality game in prima serata La Fattoria (Italia 1)\r\n2003\r\nconduce il programma in prima serata Furore (Rai 2) conduce con Gaia De Laurentiis gli Italian Music Awards (Italia 1) presenta la fascia pomeridiana del programma musicale Superstar (Italia 1)\r\n2002\r\nconduce con Alessia Marcuzzi e Michelle Hunziker il Festivalbar (Italia 1) fa parte della giuria di qualit\u00e0 del Festival di Sanremo, in qualit\u00e0 di esperto musicale (Rai 1) presenta il Festivalbar con Alessia Marcuzzi e Natasha Stefanenko (Italia 1)\r\n2001\r\npresenta l&#039;edizione pomeridiana di Saranno Famosi, con Maria De Filippi (Italia 1)\r\n2000\r\npresenta il talent show canoro che ha formato le Lollipop, Pop Star (Italia 1) conduce con Marina Graziani Wozzup? (Italia 1)\r\n1999\r\n\u00e8 al timone di Fuego (Italia 1)\r\n1998\r\npresenta Hit List Italia, Dance Floor Chart, Select da Londra, Mtv on the beach, Disco 2000 (Mtv)\r\n<h3>Radio<\/h3>\r\n\u00e8 in onda ogni domenica dalle 22 alle 24 con il <strong>\u201cBoss del weekend\u201d<\/strong>\r\n\r\n2017 - 2013\r\n\u00e8 in diretta a Radio Italia tutti i week end, alle h 17\r\n2008 - 2005\r\nconduce Hi Tech a Radio Monte Carlo, tutti i giorni alle h 14\r\n1998\r\ndeejay a Radio Deejay\r\n1997\r\nconduttore radiofonico a RTL\r\n1996\r\ndeejay a Radio Capital",
+                    "permalink": "https:\/\/www.deejay.it\/conduttori\/daniele-bossari\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/profondo-boss\/"
+        },
+        {
+            "id": 6958,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6959,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6959"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/10\/1400x1400-PrimaPoiMiSposo.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/10\/1400x1400-PrimaPoiMiSposo-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/10\/1400x1400-PrimaPoiMiSposo.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/10\/1400x1400-PrimaPoiMiSposo.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/10\/1400x1400-PrimaPoiMiSposo-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/10\/1400x1400-PrimaPoiMiSposo.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/10\/1400x1400-PrimaPoiMiSposo.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/10\/1400x1400-PrimaPoiMiSposo.jpg"
+            },
+            "cover_app_images": null,
+            "genres": [
+                "Musica",
+                "Storie",
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Prima o poi mi sposo",
+            "description": "Tutto inizia da una proposta e da una data e continua in un mix organizzato di scelte e tradizioni per culminare nell\u2019emozione pi\u00f9 grande, condivisa con chi si ama. Un matrimonio non \u00e8 solo un evento: \u00e8 molto di pi\u00f9. Tra immaginazione e realt\u00e0, \u00e8 un intreccio armonioso e personalizzato di professionisti appassionati, \u00e8 dedizione e arte, desideri e dettagli. La wedding planner Alessandra Pirola Baietta racchiude in questo piccolo manuale consigli ed esperienze vissute al fianco di tante coppie, per aiutarvi ad organizzare il matrimonio che sia la perfetta espressione di ci\u00f2 che siete.\r\nAd accompagnarla c\u2019\u00e8 La Vale, che ad Alessandra ha affidato il suo giorno speciale.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/10\/1400x1400-PrimaPoiMiSposo.jpg",
+            "id_ext": "espresso:mhub:10536883",
+            "speakers": [
+                {
+                    "id": 94,
+                    "name": "Valentina Ricci",
+                    "description": "Valentina nasce e vive alla periferia ovest di Milano. Studentessa modello, fino alle medie, colleziona una serie di insuccessi scolastici che passando dal raggiungimento della maturit\u00e0 classica dopo sei anni di fatiche, la portano ad abbandonare l\u2019universit\u00e0 UILM di Milano dopo tre anni dall\u2019iscrizione.\r\n\r\nNel 2001 inizia a lavorare per caso a <strong>Radio Deejay<\/strong> e non se ne andr\u00e0 pi\u00f9 da via Massena, 2. Per due anni \u00e8 autrice e redattrice di <strong>Paoletta<\/strong>. Nel 2003 inizia il sodalizio con <strong>La Pina<\/strong> e con <strong>Diego<\/strong> a <strong>Pinocchio<\/strong>. Inizialmente come autrice, col tempo invece da voce fuori campo diventa co-conduttrice di uno dei programmi pi\u00f9 longevi e di maggior successo di Radio Deeejay.\r\n\r\nNel frattempo scrive con Pina e Diego il libro \u201c<strong>Ciao, che fate?<\/strong>\u201d edito Mondadori.\r\n\r\nNell\u2019estate 2016 conduce su Radio Deejay il primo programma tutto suo, <strong>Spin-off<\/strong> in onda tutti i giorni alle 12. Nella stagione 2016\/2017 conduce la prima classifica italiana targata Radio Deejay il sabato mattina alle 9.00.\r\n\r\nNel 2013 Nicola Savino la vuole come inviata nella sua prima edizione di Quelli che il calcio. Ha collaborato come testimonial con diversi brand tra cui Adidas, Triumph, Oreo, Google, Pringles e Julius Meinl.\r\n\r\nNel 2017\/2018 ha condotto per Jack Daniel\u2019s il Tennessee Campus on tour in giro per l\u2019Italia.\r\n\r\nAttualmente \u00e8 in onda su Radio Deejay dal luned\u00ec a venerd\u00ec dalle 17.00 alle 19.00 con <strong>Pinocchio<\/strong>, il sabato alle 19.00 con<strong> Guido Bagatta<\/strong> e quando capita con <strong>Vic<\/strong>, con il quale ha creato un duo amatissimo dagli ascoltatori di Deejay.\r\n\r\n\u00c8 famosa per essere quella che da voce i flop, agli insuccessi, soprattutto in ambito amoroso. Anche se ora un fidanzato, o \u201cmiracolo\u201d come lo chiama sua mamma, ce l\u2019ha. La Vale \u00e8 la vicina della porta accanto alla quale non manca mai una bottiglia di bianco al fresco con la quale brindare quando le cose vanno bene, ma soprattutto quando vanno male.",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/chiamate-roma-triuno-triuno\/puntate\/chiamate-roma-triuno-triuno-del-24-03-2009\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6957,
+                    "name": "Alessandra Pirola Baietta",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/catteland\/puntate\/catteland-del-15-12-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 94,
+                    "name": "Valentina Ricci",
+                    "description": "Valentina nasce e vive alla periferia ovest di Milano. Studentessa modello, fino alle medie, colleziona una serie di insuccessi scolastici che passando dal raggiungimento della maturit\u00e0 classica dopo sei anni di fatiche, la portano ad abbandonare l\u2019universit\u00e0 UILM di Milano dopo tre anni dall\u2019iscrizione.\r\n\r\nNel 2001 inizia a lavorare per caso a <strong>Radio Deejay<\/strong> e non se ne andr\u00e0 pi\u00f9 da via Massena, 2. Per due anni \u00e8 autrice e redattrice di <strong>Paoletta<\/strong>. Nel 2003 inizia il sodalizio con <strong>La Pina<\/strong> e con <strong>Diego<\/strong> a <strong>Pinocchio<\/strong>. Inizialmente come autrice, col tempo invece da voce fuori campo diventa co-conduttrice di uno dei programmi pi\u00f9 longevi e di maggior successo di Radio Deeejay.\r\n\r\nNel frattempo scrive con Pina e Diego il libro \u201c<strong>Ciao, che fate?<\/strong>\u201d edito Mondadori.\r\n\r\nNell\u2019estate 2016 conduce su Radio Deejay il primo programma tutto suo, <strong>Spin-off<\/strong> in onda tutti i giorni alle 12. Nella stagione 2016\/2017 conduce la prima classifica italiana targata Radio Deejay il sabato mattina alle 9.00.\r\n\r\nNel 2013 Nicola Savino la vuole come inviata nella sua prima edizione di Quelli che il calcio. Ha collaborato come testimonial con diversi brand tra cui Adidas, Triumph, Oreo, Google, Pringles e Julius Meinl.\r\n\r\nNel 2017\/2018 ha condotto per Jack Daniel\u2019s il Tennessee Campus on tour in giro per l\u2019Italia.\r\n\r\nAttualmente \u00e8 in onda su Radio Deejay dal luned\u00ec a venerd\u00ec dalle 17.00 alle 19.00 con <strong>Pinocchio<\/strong>, il sabato alle 19.00 con<strong> Guido Bagatta<\/strong> e quando capita con <strong>Vic<\/strong>, con il quale ha creato un duo amatissimo dagli ascoltatori di Deejay.\r\n\r\n\u00c8 famosa per essere quella che da voce i flop, agli insuccessi, soprattutto in ambito amoroso. Anche se ora un fidanzato, o \u201cmiracolo\u201d come lo chiama sua mamma, ce l\u2019ha. La Vale \u00e8 la vicina della porta accanto alla quale non manca mai una bottiglia di bianco al fresco con la quale brindare quando le cose vanno bene, ma soprattutto quando vanno male.",
+                    "permalink": "https:\/\/www.deejay.it\/conduttori\/valentina-ricci\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6957,
+                    "name": "Alessandra Pirola Baietta",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/alessandra-pirola-baietta\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/prima-o-poi-mi-sposo\/"
+        },
+        {
+            "id": 7053,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 7054,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/7054"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-PopPorno.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-PopPorno-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-PopPorno.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-PopPorno.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-PopPorno-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-PopPorno.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-PopPorno.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-PopPorno.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/PopPorno-AppDeejay-800x1200.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/PopPorno-AppDeejay-800x1200-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/PopPorno-AppDeejay-800x1200.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/PopPorno-AppDeejay-800x1200.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/PopPorno-AppDeejay-800x1200-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/PopPorno-AppDeejay-800x1200.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/PopPorno-AppDeejay-800x1200.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/PopPorno-AppDeejay-800x1200.jpg"
+            },
+            "genres": [
+                "Cultura e Societ\u00e0",
+                "Storie"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Pop Porno",
+            "description": "Filippo Ferrari, editor di Rolling Stone e podcaster, vi trascina nella spirale delle teorie pi\u00f9 assurde del web. Pippo Franco \u00e8 stato sostituito come Paul McCartney? Quali sono i segreti del cast di Glee? Lo sapevate che Samantha Cristoforetti non esiste? Salite a bordo della nostra navicella per un viaggio nelle parti basse della cultura pop. Perch\u00e9 le teorie pazze sono tutte belle, ma quelle sulle celebrities un po\u2019 di pi\u00f9.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/01\/1400x1400-PopPorno.jpg",
+            "id_ext": "espresso:mhub:11118435",
+            "speakers": [
+                {
+                    "id": 7051,
+                    "name": "Filippo Ferrari",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/ciao-belli\/puntate\/ciao-belli-del-09-01-2015\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 7051,
+                    "name": "Filippo Ferrari",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/filippo-ferrari\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 7052,
+                    "name": "Emil Yardo",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/emil-yardo\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/pop-porno\/"
+        },
+        {
+            "id": 6787,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6788,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6788"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/05\/1400x1400-PiacereMio.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/05\/1400x1400-PiacereMio-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/05\/1400x1400-PiacereMio.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/05\/1400x1400-PiacereMio.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/05\/1400x1400-PiacereMio-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/05\/1400x1400-PiacereMio.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/05\/1400x1400-PiacereMio.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/05\/1400x1400-PiacereMio.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/09\/PiacereMio-AppDeejay-800x1200.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/09\/PiacereMio-AppDeejay-800x1200-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/09\/PiacereMio-AppDeejay-800x1200.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/09\/PiacereMio-AppDeejay-800x1200.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/09\/PiacereMio-AppDeejay-800x1200-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/09\/PiacereMio-AppDeejay-800x1200.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/09\/PiacereMio-AppDeejay-800x1200.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/09\/PiacereMio-AppDeejay-800x1200.jpg"
+            },
+            "genres": [
+                "Storie",
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Piacere mio - La storia del sesso",
+            "description": "Oggi sappiamo la storia di tutto, della nostra specie, del nostro pianeta e anche la storia della farina macinata a pietra dei biscotti biosostenibili che mangiamo la mattina. Ma spesso ignoriamo la storia di una delle pratiche pi\u00f9 antiche e importanti di sempre: il sesso.\r\nPer questo nasce \u201cPiacere Mio\u201d, il podcast che racconta l\u2019evoluzione delle usanze e delle pratiche sessuali nei secoli, dall\u2019et\u00e0 della pietra fino ad oggi. In ogni puntata Federica Cacciola dialoga con un ospite d\u2019eccezione, tra fatti storici, curiosit\u00e0 ed aneddoti personali, per parlare liberamente e senza tab\u00f9, dell\u2019argomento meno rispettabile di sempre.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/05\/1400x1400-PiacereMio.jpg",
+            "id_ext": "espresso:mhub:9416332",
+            "speakers": [
+                {
+                    "id": 4934,
+                    "name": "Federica Cacciola",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/deejay-6-tu\/puntate\/deejay-6-tu-del-10-12-2013\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 4934,
+                    "name": "Federica Cacciola",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/federica-cacciola\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 7210,
+                    "name": "Valeria Dalcore",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/valeria-dalcore\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/piacere-mio-la-storia-del-sesso\/"
+        },
+        {
+            "id": 6549,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6550,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6550"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/01\/3000x3000_oroscopodcast-2.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/01\/3000x3000_oroscopodcast-2-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/01\/3000x3000_oroscopodcast-2.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/01\/3000x3000_oroscopodcast-2.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/01\/3000x3000_oroscopodcast-2-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/01\/3000x3000_oroscopodcast-2.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/01\/3000x3000_oroscopodcast-2.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/01\/3000x3000_oroscopodcast-2.jpg"
+            },
+            "cover_app_images": null,
+            "genres": [
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Oroscopodcast",
+            "description": "Tutti, anche i pi\u00f9 scettici, se si trovano a sfogliare una rivista, danno una sbirciatina all\u2019Oroscopo, che sia per il proprio segno o per quello di compagni, amanti, amici, colleghi o conoscenti. Ma per chi l\u2019Oroscopo vuole anche ascoltarlo e non solo leggerlo, magari in macchina il luned\u00ec mattina andando a lavoro, o la domenica sera, prima di andare a letto pensando alla nuova settimana, arriva l\u2019Oroscopodcast di Ginny Chiara Viola, astrologa e storica contributor di Radio Deejay: segno per segno una dritta in base alle stelle, un consiglio amoroso e una cosa pratica da fare subito. Immancabile la consueta \u201cParola buona per te\u201d, il marchio di fabbrica di Ginny: spunti da leggere, ascoltare, guardare, per crescere sotto questo cielo stellato, settimana dopo settimana. Esce tutte le domeniche sull\u2019app di One Podcast, sull\u2019app di Radio Deejay e su tutte le principali piattaforme.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/01\/3000x3000_oroscopodcast-2.jpg",
+            "id_ext": "espresso:mhub:7474386",
+            "speakers": [
+                {
+                    "id": 5212,
+                    "name": "Ginny Chiara Viola",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/via-massena\/puntate\/via-massena-del-04-02-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 5212,
+                    "name": "Ginny Chiara Viola",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/ginny-chiara-viola\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/oroscopodcast\/"
+        },
+        {
+            "id": 7171,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 7172,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/7172"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-NuoviOrizzontiConLufth.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-NuoviOrizzontiConLufth-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-NuoviOrizzontiConLufth.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-NuoviOrizzontiConLufth.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-NuoviOrizzontiConLufth-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-NuoviOrizzontiConLufth.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-NuoviOrizzontiConLufth.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-NuoviOrizzontiConLufth.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-NuoviOrizzontiConLufthansa.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-NuoviOrizzontiConLufthansa-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-NuoviOrizzontiConLufthansa.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-NuoviOrizzontiConLufthansa.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-NuoviOrizzontiConLufthansa-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-NuoviOrizzontiConLufthansa.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-NuoviOrizzontiConLufthansa.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/800x1200-NuoviOrizzontiConLufthansa.jpg"
+            },
+            "genres": [
+                "Cultura e Societ\u00e0"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Nuovi Orizzonti con Lufthansa",
+            "description": "Un viaggio pu\u00f2 essere affrontato in diversi modi.\r\nOrganizzandosi nel dettaglio, prenotando tutto il possibile o lasciando che le cose succedano, preparandosi all\u2019ultimo minuto, improvvisando quando serve, cercando l\u2019avventura in ogni angolo del paese.\r\nCon questo podcast Vic e Federico Russo, speaker storici di Radio Deejay vi porteranno in 5 destinazioni ideali per una vacanza.\r\nVi racconteranno le loro esperienze, da non esperti di viaggio, sperando possano esservi d\u2019ispirazione.\r\nVic e Federico hanno avuto la fortuna di volare in giro per il mondo e ogni viaggio \u00e8 diventato un\u2019esperienza da raccontare a modo loro.\r\nQuesto \u00e8 \u201cNUOVI ORIZZONTI CON LUFTHANSA\u201d.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/04\/1400x1400-NuoviOrizzontiConLufth.jpg",
+            "id_ext": "espresso:mhub:11817014",
+            "speakers": [
+                {
+                    "id": 95,
+                    "name": "Vic",
+                    "description": "Nato a Monza (MI) il 29 dicembre 1972, inizia da piccole radio locali, riuscendo a finire ragioneria, iscrivendosi poi a legge.\r\n\r\nNel 2000 Canale 5 presenta la prima edizione del Grande Fratello, e viC dopo averlo seguito nella versione inglese e in quella spagnola, accetta l\u2019invito della <strong>Pina<\/strong> a parlarne per radio in qualit\u00e0 di esperto. E\u2019 iniziato tutto cos\u00ec. Semplice, per caso. Forse \u00e8 proprio il caso che ha voluto che anche \u201cqualcun altro\u201d ascoltasse la radio in quei giorni e gli abbia poi chiesto di fare delle prove per andare in onda con un programma tutto suo: <strong>Deejay Compilation<\/strong>.\r\n\r\nTrasmette la prima volta a Deejay il 29 dicembre del 2001. Un bel compleanno a dirla tutta. Nel gennaio del 2002 conduce con La Pina Deejay Compilation, e da settembre si sposta a mezzogiorno nel Gb Show con <strong>Guido Bagatta<\/strong>. La collaborazione con Guido continua per tutta la stagione, ma contemporaneamente, ad ottobre dello stesso anno, conduce con <strong>Victoria Cabello<\/strong> la puntata del mercoled\u00ec di Prima Serata: <strong>Victoria\u2019s Secrets<\/strong>. Dopo una parentesi serale nell\u2019estate del 2003 (il programma era intitolato viChiamo io), le dirette continuano di notte: <strong>The Last Deejay<\/strong> inizia alle 23.00 e finisce all\u20191.00. Nella stessa stagione eredita il programma domenicale del <strong>Trio Medusa<\/strong>, <strong>Ultimo Stadio<\/strong>, che conduce con <strong>Michele Dalai<\/strong>.\r\n\r\nNel 2005 eredita la conduzione a due del programma <strong>La Bomba<\/strong> e inizia la sua avventura radiofonica con la bravissima <strong>Luciana Littizzetto<\/strong>.\r\n\r\nA Partire dalla stagione 2006\/2007 approda al preserale con <strong>Vickipedia<\/strong>, programma di notizie ed approfondimenti sulla giornata e condotto con l&#039;aiuto dell&#039;amico giornalista Andrea Prevignano. I due in quel periodo creano una rubrica molto amata dal pubblico di Deejay, intitolata <strong>Piccoli Criminali Crescono<\/strong>, dove ogni giorno le gesta di deliquenti decisamente disorganizzati, vengono raccontate e commentate dai due.\r\n\r\nCon la stagione 2010 le cose cambiano e dopo una versione estiva di <strong>Collezione Privata<\/strong>, torna a mezzogiorno con <strong>The Network<\/strong> un difficile e fortunato esperimento radiofonico, dove ascoltatori da tutto il mondo raccontano le loro avventure, i cambiamenti e le scelte di una vita oltre confine.\r\n\r\nContemporaneamente alla radio, la sua passione per i telefilm lo porta in tv con il programma<strong> Destinazione Serie<\/strong> in onda su Jimmy e diventa ospite fisso e moderatore del Telefilm Festival di Milano. E dal 2010 dopo una versione in \u201cpillole\u201d per il lancio del canale Deejay Tv, insieme a Federico Russo e Brenda Lodigiani, recita nella sitcom intitolata <strong>Via Massena<\/strong>. Il programma riscosso un notevole successo di pubblico, vedr\u00e0 una seconda serie l&#039;anno successivo.\r\n\r\nSpesso fa da supplente ufficile nel programma Cordialmente, condotto da Elio e le Storie Tese, chiamato in tutte le occasioni in cui il presentatore padrone di casa Linus \u00e8 impossibilitato ad esserci\r\n\r\nGrande appassionato di sport estremi, realizza per Deejay Tv il programma <strong>Gi\u00f9 In 60 Secondi<\/strong>, dove insieme alla sua squadra di paracadutisti, invita ospiti della tv, dello sport e dello spettacolo a lanciarsi per la prima volta da un aereo in tandem a 4000 metri.\r\n\r\nAttualmente \u00e8 in onda su Radio Deejay con<strong>\u00a0Buonasera Deejay<\/strong>\u00a0in diretta da luned\u00ec a venerd\u00ec e con <strong>La Bomba<\/strong> il sabato mattina.\r\n\r\n\u00a0",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/deejay-chiama-italia\/puntate\/deejay-chiama-italia-del-24-03-2009\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 65,
+                    "name": "Federico Russo",
+                    "description": "Federico Russo nasce a Firenze alle quattro e venti del pomeriggio del 22 dicembre 1980.\r\nFrequenta il liceo classico e la spunta liscio liscio con un fiero 60\/100 alla maturit\u00e0.\r\nNegli anni del liceo, dopo aver abbandonato la \"promettente\" carriera calcistica, fonda con il suo compagno di banco gli \u201cScrabbles\u201d, gruppo del quale \u00e8 cantante, con cui si esibisce in giro per la Toscana sognando Smashing Pumpkins, Rolling Stones, Modern Lovers, Led Zeppelin e tutto ci\u00f2 che c'\u00e8 di irraggiungibile!\r\nRadio\r\nNel settembre 2001 debutta come speaker in un\u2019emittente toscana: \u201cRadio Sieve\u201d.\r\nNel 2003 approda a Radio Dimensione Suono, dove rimane nei successivi quattro anni.\r\nNel gennaio 2007 entra a far parte del cast di Radio Deejay.\r\nTelevisione\r\nNel 2002 partecipa come concorrente e poi come inviato al\u00a0programma di Italia 1 \u201cOperazione trionfo\u201d.\r\nNel\u00a0gennaio 2004\u00a0diventa uno dei volti\u00a0di MTV, dove conduce\u00a0diversi programmi, tra cui\u00a0\u201cTRL- Total Request Live\u201d\r\nNel 2006 conduce su AXN, canale satellitare della Sony (di Sky Italia),\u00a0lo show \u201cSnaparazzi\u201d.\r\n\r\nNel 2014 presenta l'edizione italiana di The Voice, su Raidue\r\n\r\nSu Deejay ha condotto 30 Songs, FM con Marisa Passera e Via Massena con Marisa Passera e Vic.\r\n\r\nAttualmente \u00e8 in onda\u00a0in <strong>Summer Camp<\/strong>\u00a0con\u00a0Francesco Quarna e Nikki",
+                    "permalink": "https:\/\/www.deejay.it\/2019\/04\/02\/65\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 7168,
+                    "name": "Walter Proserpio",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/walter-proserpio\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/nuovi-orizzonti-con-lufthansa\/"
+        },
+        {
+            "id": 7110,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 7111,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/7111"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_1400x14001.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_1400x14001-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_1400x14001.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_1400x14001.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_1400x14001-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_1400x14001.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_1400x14001.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_1400x14001.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_800x1200.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_800x1200-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_800x1200.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_800x1200.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_800x1200-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_800x1200.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_800x1200.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_800x1200.jpg"
+            },
+            "genres": [
+                "Cultura e Societ\u00e0",
+                "Storie",
+                "Salute e Benessere"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Mille Pare con Alessia Lanza",
+            "description": "Chi di noi non si trova ad affrontare quotidianamente \u201cmille pare\u201d?\r\nAlessia Lanza, celebre e giovanissima content creator, si mette a nudo per raccontare le sue.\r\nIn ogni episodio, con il supporto della psicologa Samantha Vitali, ne affronter\u00e0 una diversa, per esorcizzare le sue e le nostre fragilit\u00e0.\r\n\r\n\"Perch\u00e9 in un mondo in cui tutti pensano di farcela da soli, io credo nel potere della condivisione\u201d",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/03\/MILLE_PARE_1400x14001.jpg",
+            "id_ext": "espresso:mhub:11506457",
+            "speakers": [
+                {
+                    "id": 6835,
+                    "name": "Alessia Lanza",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/pinocchio\/puntate\/pinocchio-del-26-11-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 6535,
+                    "name": "Costanza Danelon",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/costanza-danelon\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/mille-pare-con-alessia-lanza\/"
+        },
+        {
+            "id": 6977,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6978,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6978"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/1400x1400-MemoTraining-1.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/1400x1400-MemoTraining-1-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/1400x1400-MemoTraining-1.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/1400x1400-MemoTraining-1.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/1400x1400-MemoTraining-1-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/1400x1400-MemoTraining-1.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/1400x1400-MemoTraining-1.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/1400x1400-MemoTraining-1.jpg"
+            },
+            "cover_app_images": null,
+            "genres": [
+                "Salute e Benessere"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Memo Training - Porta in palestra la tua memoria",
+            "description": "Portare in palestra il nostro corpo \u00e8 diventata un'abitudine per molti, allenare la nostra memoria invece \u00e8 una novit\u00e0.\r\nQuesto podcast ha l'obiettivo di allenare il cervello e stimolare la memoria, sviluppare creativit\u00e0 e abilit\u00e0 nascoste che tutti abbiamo ma che in pochi sono in grado di applicare alla vita quotidiana.\r\nNicola Vitiello, speaker di Radio Deejay e Giovanni Sposito, istruttore di tecniche di memoria e lettura veloce , ci accompagneranno in questa palestra virtuale. Buon allenamento!",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2022\/11\/1400x1400-MemoTraining-1.jpg",
+            "id_ext": "espresso:mhub:10643719",
+            "speakers": [
+                {
+                    "id": 84,
+                    "name": "Nicola Vitiello",
+                    "description": "300 Premi Fedelt\u00e0 vinti!!! Sar\u00e0 stato questo a fare letteralmente innamorare Nicola di Radio Deejay?\r\n\r\nE' iniziata proprio in questo modo, a 15 anni, la sua avventura radiofonica: da ascoltatore attivo!\r\nNicola vive di radio da un bel po\u2019 di tempo. Pur di gravitare nel mondo Deejay, Nicola scelto da Claudio Cecchetto, nel 1992 inizia come giornalista a Radio Capital, (\u00e8 pubblicista dal 1995) dove scrive, legge i notiziari e collabora in redazione ai programmi di Amadeus e Luca Laurenti, Fiorello, Beppe Fiorello, Giorgio Mastrota, Gabriella Golia.\r\n\r\nEd \u00e8 proprio a Radio Capital che conosce Digei Angelo e Nicola Savino con i quali inizia un lavoro che l\u2019ha fatto crescere professionalmente. Infatti, qualche anno dopo, nel 1997, arriva a Radio Deejay, diretta da Linus, nella squadra di \"Ciao Belli\" al quale presta la sua voce e collabora all'ideazione dei testi e dei personaggi. Nicola ha interpretato, tra gli altri, Gianni Nespolo, il colorito ed esplicito venditore di auto della concessionaria \"AUTONESPOLO\" e il maggiordomo Vito Pastello.\r\n\r\nDal 2001 iniziano per lui le sveglie prima dell'alba per \"6Sveglio\", programma del quale \u00e8 stato autore e conduttore, e che dava il via alla giornata di Radio Deejay. Prima di avere un programma tutto suo, ha redatto e letto i notiziari ed ha collaborato alla redazione del programma di Marco Baldini (Baldini'S Land).\r\n\r\nNicola si occupa di molte altre cose che ruotano intorno alle sue tante passioni: speaker pubblicitario nazionale, (ha prestato la sua voce anche per l'introduzione di \"PIOVE-REMIX\" di Lorenzo-Jovanotti. E' stato la voce ufficiale di IT-ITALIA TEEN TELEVISION e la voce di Real Duel, dal format Real Tv in onda su DUEL TV, entrambi canali satellitari di Mediaset), autore televisivo per il programma \"Dance It\", presentatore in diverse convention di aziende nazionali (FASTWEB, FABRICA-BENETTON, SEA-AEREOPORTI, HYUNDAY, ADIDAS) animatore e Dj in discoteca.\r\n\r\nNicola che ha frequentato una scuola di recitazione, grazie alle sue spontanee doti recitative, ha interpretato 4 cortometraggi realizzati con giovani registi italiani. Il cinema \u00e8 tra le sue grandi passioni: ha condotto diverse stagioni di \u201cCINEMA DEEJAY\u201d il settimanale cinematografico della radio.\r\n\r\nHa avuto anche una fortunata esperienza come \"Iena\" nell'omonimo programma di Italia1. Suo infatti il servizio in cui, facendo irruzione sul palco del teatro dove si eleggeva Miss Padania chiedeva, in napoletano, una raccomandazione ad Umberto Bossi per poter sposare una \"donna Padana\".\r\n\r\nMa Radio Deejay rimane la sua grande passione e visto l\u2019orario in cui ha suonato la sua sveglia ogni mattina per sei anni, non lo possiamo dubitare. Infatti con 6 Sveglio, in onda tutte le mattine dalle 6.00 alle 7.00, Nicola ha aperto il palinsesto della Radio e non sono state solo le \u201cSveglie Birichine\u201d a mettere in risalto la sua abilit\u00e0 di improvvisare in diretta ma anche le sue doti giornalistiche, un forte senso dell\u2019ironia ed una sincera cordialit\u00e0 che hanno reso gradevole il risveglio degli ascoltatori di Radio Deejay.\r\n\r\nDa Febbraio 2007 inizia a collaborare con All Music, in qualit\u00e0 di speaker per i programmi \"In prova\" e \"Cinerama\" e da Giugno commenta le divertenti \"papere\" in onda nel programma \"Amici miei\", su Comedy Central. (Sky canale 115).\r\n\r\nDa Settembre dello stesso anno Nicola ha avuto un nuovo ruolo ed una nuova collocazione nel palinsesto di Radio Deejay con il programma \"Domenica Deejay\", sei ore in diretta, dalle 17.00 alle 23.00.\r\nUn nuovo programma, un nuovo format, voluto da Linus e pensato da Nicola insieme ad un gruppo di validi collaboratori, giornalisti e redattori.\r\nNicola \u00e8 stato anche la voce di \"Scorie\" il dopo Isola dei Famosi, condotto da Nicola Savino e Digei Angelo nelle prime edizioni e in seguito da Elena Di Cioccio.\r\n\r\nSempre nel 2007 conosce Gianluca Vitiello, lo vuole al suo fianco in redazione, e in brevissimo tempo nasce una fortunata collaborazione anche al microfono. I due, sfruttando dapprima la casuale omonimia e una spontanea sintonia emotiva ed artistica, molto partenopea, conducono con grande successo \u201cDeenotte\u201d, l\u2019appuntamento notturno nel quale gli ascoltatori di Radio Deejay si raccontano intimamente. Giunto quest\u2019anno alla sua terza stagione, con migliaia di contatti quotidiani, anche sulle loro pagine Facebook, Deenotte dei Vitiello, si conferma vero e proprio programma \u201ccult\u201d della notte radiofonica italiana.\r\n\r\nNel 2010 i Vitiello, Nicola e Gianluca, hanno anche recitato in numerose puntate di \u201cVia Massena\u201d, la sketch-com di Deejay Tv e commentato per Rai2 le performance dei cantanti di X-Factor ne \u201cIl processo ad X-Factor\u201d.\r\n\r\nAttualmente Nicola Vitiello conduce con Gianluca Vitiello il programma Dee Notte .",
+                    "permalink": false,
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6976,
+                    "name": "Giovanni Sposito",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/via-massena\/puntate\/via-massena-del-18-12-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 84,
+                    "name": "Nicola Vitiello",
+                    "description": "300 Premi Fedelt\u00e0 vinti!!! Sar\u00e0 stato questo a fare letteralmente innamorare Nicola di Radio Deejay?\r\n\r\nE' iniziata proprio in questo modo, a 15 anni, la sua avventura radiofonica: da ascoltatore attivo!\r\nNicola vive di radio da un bel po\u2019 di tempo. Pur di gravitare nel mondo Deejay, Nicola scelto da Claudio Cecchetto, nel 1992 inizia come giornalista a Radio Capital, (\u00e8 pubblicista dal 1995) dove scrive, legge i notiziari e collabora in redazione ai programmi di Amadeus e Luca Laurenti, Fiorello, Beppe Fiorello, Giorgio Mastrota, Gabriella Golia.\r\n\r\nEd \u00e8 proprio a Radio Capital che conosce Digei Angelo e Nicola Savino con i quali inizia un lavoro che l\u2019ha fatto crescere professionalmente. Infatti, qualche anno dopo, nel 1997, arriva a Radio Deejay, diretta da Linus, nella squadra di \"Ciao Belli\" al quale presta la sua voce e collabora all'ideazione dei testi e dei personaggi. Nicola ha interpretato, tra gli altri, Gianni Nespolo, il colorito ed esplicito venditore di auto della concessionaria \"AUTONESPOLO\" e il maggiordomo Vito Pastello.\r\n\r\nDal 2001 iniziano per lui le sveglie prima dell'alba per \"6Sveglio\", programma del quale \u00e8 stato autore e conduttore, e che dava il via alla giornata di Radio Deejay. Prima di avere un programma tutto suo, ha redatto e letto i notiziari ed ha collaborato alla redazione del programma di Marco Baldini (Baldini'S Land).\r\n\r\nNicola si occupa di molte altre cose che ruotano intorno alle sue tante passioni: speaker pubblicitario nazionale, (ha prestato la sua voce anche per l'introduzione di \"PIOVE-REMIX\" di Lorenzo-Jovanotti. E' stato la voce ufficiale di IT-ITALIA TEEN TELEVISION e la voce di Real Duel, dal format Real Tv in onda su DUEL TV, entrambi canali satellitari di Mediaset), autore televisivo per il programma \"Dance It\", presentatore in diverse convention di aziende nazionali (FASTWEB, FABRICA-BENETTON, SEA-AEREOPORTI, HYUNDAY, ADIDAS) animatore e Dj in discoteca.\r\n\r\nNicola che ha frequentato una scuola di recitazione, grazie alle sue spontanee doti recitative, ha interpretato 4 cortometraggi realizzati con giovani registi italiani. Il cinema \u00e8 tra le sue grandi passioni: ha condotto diverse stagioni di \u201cCINEMA DEEJAY\u201d il settimanale cinematografico della radio.\r\n\r\nHa avuto anche una fortunata esperienza come \"Iena\" nell'omonimo programma di Italia1. Suo infatti il servizio in cui, facendo irruzione sul palco del teatro dove si eleggeva Miss Padania chiedeva, in napoletano, una raccomandazione ad Umberto Bossi per poter sposare una \"donna Padana\".\r\n\r\nMa Radio Deejay rimane la sua grande passione e visto l\u2019orario in cui ha suonato la sua sveglia ogni mattina per sei anni, non lo possiamo dubitare. Infatti con 6 Sveglio, in onda tutte le mattine dalle 6.00 alle 7.00, Nicola ha aperto il palinsesto della Radio e non sono state solo le \u201cSveglie Birichine\u201d a mettere in risalto la sua abilit\u00e0 di improvvisare in diretta ma anche le sue doti giornalistiche, un forte senso dell\u2019ironia ed una sincera cordialit\u00e0 che hanno reso gradevole il risveglio degli ascoltatori di Radio Deejay.\r\n\r\nDa Febbraio 2007 inizia a collaborare con All Music, in qualit\u00e0 di speaker per i programmi \"In prova\" e \"Cinerama\" e da Giugno commenta le divertenti \"papere\" in onda nel programma \"Amici miei\", su Comedy Central. (Sky canale 115).\r\n\r\nDa Settembre dello stesso anno Nicola ha avuto un nuovo ruolo ed una nuova collocazione nel palinsesto di Radio Deejay con il programma \"Domenica Deejay\", sei ore in diretta, dalle 17.00 alle 23.00.\r\nUn nuovo programma, un nuovo format, voluto da Linus e pensato da Nicola insieme ad un gruppo di validi collaboratori, giornalisti e redattori.\r\nNicola \u00e8 stato anche la voce di \"Scorie\" il dopo Isola dei Famosi, condotto da Nicola Savino e Digei Angelo nelle prime edizioni e in seguito da Elena Di Cioccio.\r\n\r\nSempre nel 2007 conosce Gianluca Vitiello, lo vuole al suo fianco in redazione, e in brevissimo tempo nasce una fortunata collaborazione anche al microfono. I due, sfruttando dapprima la casuale omonimia e una spontanea sintonia emotiva ed artistica, molto partenopea, conducono con grande successo \u201cDeenotte\u201d, l\u2019appuntamento notturno nel quale gli ascoltatori di Radio Deejay si raccontano intimamente. Giunto quest\u2019anno alla sua terza stagione, con migliaia di contatti quotidiani, anche sulle loro pagine Facebook, Deenotte dei Vitiello, si conferma vero e proprio programma \u201ccult\u201d della notte radiofonica italiana.\r\n\r\nNel 2010 i Vitiello, Nicola e Gianluca, hanno anche recitato in numerose puntate di \u201cVia Massena\u201d, la sketch-com di Deejay Tv e commentato per Rai2 le performance dei cantanti di X-Factor ne \u201cIl processo ad X-Factor\u201d.\r\n\r\nAttualmente Nicola Vitiello conduce con Gianluca Vitiello il programma Dee Notte .",
+                    "permalink": "https:\/\/www.deejay.it\/conduttori\/nicola-vitiello\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                },
+                {
+                    "id": 6976,
+                    "name": "Giovanni Sposito",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/giovanni-sposito\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/memo-training-porta-in-palestra-la-tua-memoria\/"
+        }
+    ]
+}
