@@ -1,5 +1,9 @@
 """Test suite to verify get_podcast_season_episodes() functionality."""
+from html import unescape
+from json import loads
 from pathlib import Path
+
+import pytest
 
 from resources.lib.deejayit import DeejayIt, Episode
 
@@ -10,31 +14,46 @@ PAGE = 1
 GET_URL = f"https://www.deejay.it/api/pub/v2/all/mhub/audios?season_id={SEASON_ID}&page={PAGE}&sort=desc"
 
 
-def test_get_podcast_season_episodes(requests_mock):
-    """Test positive case for get_podcast_season_episodes() query.
+def _giveme_an_ep(filepath: Path, idx: int) -> Episode:
+    eps = loads(filepath.read_text())["results"]
+    ep = eps[idx]
+    return Episode(
+        unescape(ep["name"]),
+        unescape(ep["description"]),
+        ep["hls_url"],
+        ep["images"]["size_320x320"],
+        ep["images"]["size_1200x675"],
+        ep["datePublished"],
+        unescape(" e ".join(spk["name"] for spk in ep["speakers"])),
+        unescape(ep["serie"]["name"]),
+    )
 
-    Asserts on Un etto di fumeeto, episodio 8.
+
+@pytest.mark.parametrize(
+    ("filename", "idx"),
+    [
+        ("trio", 0),
+        ("dnd", 0),
+    ],
+)
+def test_get_podcast_season_episodes(requests_mock, filename: str, idx: int):
+    """Verify you can retrieve season episodes.
 
     :param requests_mock: mocker for requests
-    :type requests_mock: mocked request
+    :type requests_mock: requests_mock
+    :param filename: name of the JSON file from where to read the exp result
+    :type filename: str
+    :param idx: index to select the epiode being the expected result
+    :type idx: int
     """
-    mock_answer = Path(__file__).parent / "trio.json"
-    requests_mock.get(GET_URL, text=mock_answer.read_text())
+    answer_path = Path(__file__).parent / f"{filename}.json"
+    exp_out = _giveme_an_ep(answer_path, idx)
+    requests_mock.get(GET_URL, text=answer_path.read_text())
     deejay = DeejayIt()
     p_eps = deejay.get_podcast_season_episodes(SEASON_ID, page_nr=PAGE)
-    exp_out = Episode(
-        "Episodio 8: Young Adult Parte 2",
-        'Nell\u2019ultima puntata di "Un etto di fumetto" il Trio Medusa racconta della prima protagonista LGBTQ+ nella storia dei cartoni animati e non solo: Lady Oscar, Occhi di Gatto, Lam\u00f9. Immancabile il contributo altamente inattendibile di Stefano Rapone.',
-        "https://media.deejay.it/2022/05/05/series/etto_fumetto/hls-etto_fumetto-s1_e8_un_etto_di_fumetto/hls-etto_fumetto-s1_e8_un_etto_di_fumetto.m3u8",
-        "https://cdn.gelestatic.it/deejay/sites/2/2022/03/1400x1400-UnEttodiFumetto-320x320.jpg",
-        "https://cdn.gelestatic.it/deejay/sites/2/2022/03/1400x1400-UnEttodiFumetto-1200x675.jpg",
-        "09/05/2022",
-        "Trio Medusa",
-        "Un etto di fumetto",
-    )
     for p_ep in p_eps:
-        if p_ep.title == "Episodio 8: Young Adult Parte 2":
+        if p_ep.title == exp_out.title:
+            assert p_ep == exp_out
             break
-    # pytest.fail makes the function exit, therefore the episode is always
-    # defined at this stage.
-    assert p_ep == exp_out
+    else:
+        pytest.fail(f"Cannot find {exp_out.title}!?")

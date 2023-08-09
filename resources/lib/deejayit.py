@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import logging
 from collections import namedtuple
+from html import unescape
 from typing import Any
 from urllib.parse import urljoin
 
@@ -135,8 +136,8 @@ class DeejayIt:
         return frozenset(
             WebRadio(
                 # name desc content_url logo_url fanart_url metadata
-                radio["title"],
-                radio["content"],
+                unescape(radio["title"]),
+                unescape(radio["content"]),
                 radio["streamingUrlHLS"],
                 radio["featuredImage"]["sizes"]["size_320x320"],  # logo_url
                 radio["appImage"]["sizes"]["size_1200x675"],  # fanart_url
@@ -162,9 +163,9 @@ class DeejayIt:
         # "name id desc logo_url fanart_url",
         return frozenset(
             Show(
-                show["name"],
+                unescape(show["name"]),
                 show["id"],
-                show["description"],
+                unescape(show["description"]),
                 show["images"]["size_320x320"],
                 show["images"]["size_1200x675"],
             )
@@ -204,14 +205,14 @@ class DeejayIt:
         return frozenset(
             # title desc content_url logo_url fanart_url date speakers program
             Episode(
-                ep["name"],
-                ep["description"],
+                unescape(ep["name"]),
+                unescape(ep["description"]),
                 ep["hls_url"] if ep["hls_url"] else ep["mp3_url"],
                 self._safe_get_pic(ep, "size_320x320"),  # logo_url
                 self._safe_get_pic(ep, "size_1200x675"),  # fanart_url
                 ep["datePublished"],  # dd/mm/yyyy
-                " e ".join(speaker["name"] for speaker in ep["speakers"]),
-                ep["program"]["name"],
+                unescape(" e ".join(speaker["name"] for speaker in ep["speakers"])),
+                unescape(ep["program"]["name"]),
             )
             for ep in eps_raw
         )
@@ -267,9 +268,9 @@ class DeejayIt:
 
         return frozenset(
             Show(
-                show["name"],
+                unescape(show["name"]),
                 show["serie_seasons"][0]["id"],
-                show["description"],
+                unescape(show["description"]),
                 show["images"]["size_480x320"],
                 show["image"],
             )
@@ -309,14 +310,14 @@ class DeejayIt:
         ).json()["results"]
         return frozenset(
             Episode(
-                ep["name"],
-                ep["description"],
+                unescape(ep["name"]),
+                unescape(ep["description"]),
                 ep["hls_url"] if ep["hls_url"] is not None else ep["mp3_url"],
                 ep["images"]["size_320x320"],
                 ep["images"]["size_1200x675"],
                 ep["datePublished"],
-                " e ".join(speaker["name"] for speaker in ep["speakers"]),
-                ep["serie"]["name"],
+                unescape(" e ".join(speaker["name"] for speaker in ep["speakers"])),
+                unescape(ep["serie"]["name"]),
             )
             for ep in eps_raw
         )
