@@ -331,7 +331,7 @@ def _build_main_page() -> None:
     targets = {
         "programmi": "Tutti i programmi",
         "webradio": "Webradio",
-        "podcasts": "Podcasts",
+        "podcasts": "Podcast",
     }
     for target, name in targets.items():
         xbmcplugin.addDirectoryItem(
