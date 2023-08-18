@@ -31,7 +31,6 @@ def _build_webradios_page() -> None:
             {
                 "icon": radio.logo_url,
                 "fanart": radio.fanart_url,
-                # TODO: @karrukola consider icon
             },
         )
         item.setProperty("IsPlayable", "true")
