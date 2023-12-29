@@ -7,7 +7,7 @@ from resources.lib.deejayit import DeejayIt, Episode
 
 # ruff: noqa: INP001, S101, B011, ANN201, ANN001
 
-EPS_URL = "https://www.deejay.it/api/pub/v2/all/mhub/search?program_id=15&audio_type=episode&page=1&pagination_rows=15&sort=desc"  # noqa: E501
+EPS_URL = "https://www.deejay.it/api/pub/v2/all/mhub/search?program_id=15&audio_type=episode&page=1&pagination_rows=15&sort=desc"
 
 
 def test_get_episodes(requests_mock):
@@ -26,9 +26,9 @@ def test_get_episodes(requests_mock):
         "Il ritorno del Concertozzo (Live in Carpi)",
         "La registrazione integrale del concerto di Elio e le Storie Tese "
         "andato in scena domenica 2 luglio 2023 in Piazza dei Martiri a Carpi",
-        "https://media.deejay.it/2023/07/02/episodes/cordialmente/hls-cordialmente-20230702/hls-cordialmente-20230702.m3u8",  # noqa: E501
-        "https://cdn.gelestatic.it/deejay/sites/2/2023/07/Elio-carpi-puntata-320x320.jpg",  # noqa: E501
-        "https://cdn.gelestatic.it/deejay/sites/2/2023/07/Elio-carpi-puntata-1200x627.jpg",  # noqa: E501
+        "https://media.deejay.it/2023/07/02/episodes/cordialmente/hls-cordialmente-20230702/hls-cordialmente-20230702.m3u8",
+        "https://cdn.gelestatic.it/deejay/sites/2/2023/07/Elio-carpi-puntata-320x320.jpg",
+        "https://cdn.gelestatic.it/deejay/sites/2/2023/07/Elio-carpi-puntata-1200x627.jpg",
         "02/07/2023",
         "Linus e Elio e le Storie Tese",
         "Cordialmente 4 stagioni",

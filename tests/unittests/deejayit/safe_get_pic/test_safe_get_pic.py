@@ -1,3 +1,6 @@
+"""Test the function to retrieve a pic's URL."""
+from __future__ import annotations
+
 from json import loads
 from pathlib import Path
 
@@ -5,15 +8,11 @@ import pytest
 
 from resources.lib.deejayit import DeejayIt
 
-
-@pytest.fixture(scope="session")
-def session_setup_teardown() -> DeejayIt:
-    deejayit = DeejayIt()
-    return deejayit
+# ruff: noqa: INP001, S101, B011, ANN201, ANN001
 
 
 @pytest.mark.parametrize(
-    "input_data,exp_out",
+    ("input_data", "exp_out"),
     [
         (
             "test_safe_get_pic_w_art.json",
@@ -25,10 +24,14 @@ def session_setup_teardown() -> DeejayIt:
         ),
     ],
 )
-def test_safe_get_pic(session_setup_teardown: DeejayIt, input_data, exp_out):
-    deejay = session_setup_teardown
+def test_safe_get_pic(
+    input_data: str,
+    exp_out: str | None,
+):
+    """Test the private function to get the URL of a pic."""
+    deejay = DeejayIt()
     test_data = input_data
     file_path = Path(__file__).parent / test_data
     print(file_path.absolute())
-    url = deejay._safe_get_pic(loads(file_path.read_text()), "size_1200x675")
+    url = deejay._safe_get_pic(loads(file_path.read_text()), "size_1200x675")  # noqa:SLF001
     assert url == exp_out

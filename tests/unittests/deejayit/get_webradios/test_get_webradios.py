@@ -26,10 +26,10 @@ def test_get_webradios(requests_mock):
     exp_out = WebRadio(
         "Radio Linetti",
         "La più bella musica radiofonica scelta da Linus.",
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8",  # noqa: E501
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8",
         "https://cdn.gelestatic.it/deejay/sites/2/2019/04/linetti-320x320.png",
         "https://cdn.gelestatic.it/deejay/sites/2/2019/04/webradio_linus1-1200x675.jpg",
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/metadata/deejaywfmlinus.json",  # noqa: E501
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/metadata/deejaywfmlinus.json",
     )
 
     assert len(radios) == NR_RADIOS

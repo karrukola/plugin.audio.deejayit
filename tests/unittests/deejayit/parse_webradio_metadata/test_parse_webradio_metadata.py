@@ -8,8 +8,8 @@ from resources.lib.deejayit import DeejayIt, WebRadioMetadata
 
 # ruff: noqa: INP001, S101, B011, ANN201, ANN001
 
-LINETTI_URL = "https://streamcdnb10-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/metadata/deejaywfmlinus.json"  # noqa: E501
-DEEJAY_TIME_URL = "https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/metadata/deejaytime.json"  # noqa: E501
+LINETTI_URL = "https://streamcdnb10-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/metadata/deejaywfmlinus.json"
+DEEJAY_TIME_URL = "https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/metadata/deejaytime.json"
 
 
 def test_linetti(requests_mock):
@@ -29,7 +29,7 @@ def test_linetti(requests_mock):
         "The Look Of Love",
         "ABC",
         "The Lexicon Of Love",
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song003275_100x100.jpg",  # noqa: E501
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song003275_100x100.jpg",
         "2023-07-22 11:46:25",
     )
 
@@ -53,7 +53,7 @@ def test_deejaytime_no_album(requests_mock):
         "All I Really Want",
         "KIM LUKAS",
         None,
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song078194_100x100.jpg",  # noqa: E501
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song078194_100x100.jpg",
         "2023-07-22 23:05:24",
     )
 

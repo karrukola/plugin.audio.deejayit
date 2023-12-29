@@ -9,6 +9,7 @@
         "TD",
         "FIX001",
         "FIX002",
+        "PYI024", # false positives in lib/deejayit.py
     ]
     select = ["ALL"]
     # Same as Black.

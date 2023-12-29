@@ -71,7 +71,7 @@ def test_get_episodes(deejay: DeejayIt):
 
 def test_parse_webradio_metadata_linetti():
     """Parse metadata for Radio Linetti."""
-    info_url = "https://streamcdnb10-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/metadata/deejaywfmlinus.json"  # noqa: E501
+    info_url = "https://streamcdnb10-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/metadata/deejaywfmlinus.json"
     info = DeejayIt.parse_webradio_metadata(info_url)
     assert info.last_update != ""
     assert info.next_date != ""
