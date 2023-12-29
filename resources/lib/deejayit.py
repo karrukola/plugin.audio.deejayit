@@ -263,7 +263,7 @@ class DeejayIt:
                 continue
             nr_seasons = len(show["serie_seasons"])
             if nr_seasons != 1:
-                msg = f'{show["name"]} has {nr_seasons}'
+                msg = f'{show["name"]} has {nr_seasons} seasons'
                 raise ValueError(msg)
 
         return frozenset(

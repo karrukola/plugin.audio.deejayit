@@ -55,3 +55,22 @@ def test_get_podcasts_all_pages(deejay: DeejayIt, requests_mock):
                 break
         else:
             pytest.fail(f"Cannot find {exp_out.name}!?")
+
+
+def test_exception_is_raised(deejay: DeejayIt, requests_mock):
+    """Test negative case for get_podcasts() query.
+
+    When two seasons are found, the method is expected to raise a ValueError.
+
+    :param deejay: client to deejay.it
+    :type deejay: DeejayIt
+    :param requests_mock: mocker for requests
+    :type requests_mock: _type_
+    """
+    shows_url = "https://www.deejay.it/api/pub/v2/all/mhub/series?brand_id=deejay&page=1&pagination_rows=15&sort=desc"
+    mock_answer = Path(__file__).parent / "podcasts_f-1.json"
+    requests_mock.get(shows_url, text=mock_answer.read_text())
+
+    err_msg = "Una TV tutta d'Oro has 2 seasons"
+    with pytest.raises(ValueError, match=err_msg):
+        deejay.get_podcasts()

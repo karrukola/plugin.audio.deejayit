@@ -1,0 +1,97 @@
+{
+    "count": 1,
+    "results": [
+        {
+            "id": 6526,
+            "content_type": "Serie",
+            "brand": {
+                "id": "deejay",
+                "content_type": "Brand",
+                "name": "Radio Deejay",
+                "description": "descrizione Radio Deejay",
+                "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
+            },
+            "serie_seasons": [
+                {
+                    "id": 6527,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6527"
+                },
+                {
+                    "id": 6528,
+                    "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/serie-seasons\/6528"
+                }
+            ],
+            "images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg"
+            },
+            "cover_app_images": {
+                "size_480x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_640x360": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB-640x360.jpg",
+                "size_1400x1400": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_136x80": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB-800x800.jpg",
+                "size_1280x720": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_1280x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg",
+                "size_800x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/800x1200-UnaTVTuttadOro-SB.jpg"
+            },
+            "genres": [
+                "Cultura e Societ\u00e0",
+                "Storie"
+            ],
+            "tags": [],
+            "pay": "free",
+            "mapping": null,
+            "name": "Una TV tutta d'Oro",
+            "description": "Edmondo Conti, celebre produttore televisivo, ripercorre la storia della tv anni \u201880 e \u201890 attraverso i racconti dei suoi protagonisti.\r\nIn ogni puntata, un personaggio di spicco di quel panorama televisivo rievoca i programmi cult dell\u2019epoca con retroscena inediti, aneddoti esclusivi e incontri indimenticabili, alla riscoperta di una televisione iconica e\u2026tutta d\u2019oro.",
+            "order": "desc",
+            "published_on": [
+                "web",
+                "app",
+                "aggregatori",
+                "onepodcast"
+            ],
+            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2023\/06\/1400x1400-UnaTVTuttadOro-SB.jpg",
+            "id_ext": "espresso:mhub:8880507",
+            "speakers": [
+                {
+                    "id": 6534,
+                    "name": "Edmondo Conti",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/programmi\/tropical-pizza\/puntate\/tropical-pizza-del-14-10-2014\/",
+                    "content_type": "Speaker",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "authors": [
+                {
+                    "id": 6535,
+                    "name": "Costanza Danelon",
+                    "description": "",
+                    "permalink": "https:\/\/www.deejay.it\/personaggi\/costanza-danelon\/",
+                    "content_type": "Author",
+                    "images": null,
+                    "mapping": null,
+                    "id_ext": null,
+                    "facebook": "",
+                    "google": "",
+                    "instagram": "",
+                    "twitter": ""
+                }
+            ],
+            "url": "https:\/\/www.deejay.it\/podcast\/una-tv-tutta-doro\/"
+        }
+    ]
+}
