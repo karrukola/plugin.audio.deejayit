@@ -36,7 +36,7 @@ def tests_integration(session) -> None:
     """Run integration tests."""
     kodi = _KODI_VERS[-1]
     session.install("-r", "requirements.in", f"kodistubs>={kodi},<{kodi+1}")
-    session.run(*_PYTEST_UT_CMDLINE.split(" "))
+    session.run(*_PYTEST_IT_CMDLINE.split(" "))
 
 
 @nox.session(python=_PY_VERS[-1])
