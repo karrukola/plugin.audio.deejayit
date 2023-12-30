@@ -18,6 +18,7 @@ _COV_TGT = 99
 def lint(session, kodi) -> None:
     """Lint the code."""
     session.install("-r", "requirements.in", f"kodistubs>={kodi},<{kodi+1}")
+    session.run("ruff", "format", "--check", ".")
     session.run("ruff", ".")
     session.run("mypy", "--explicit-package-bases", "main.py", "resources")
 
