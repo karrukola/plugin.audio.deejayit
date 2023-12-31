@@ -26,10 +26,10 @@
         <assets>
             <icon>resources/icon.png</icon>
             <fanart>resources/fanart.jpg</fanart>
-            <!--
-            <banner></banner> <!-- optional -->
-            <clearlogo>resources/clearlogo.png</clearlogo> <!-- optional -->
-            <screenshot></screenshot> <!-- optional, max. 10 -->
+            <!-- optional
+            <clearlogo>resources/clearlogo.png</clearlogo>
+            <banner></banner>
+            <screenshot></screenshot>   max. 10
             -->
         </assets>
   </extension>
