@@ -17,7 +17,7 @@ _COV_TGT = 99
 @nox.parametrize("kodi", _KODI_VERS)
 def lint(session, kodi) -> None:
     """Lint the code."""
-    session.install("-r", "requirements.in", f"kodistubs>={kodi},<{kodi+1}")
+    session.install("-r", "requirements.in", f"kodistubs=={kodi}.*")
     session.run("ruff", "format", "--check", ".")
     session.run("ruff", ".")
     # TODO: re-enable mypy once understood how to make kodistubs work
@@ -28,7 +28,7 @@ def lint(session, kodi) -> None:
 @nox.parametrize("kodi", _KODI_VERS)
 def tests_unit(session, kodi) -> None:
     """Run unit tests."""
-    session.install("-r", "requirements.in", f"kodistubs>={kodi},<{kodi+1}")
+    session.install("-r", "requirements.in", f"kodistubs=={kodi}.*")
     session.run(*_PYTEST_UT_CMDLINE.split(" "))
 
 
@@ -37,7 +37,7 @@ def tests_unit(session, kodi) -> None:
 def tests_integration(session) -> None:
     """Run integration tests."""
     kodi = _KODI_VERS[-1]
-    session.install("-r", "requirements.in", f"kodistubs>={kodi},<{kodi+1}")
+    session.install("-r", "requirements.in", f"kodistubs=={kodi}.*")
     session.run(*_PYTEST_IT_CMDLINE.split(" "))
 
 
@@ -45,8 +45,7 @@ def tests_integration(session) -> None:
 def coverage(session):
     """Verify test coverage does not fall below target."""
     kodi = _KODI_VERS[-1]
-    session.install("-r", "requirements.in", f"kodistubs>={kodi},<{kodi+1}")
-
+    session.install("-r", "requirements.in", f"kodistubs=={kodi}.*")
     cmd_coverage = _PYTEST_UT_CMDLINE.replace("python", "coverage run")
     session.run(*cmd_coverage.split(" "))
     cmd_report = f"coverage report --fail-under {_COV_TGT}"
