@@ -326,6 +326,12 @@ def _play_content(url: str, artist: str, album: str, fanart_url: str) -> None:
     xbmcplugin.setResolvedUrl(ADDON_HANDLE, succeeded=True, listitem=item)
 
 
+def _raise_playback_warning() -> None:
+    warn_pl_h = "Il contenuto non è disponibile"
+    warn_pl_t = "Il contenuto è annunciato, ma non pubblicato ancora sui server."
+    xbmcgui.Dialog().ok(warn_pl_h, warn_pl_t)
+
+
 def _build_main_page() -> None:
     targets = {
         "programmi": "Tutti i programmi",
@@ -376,12 +382,16 @@ def _main() -> None:
             args["metadata_url"][0],
         )
     elif mode[0] == "stream":
-        _play_content(
-            url=args["url"][0],
-            artist=args["speakers"][0],
-            album=args["album"][0],
-            fanart_url=args["fanart_url"][0],
-        )
+        url = args.get("url", None)
+        if url is None:
+            _raise_playback_warning()
+        else:
+            _play_content(
+                url=url[0],
+                artist=args["speakers"][0],
+                album=args["album"][0],
+                fanart_url=args["fanart_url"][0],
+            )
     else:
         msg = f"Unhandled mode: {mode}"
         raise ValueError(msg)
