@@ -1,105 +1,105 @@
 {
-    "id": 360140,
-    "content_type": "Audio",
-    "brand": {
-        "id": "deejay",
-        "content_type": "Brand",
-        "name": "Radio Deejay",
-        "description": "descrizione Radio Deejay",
-        "image": "https:\/\/www.repstatic.it\/cless\/channel\/onepodcast\/img\/ic_deejay.png"
-    },
-    "serie": null,
-    "serie_season": null,
-    "program": {
-        "id": 15,
-        "name": "Cordialmente 4 stagioni",
-        "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/programs\/15"
-    },
-    "triton": {
-        "Clip_Id": "8dfbc383-2e1c-4e34-8e53-b00b008d4079",
-        "content_type": "Triton",
-        "Organization_Id": "60311b15-274a-4e3f-8ba9-ac3000834f37",
-        "Program_Id": "bb246878-c3ed-4395-b54d-ae3d00a7de2b",
-        "Audio_URL": "https:\/\/traffic.omny.fm\/d\/clips\/60311b15-274a-4e3f-8ba9-ac3000834f37\/bb246878-c3ed-4395-b54d-ae3d00a7de2b\/8dfbc383-2e1c-4e34-8e53-b00b008d4079\/audio.mp3",
-        "DurationSeconds": "6211.291",
-        "AdFreeAudioUrl": "https:\/\/traffic.omny.fm\/d\/clips\/60311b15-274a-4e3f-8ba9-ac3000834f37\/bb246878-c3ed-4395-b54d-ae3d00a7de2b\/8dfbc383-2e1c-4e34-8e53-b00b008d4079\/audio.mp3?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6InhJQWV6dy1KbUV5UFBhNURBTjkyQlEiLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiOGRmYmMzODMtMmUxYy00ZTM0LThlNTMtYjAwYjAwOGQ0MDc5IiwiYWRzIjowfQ._-4PVp3q3yay2a-4W-LRJN7xl-8SWRtIG6C1IxTMss8"
-    },
-    "program_seasons": {
-        "id": 283613,
-        "link": "https:\/\/www.deejay.it\/api\/pub\/v2\/all\/mhub\/program-seasons\/283613"
-    },
-    "playlist": null,
-    "categories": [],
-    "pills": [],
-    "images": null,
-    "datePublished": "22\/05\/2023",
-    "pay": "free",
     "authors": null,
-    "speakers": [
-        {
-            "id": 76,
-            "content_type": "Speaker",
-            "images": {
-                "size_1200x675": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-1200x627.jpg",
-                "size_1200x627": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus.jpg",
-                "size_320x167": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-320x167.jpg",
-                "size_640x640": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-640x627.jpg",
-                "size_800x418": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-800x418.jpg",
-                "size_160x160": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-160x160.jpg",
-                "size_1200x1200": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-1200x627.jpg",
-                "size_640x334": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-640x334.jpg",
-                "size_320x320": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-320x320.jpg",
-                "size_800x450": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-800x450.jpg",
-                "size_800x800": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus-800x627.jpg"
-            },
-            "mapping": null,
-            "name": "Linus",
-            "description": "30 ottobre 1957, Foligno (PG). \u00c8 la data di nascita \"anagrafica\" di Pasquale Di Molfetta, in arte Linus.\r\n\r\n18 aprile 1976, Milano. \u00c8 la data di nascita \"radiofonica\", il debutto, assolutamente goliardico, in una delle mille piccole radio private nate in quel periodo. In pochi anni per\u00f2 quello che era nato come un gioco si trasforma in un lavoro vero e proprio e dopo due o tre passaggi in emittenti via via pi\u00f9 titolate nell\u201984 arriva a Radio Deejay.\r\n\u00c8 il settembre di quell'anno, e pochi mesi dopo, in maniera assolutamente imprevista, Linus debutta in televisione con Deejay Television, la fortunata trasmissione di Italia Uno di cui sar\u00e0 il volto fino alla fine del \u201990.\r\nNel \u201891 nasce Deejay Chiama Italia, il programma radiofonico del mattino che ancora adesso rappresenta il centro del mondo di Linus.\r\nCon la fine del \u201994 arriva il secondo, grande salto di carriera: Linus diventa il Direttore Artistico di Radio Deejay.\r\nDal '95 al 2000 \u00e8 autore e conduttore del PIM (Premio Italiano della Musica), in onda su Italia Uno in compagnia di, fra le altre, Serena Dandini e Paola Cortellesi.\r\nTra il \u201997 e il \u201998 conduce insieme al fratello Albertino Volevo Salutare, un contenitore musicale in onda la domenica pomeriggio su Italia Uno.\r\nMa il \u201898 \u00e8 anche l\u2019anno dell\u2019ingresso di Nicola Savino in Deejay Chiama Italia, un sodalizio pi\u00f9 che mai attuale.\r\nDatata 2001 \u00e8 l\u2019unica esperienza autorale \u201cper conto terzi\u201d, quell'anno infatti Linus \u00e8 autore del programma di Celentano 125 milioni di Cazz\u2026te. Nel febbraio 2002 \u00e8 protagonista di un\u2019operazione tanto fortunata quanto originale, raggiunge infatti la vetta della classifica dei singoli pi\u00f9 venduti in Italia con il progetto Accetta il Consiglio, un monologo cinematografico trasposto in musica.\r\nNell'estate del 2004, in occasione degli Europei di calcio, ritorna in televisione con il programma (di cui \u00e8 anche autore) Notti Europee: I Figli di Eupalla, in onda su RAI 2 in seconda serata per tutta la durata del torneo.\r\nQuell'anno si chiude con l'avventura cinematografica di Natale a casa Deejay, libera trasposizione di A Christmas Carol di Charles Dickens. In maniera del tutto insolita, il film esce direttamente in DVD in edicola e in pochi giorni vengono vendute 200.000 copie. Il successo \u00e8 tale che durante le vacanze di Natale il film viene trasmesso anche su Canale 5.\r\nDal 2007 Linus diventa il responsabile dell'intero settore radiofonico del Gruppo L'Espresso, che oltre a Radio Deejay comprende anche Radio Capital e m20.\r\nNel 2009 assume la direzione artistica del canale televisivo Deejay Tv, nato dalle ceneri della vecchia All Music.\r\nIn questi anni ha pubblicato tre libri: nel \u201996 Linus Chiama Italia, edito da Sperling &amp; Kupfer: una raccolta di fax, piccole storie, curiosit\u00e0 e aneddoti raccontati dagli ascoltatori.\r\nNel 2004 E qualcosa rimane (Mondadori), 26 canzoni che diventano altrettanti racconti, e il 30 ottobre 2007, una ricorrenza particolarmente importante, Qualcuno con cui giocare (Mondadori), il suo esordio narrativo.\r\nA settembre 2010 esce Parli sempre di corsa (Mondadori); Linus per la prima volta racconta come \u00e8 nata la sua grande passione per la corsa: una scoperta che gli ha sconvolto la vita, migliorandola radicalmente, tanto da non poterne pi\u00f9 fare a meno. Sua l'idea della Deejay Ten, la gara podistica di 10 km che si svolge dal 2004 nel centro di Milano, Firenze e Roma.\r\nNella stagione 2013-2014 Linus ha condotto su Rai 2 il talk show \"Il grande cocomero\". Il 10 maggio 2014 ha commentato in diretta con Nicola Savino la finale dell'Eurovision Song Contest 2014 su Rai 2.\r\nAttualmente Linus \u00e8 in onda su Radio Deejay (in diretta anche su Deejay Tv e deejay.it) con Deejay Chiama Italia e Deejay Training Center con Stefano Baldini e Davide Cassani.\r\n\r\n<span class=\"TextRun SCXW178886073 BCX0\" lang=\"IT-IT\" xml:lang=\"IT-IT\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW178886073 BCX0\">Per <\/span><span class=\"NormalTextRun SCXW178886073 BCX0\">la sua passione sportiva<\/span><span class=\"NormalTextRun SCXW178886073 BCX0\"> e per il suo inconfondibile modo di parlare e coinvolgere i propri ascoltatori, Linus \u00e8 sicuramente il personaggio pi\u00f9 amato e autorevole del panorama radiofonico italiano.\u00a0<\/span><\/span><span class=\"EOP SCXW178886073 BCX0\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">\u00a0<\/span>",
-            "id_ext": null,
-            "image": "https:\/\/cdn.gelestatic.it\/deejay\/sites\/2\/2020\/01\/linus.jpg",
-            "facebook": "",
-            "google": "",
-            "instagram": "",
-            "twitter": "",
-            "url": "https:\/\/www.deejay.it\/conduttori\/linus\/"
-        },
-        {
-            "id": 61,
-            "content_type": "Speaker",
-            "images": null,
-            "mapping": null,
-            "name": "Elio e le Storie Tese",
-            "description": "La bandElio e le Storie Tese nasce a Milano nel 1980 ad opera di Elio. Elio prende il nome dalla sua prima canzone che si intitola &ldquo;Elio&rdquo;. La prima formazione, che si esibisce nel primo concerto tenutosi nel luglio 1980 alla festa del CAF San Siro davanti a un pubblico di una decina di pensionati, &egrave; composta da Elio (chitarra e voce), Cortellino (basso) e Zuffellato (batteria). A Cortellino succeder&agrave; Chiosco e poi Scaffale, fino all&rsquo;arrivo nell&rsquo;85 di Faso, oltre il quale non &egrave; davvero possibile andare. Zuffellato lascer&agrave; il posto a Cosma e poi, dall&rsquo;entrata di Rocco Tanica nel 1982 fino all&rsquo;arrivo di Christian Meyer nel 1988, il &ldquo;posto&rdquo; scompare, sostituito dalla pi&ugrave; economica e meno ingombrante Drumulator di Rocco Tanica, del quale i frequentatori del Magia Music Meeting di via Salutati ricorderanno i divertenti siparietti, ogni tre canzoni, per ingannare l&rsquo;attesa del caricamento della song da registratore a cassetta. All&rsquo;inizio Elio, oltre a cantare, &egrave; anche il chitarrista del gruppo poi, quando nell&rsquo;84 arriva una delle migliori chitarre rock della piazza milanese, Cesareo, preferisce dedicarsi a fare il frontman a tempo pieno con misuratissime incursioni di flauto traverso. Nel 1988, la bravura e la verve di Christian Meyer hanno ragione della Drumulator e, pi&ugrave; o meno contemporaneamente, entra nel gruppo Feiez; canta, suona le percussioni, il sax, la chitarra, fa ridere, il tutto a livello Elio e le Storie Tese (cio&egrave; altissimo): il sogno di ogni band sulla faccia della terra, durato dieci anni, grazie Feiez. Nel 1992, all&rsquo;inizio per volont&agrave; di Elio e, ben presto, per acclamazione, entra a far parte della band (pur rimanendo, come dice Elio, &ldquo;un artista a s&eacute;&rdquo;) Mangoni, compagno di classe di Elio al liceo, che viene chiamato a fare se stesso sul palco (un pirla, icona definitiva del pirla che &egrave; in ciascuno di noi) pur essendo nel frattempo diventato marito e padre amorevole nonch&eacute; stimato architetto (autore, tra l&rsquo;altro della &ldquo;Mangoni Tower&rdquo; di via Nervesa, facilmente visibile a chi transita sul cavalcavia da Piazzale Bologna a Piazzale Cuoco, guardando verso sinistra). Ultimo arrivato, nel 1999, Jantoman o, come sempre pi&ugrave; a furor di popolo sembra accreditarsi, &ldquo;Uomo&rdquo; che, in simbiosi perfetta con Rocco Tanica, condivide le numerose e complesse parti di tastiera e costituisce il &ldquo;polo tecnologico&rdquo; di Elio e le Storie Tese, in continua dialettica con il versante &ldquo;analogico&rdquo; di Faso, Meyer e Cesareo, i performer puri del gruppo.La StoriaDal 1980 al 1988 Elio e le Storie Tese si dedicano a diventare fenomeno di culto a Milano e zone limitrofe, con un certo successo, se si considera che nell&rsquo;88 senza aver mai pubblicato un disco richiamano oltre 4.000 spettatori paganti al Teatro Ciak in una settimana di concerti con il tutto esaurito. Nel 1989 esce &ldquo;Elio Samaga Hukapan Kariyana Turu&rdquo;, il loro primo album, che vende di botto 100.000 copie, seguito nei 14 anni successivi da 7 album ufficiali tra cui 2 live. Nel 1990 stabiliscono il record mondiale dell&rsquo;epoca per la canzone pi&ugrave; lunga, suonando dal vivo per 12 ore di seguito lo stesso brano, &ldquo;Ti Amo&rdquo;, con testo inventato da Elio al momento. Nel 1991 suonano al concerto del 1&deg; Maggio in Piazza San Giovanni e vengono censurati in diretta RAI: avevano improvvisato un rap dedicato agli scandali insabbiati della Prima Repubblica: meno di due anni dopo Mario Chiesa veniva sorpreso a gettare banconote nel W.C. del suo ufficio al Pio Albergo Trivulzio, il resto &egrave; storia. Nel 1992 il loro singolo &ldquo;Pipppero&rdquo;, con la partecipazione de &ldquo;Le Myst&egrave;re des voix bulgares&rdquo;, &egrave; primo in classifica per sei settimane. Nel 1996 partecipano al Festival di San Remo che vincono piazzandosi al secondo posto, miracolo tutto italiano, ma quelle 4 esibizioni sono gi&agrave; storia della televisione. &ldquo;La terra dei cachi&rdquo; &egrave; primo in classifica per 8 settimane e l&rsquo;album &ldquo;Eat The Phikis&rdquo; vende oltre 200.000 copie. Folgorato da quelle performance Rocco Siffredi li chiama a partecipare alla sua produzione pi&ugrave; ambiziosa, &ldquo;Rocco e le Storie Tese&rdquo;, di cui firmano anche la colonna sonora, suonata da Rocco Tanica in tempo reale durante il montaggio. Alla fine del 1998 Feiez muore colpito da ictus, durante un concerto. Nel 1999 vengono premiati a Dublino come &ldquo;Best Italian Act&rdquo; agli European Music Awards di MTV. Nel 2003 vengono premiati a Milano come &ldquo;miglior videoclip&rdquo; agli Italian Music Awards della F.I.M.I.: rispetto al &lsquo;99 la decadenza &egrave; evidente. Nel 2004 si inventano il cd brul&eacute;, un album live che viene registrato e venduto in diretta al termine di ciascun concerto. Nel 2006 sono in giro per l&rsquo;Italia con lo spettacolo &ldquo;Co&egrave;si se vi pare&rdquo;, assieme al loro amico Claudio Bisio. Passano il 2007 chiusi in studio a produrre il loro prossimo capolavoro. Il 20 febbraio 2008 esce il nuovo album - l&rsquo;ottavo della loro carriera - &ldquo;Studentessi&rdquo;. Contestualmente vengono chiamati a condurre il Dopofestival, lo spettacolo musicale notturno di Raiuno, nell&rsquo;ambito del Festival di Sanremo 2008. Tutti gli album da loro pubblicati sono diventati &ldquo;Disco D&rsquo;Oro&rdquo; in Italia. Il 30 ottobre 2009 il gruppo pubblica &ldquo;Gattini&rdquo;, un album di brani del repertorio di EelST risuonati con l&rsquo;ausilio di un&rsquo;orchestra. Il disco &egrave; preceduto dal singolo &ldquo;Storia di un bellimbusto&rdquo;, in airplay radiofonico dal 2 ottobre.Line upElio: voce, flautoFaso: chitarra bassoCesareo: chitarra alto Rocco Tanica: pianolaChristian Meyer: batteriaJantoman: ulteriori pianoleMangoni: artista a s&egrave;",
-            "id_ext": null,
-            "image": "",
-            "facebook": "",
-            "google": "",
-            "instagram": "",
-            "twitter": "",
-            "url": "https:\/\/www.deejay.it\/conduttori\/elio-e-le-storie-tese\/"
-        }
-    ],
-    "genres": [
-        "Comedy"
-    ],
-    "tags": [],
-    "mapping": "deejay:episode:360140",
-    "name": "Puntata del 22\/05\/2023",
-    "id_ext": "espresso:mhub:12196129",
+    "brand": {
+        "content_type": "Brand",
+        "description": "descrizione Radio Deejay",
+        "id": "deejay",
+        "image": "https://www.repstatic.it/cless/channel/onepodcast/img/ic_deejay.png",
+        "name": "Radio Deejay"
+    },
+    "categories": [],
+    "content_type": "Audio",
+    "datePublished": "22/05/2023",
     "description": "Linus e gli Elio e le Storie Tese con Mangoni!",
-    "image": "",
-    "mp3_url": "https:\/\/media.deejay.it\/2023\/05\/22\/episodes\/cordialmente\/cordialmente-20230522.mp3",
-    "hls_url": "https:\/\/media.deejay.it\/2023\/05\/22\/episodes\/cordialmente\/hls-cordialmente-20230522\/hls-cordialmente-20230522.m3u8",
-    "duration": "01:43:39",
     "dimension": null,
-    "type": "episode",
-    "url": "https:\/\/www.deejay.it\/programmi\/cordialmente\/puntate\/cordialmente-4-stagioni-del-22-05-2023\/",
+    "duration": "01:43:39",
     "ga": {
         "video_VideoLivello1": "Radio Deejay",
         "video_VideoLivello2": "programma",
         "video_VideoLivello3": "Cordialmente 4 stagioni",
-        "video_VideoLivello4": "n\/d",
+        "video_VideoLivello4": "n/d",
         "video_VideoLivello5": "episode",
-        "video_VideoLivello6": "Puntata del 22\/05\/2023"
-    }
+        "video_VideoLivello6": "Puntata del 22/05/2023"
+    },
+    "genres": [
+        "Comedy"
+    ],
+    "hls_url": "https://media.deejay.it/2023/05/22/episodes/cordialmente/hls-cordialmente-20230522/hls-cordialmente-20230522.m3u8",
+    "id": 360140,
+    "id_ext": "espresso:mhub:12196129",
+    "image": "",
+    "images": null,
+    "mapping": "deejay:episode:360140",
+    "mp3_url": "https://media.deejay.it/2023/05/22/episodes/cordialmente/cordialmente-20230522.mp3",
+    "name": "Puntata del 22/05/2023",
+    "pay": "free",
+    "pills": [],
+    "playlist": null,
+    "program": {
+        "id": 15,
+        "link": "https://www.deejay.it/api/pub/v2/all/mhub/programs/15",
+        "name": "Cordialmente 4 stagioni"
+    },
+    "program_seasons": {
+        "id": 283613,
+        "link": "https://www.deejay.it/api/pub/v2/all/mhub/program-seasons/283613"
+    },
+    "serie": null,
+    "serie_season": null,
+    "speakers": [
+        {
+            "content_type": "Speaker",
+            "description": "30 ottobre 1957, Foligno (PG). \u00c8 la data di nascita \"anagrafica\" di Pasquale Di Molfetta, in arte Linus.\r\n\r\n18 aprile 1976, Milano. \u00c8 la data di nascita \"radiofonica\", il debutto, assolutamente goliardico, in una delle mille piccole radio private nate in quel periodo. In pochi anni per\u00f2 quello che era nato come un gioco si trasforma in un lavoro vero e proprio e dopo due o tre passaggi in emittenti via via pi\u00f9 titolate nell\u201984 arriva a Radio Deejay.\r\n\u00c8 il settembre di quell'anno, e pochi mesi dopo, in maniera assolutamente imprevista, Linus debutta in televisione con Deejay Television, la fortunata trasmissione di Italia Uno di cui sar\u00e0 il volto fino alla fine del \u201990.\r\nNel \u201891 nasce Deejay Chiama Italia, il programma radiofonico del mattino che ancora adesso rappresenta il centro del mondo di Linus.\r\nCon la fine del \u201994 arriva il secondo, grande salto di carriera: Linus diventa il Direttore Artistico di Radio Deejay.\r\nDal '95 al 2000 \u00e8 autore e conduttore del PIM (Premio Italiano della Musica), in onda su Italia Uno in compagnia di, fra le altre, Serena Dandini e Paola Cortellesi.\r\nTra il \u201997 e il \u201998 conduce insieme al fratello Albertino Volevo Salutare, un contenitore musicale in onda la domenica pomeriggio su Italia Uno.\r\nMa il \u201898 \u00e8 anche l\u2019anno dell\u2019ingresso di Nicola Savino in Deejay Chiama Italia, un sodalizio pi\u00f9 che mai attuale.\r\nDatata 2001 \u00e8 l\u2019unica esperienza autorale \u201cper conto terzi\u201d, quell'anno infatti Linus \u00e8 autore del programma di Celentano 125 milioni di Cazz\u2026te. Nel febbraio 2002 \u00e8 protagonista di un\u2019operazione tanto fortunata quanto originale, raggiunge infatti la vetta della classifica dei singoli pi\u00f9 venduti in Italia con il progetto Accetta il Consiglio, un monologo cinematografico trasposto in musica.\r\nNell'estate del 2004, in occasione degli Europei di calcio, ritorna in televisione con il programma (di cui \u00e8 anche autore) Notti Europee: I Figli di Eupalla, in onda su RAI 2 in seconda serata per tutta la durata del torneo.\r\nQuell'anno si chiude con l'avventura cinematografica di Natale a casa Deejay, libera trasposizione di A Christmas Carol di Charles Dickens. In maniera del tutto insolita, il film esce direttamente in DVD in edicola e in pochi giorni vengono vendute 200.000 copie. Il successo \u00e8 tale che durante le vacanze di Natale il film viene trasmesso anche su Canale 5.\r\nDal 2007 Linus diventa il responsabile dell'intero settore radiofonico del Gruppo L'Espresso, che oltre a Radio Deejay comprende anche Radio Capital e m20.\r\nNel 2009 assume la direzione artistica del canale televisivo Deejay Tv, nato dalle ceneri della vecchia All Music.\r\nIn questi anni ha pubblicato tre libri: nel \u201996 Linus Chiama Italia, edito da Sperling &amp; Kupfer: una raccolta di fax, piccole storie, curiosit\u00e0 e aneddoti raccontati dagli ascoltatori.\r\nNel 2004 E qualcosa rimane (Mondadori), 26 canzoni che diventano altrettanti racconti, e il 30 ottobre 2007, una ricorrenza particolarmente importante, Qualcuno con cui giocare (Mondadori), il suo esordio narrativo.\r\nA settembre 2010 esce Parli sempre di corsa (Mondadori); Linus per la prima volta racconta come \u00e8 nata la sua grande passione per la corsa: una scoperta che gli ha sconvolto la vita, migliorandola radicalmente, tanto da non poterne pi\u00f9 fare a meno. Sua l'idea della Deejay Ten, la gara podistica di 10 km che si svolge dal 2004 nel centro di Milano, Firenze e Roma.\r\nNella stagione 2013-2014 Linus ha condotto su Rai 2 il talk show \"Il grande cocomero\". Il 10 maggio 2014 ha commentato in diretta con Nicola Savino la finale dell'Eurovision Song Contest 2014 su Rai 2.\r\nAttualmente Linus \u00e8 in onda su Radio Deejay (in diretta anche su Deejay Tv e deejay.it) con Deejay Chiama Italia e Deejay Training Center con Stefano Baldini e Davide Cassani.\r\n\r\n<span class=\"TextRun SCXW178886073 BCX0\" lang=\"IT-IT\" xml:lang=\"IT-IT\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW178886073 BCX0\">Per </span><span class=\"NormalTextRun SCXW178886073 BCX0\">la sua passione sportiva</span><span class=\"NormalTextRun SCXW178886073 BCX0\"> e per il suo inconfondibile modo di parlare e coinvolgere i propri ascoltatori, Linus \u00e8 sicuramente il personaggio pi\u00f9 amato e autorevole del panorama radiofonico italiano.\u00a0</span></span><span class=\"EOP SCXW178886073 BCX0\" data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\">\u00a0</span>",
+            "facebook": "",
+            "google": "",
+            "id": 76,
+            "id_ext": null,
+            "image": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus.jpg",
+            "images": {
+                "size_1200x1200": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-1200x627.jpg",
+                "size_1200x627": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus.jpg",
+                "size_1200x675": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-1200x627.jpg",
+                "size_160x160": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-160x160.jpg",
+                "size_320x167": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-320x167.jpg",
+                "size_320x320": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-320x320.jpg",
+                "size_640x334": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-640x334.jpg",
+                "size_640x640": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-640x627.jpg",
+                "size_800x418": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-800x418.jpg",
+                "size_800x450": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-800x450.jpg",
+                "size_800x800": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/linus-800x627.jpg"
+            },
+            "instagram": "",
+            "mapping": null,
+            "name": "Linus",
+            "twitter": "",
+            "url": "https://www.deejay.it/conduttori/linus/"
+        },
+        {
+            "content_type": "Speaker",
+            "description": "La bandElio e le Storie Tese nasce a Milano nel 1980 ad opera di Elio. Elio prende il nome dalla sua prima canzone che si intitola &ldquo;Elio&rdquo;. La prima formazione, che si esibisce nel primo concerto tenutosi nel luglio 1980 alla festa del CAF San Siro davanti a un pubblico di una decina di pensionati, &egrave; composta da Elio (chitarra e voce), Cortellino (basso) e Zuffellato (batteria). A Cortellino succeder&agrave; Chiosco e poi Scaffale, fino all&rsquo;arrivo nell&rsquo;85 di Faso, oltre il quale non &egrave; davvero possibile andare. Zuffellato lascer&agrave; il posto a Cosma e poi, dall&rsquo;entrata di Rocco Tanica nel 1982 fino all&rsquo;arrivo di Christian Meyer nel 1988, il &ldquo;posto&rdquo; scompare, sostituito dalla pi&ugrave; economica e meno ingombrante Drumulator di Rocco Tanica, del quale i frequentatori del Magia Music Meeting di via Salutati ricorderanno i divertenti siparietti, ogni tre canzoni, per ingannare l&rsquo;attesa del caricamento della song da registratore a cassetta. All&rsquo;inizio Elio, oltre a cantare, &egrave; anche il chitarrista del gruppo poi, quando nell&rsquo;84 arriva una delle migliori chitarre rock della piazza milanese, Cesareo, preferisce dedicarsi a fare il frontman a tempo pieno con misuratissime incursioni di flauto traverso. Nel 1988, la bravura e la verve di Christian Meyer hanno ragione della Drumulator e, pi&ugrave; o meno contemporaneamente, entra nel gruppo Feiez; canta, suona le percussioni, il sax, la chitarra, fa ridere, il tutto a livello Elio e le Storie Tese (cio&egrave; altissimo): il sogno di ogni band sulla faccia della terra, durato dieci anni, grazie Feiez. Nel 1992, all&rsquo;inizio per volont&agrave; di Elio e, ben presto, per acclamazione, entra a far parte della band (pur rimanendo, come dice Elio, &ldquo;un artista a s&eacute;&rdquo;) Mangoni, compagno di classe di Elio al liceo, che viene chiamato a fare se stesso sul palco (un pirla, icona definitiva del pirla che &egrave; in ciascuno di noi) pur essendo nel frattempo diventato marito e padre amorevole nonch&eacute; stimato architetto (autore, tra l&rsquo;altro della &ldquo;Mangoni Tower&rdquo; di via Nervesa, facilmente visibile a chi transita sul cavalcavia da Piazzale Bologna a Piazzale Cuoco, guardando verso sinistra). Ultimo arrivato, nel 1999, Jantoman o, come sempre pi&ugrave; a furor di popolo sembra accreditarsi, &ldquo;Uomo&rdquo; che, in simbiosi perfetta con Rocco Tanica, condivide le numerose e complesse parti di tastiera e costituisce il &ldquo;polo tecnologico&rdquo; di Elio e le Storie Tese, in continua dialettica con il versante &ldquo;analogico&rdquo; di Faso, Meyer e Cesareo, i performer puri del gruppo.La StoriaDal 1980 al 1988 Elio e le Storie Tese si dedicano a diventare fenomeno di culto a Milano e zone limitrofe, con un certo successo, se si considera che nell&rsquo;88 senza aver mai pubblicato un disco richiamano oltre 4.000 spettatori paganti al Teatro Ciak in una settimana di concerti con il tutto esaurito. Nel 1989 esce &ldquo;Elio Samaga Hukapan Kariyana Turu&rdquo;, il loro primo album, che vende di botto 100.000 copie, seguito nei 14 anni successivi da 7 album ufficiali tra cui 2 live. Nel 1990 stabiliscono il record mondiale dell&rsquo;epoca per la canzone pi&ugrave; lunga, suonando dal vivo per 12 ore di seguito lo stesso brano, &ldquo;Ti Amo&rdquo;, con testo inventato da Elio al momento. Nel 1991 suonano al concerto del 1&deg; Maggio in Piazza San Giovanni e vengono censurati in diretta RAI: avevano improvvisato un rap dedicato agli scandali insabbiati della Prima Repubblica: meno di due anni dopo Mario Chiesa veniva sorpreso a gettare banconote nel W.C. del suo ufficio al Pio Albergo Trivulzio, il resto &egrave; storia. Nel 1992 il loro singolo &ldquo;Pipppero&rdquo;, con la partecipazione de &ldquo;Le Myst&egrave;re des voix bulgares&rdquo;, &egrave; primo in classifica per sei settimane. Nel 1996 partecipano al Festival di San Remo che vincono piazzandosi al secondo posto, miracolo tutto italiano, ma quelle 4 esibizioni sono gi&agrave; storia della televisione. &ldquo;La terra dei cachi&rdquo; &egrave; primo in classifica per 8 settimane e l&rsquo;album &ldquo;Eat The Phikis&rdquo; vende oltre 200.000 copie. Folgorato da quelle performance Rocco Siffredi li chiama a partecipare alla sua produzione pi&ugrave; ambiziosa, &ldquo;Rocco e le Storie Tese&rdquo;, di cui firmano anche la colonna sonora, suonata da Rocco Tanica in tempo reale durante il montaggio. Alla fine del 1998 Feiez muore colpito da ictus, durante un concerto. Nel 1999 vengono premiati a Dublino come &ldquo;Best Italian Act&rdquo; agli European Music Awards di MTV. Nel 2003 vengono premiati a Milano come &ldquo;miglior videoclip&rdquo; agli Italian Music Awards della F.I.M.I.: rispetto al &lsquo;99 la decadenza &egrave; evidente. Nel 2004 si inventano il cd brul&eacute;, un album live che viene registrato e venduto in diretta al termine di ciascun concerto. Nel 2006 sono in giro per l&rsquo;Italia con lo spettacolo &ldquo;Co&egrave;si se vi pare&rdquo;, assieme al loro amico Claudio Bisio. Passano il 2007 chiusi in studio a produrre il loro prossimo capolavoro. Il 20 febbraio 2008 esce il nuovo album - l&rsquo;ottavo della loro carriera - &ldquo;Studentessi&rdquo;. Contestualmente vengono chiamati a condurre il Dopofestival, lo spettacolo musicale notturno di Raiuno, nell&rsquo;ambito del Festival di Sanremo 2008. Tutti gli album da loro pubblicati sono diventati &ldquo;Disco D&rsquo;Oro&rdquo; in Italia. Il 30 ottobre 2009 il gruppo pubblica &ldquo;Gattini&rdquo;, un album di brani del repertorio di EelST risuonati con l&rsquo;ausilio di un&rsquo;orchestra. Il disco &egrave; preceduto dal singolo &ldquo;Storia di un bellimbusto&rdquo;, in airplay radiofonico dal 2 ottobre.Line upElio: voce, flautoFaso: chitarra bassoCesareo: chitarra alto Rocco Tanica: pianolaChristian Meyer: batteriaJantoman: ulteriori pianoleMangoni: artista a s&egrave;",
+            "facebook": "",
+            "google": "",
+            "id": 61,
+            "id_ext": null,
+            "image": "",
+            "images": null,
+            "instagram": "",
+            "mapping": null,
+            "name": "Elio e le Storie Tese",
+            "twitter": "",
+            "url": "https://www.deejay.it/conduttori/elio-e-le-storie-tese/"
+        }
+    ],
+    "tags": [],
+    "triton": {
+        "AdFreeAudioUrl": "https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/bb246878-c3ed-4395-b54d-ae3d00a7de2b/8dfbc383-2e1c-4e34-8e53-b00b008d4079/audio.mp3?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6InhJQWV6dy1KbUV5UFBhNURBTjkyQlEiLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiOGRmYmMzODMtMmUxYy00ZTM0LThlNTMtYjAwYjAwOGQ0MDc5IiwiYWRzIjowfQ._-4PVp3q3yay2a-4W-LRJN7xl-8SWRtIG6C1IxTMss8",
+        "Audio_URL": "https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/bb246878-c3ed-4395-b54d-ae3d00a7de2b/8dfbc383-2e1c-4e34-8e53-b00b008d4079/audio.mp3",
+        "Clip_Id": "8dfbc383-2e1c-4e34-8e53-b00b008d4079",
+        "DurationSeconds": "6211.291",
+        "Organization_Id": "60311b15-274a-4e3f-8ba9-ac3000834f37",
+        "Program_Id": "bb246878-c3ed-4395-b54d-ae3d00a7de2b",
+        "content_type": "Triton"
+    },
+    "type": "episode",
+    "url": "https://www.deejay.it/programmi/cordialmente/puntate/cordialmente-4-stagioni-del-22-05-2023/"
 }

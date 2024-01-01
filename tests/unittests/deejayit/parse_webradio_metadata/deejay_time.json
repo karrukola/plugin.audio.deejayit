@@ -1,87 +1,87 @@
 {
     "_id": "deejaytime",
     "_rev": "8FDAC18C-4D6C-42A4-8029-7BA21609D97B",
+    "active": "pri",
     "error": "not_found",
-    "reason": "missing",
     "json": {
-        "success": true,
-        "time": "2023-07-22 23:01:25",
-        "now": {
-            "id": "SONG078194",
-            "artist": "KIM LUKAS",
-            "title": "All I Really Want",
-            "album": null,
-            "label": "Jive",
-            "datePlay": "2023-07-22 23:01:25",
-            "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song078194_100x100.jpg"
-        },
         "next": [
             {
-                "id": "SONG003380",
-                "artist": "DANA DAWSON",
-                "title": "Three Is Family",
                 "album": null,
-                "label": "Virgin",
+                "artist": "DANA DAWSON",
                 "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song003380_100x100.jpg",
-                "datePlay": "2023-07-22 23:05:24"
+                "datePlay": "2023-07-22 23:05:24",
+                "id": "SONG003380",
+                "label": "Virgin",
+                "title": "Three Is Family"
             },
             {
-                "id": "SONG078196",
-                "artist": "LADY VIOLET",
-                "title": "Inside To Outside",
                 "album": null,
-                "label": "New Music",
+                "artist": "LADY VIOLET",
                 "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song078196_100x100.jpg",
-                "datePlay": "2023-07-22 23:08:26"
+                "datePlay": "2023-07-22 23:08:26",
+                "id": "SONG078196",
+                "label": "New Music",
+                "title": "Inside To Outside"
             }
         ],
+        "now": {
+            "album": null,
+            "artist": "KIM LUKAS",
+            "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song078194_100x100.jpg",
+            "datePlay": "2023-07-22 23:01:25",
+            "id": "SONG078194",
+            "label": "Jive",
+            "title": "All I Really Want"
+        },
         "playlist": [
             {
-                "id": "SONG038897",
+                "album": null,
                 "artist": "ATAHUALPA",
-                "title": "Ultimo Imperio",
-                "album": null,
-                "label": "DFC",
                 "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song038897_100x100.jpg",
-                "datePlay": "2023-07-22 22:56:57"
+                "datePlay": "2023-07-22 22:56:57",
+                "id": "SONG038897",
+                "label": "DFC",
+                "title": "Ultimo Imperio"
             },
             {
-                "id": "SONG003383",
+                "album": null,
                 "artist": "DE LACY",
-                "title": "Hideway",
-                "album": null,
-                "label": "Virgin",
                 "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song003383_100x100.jpg",
-                "datePlay": "2023-07-22 22:52:58"
+                "datePlay": "2023-07-22 22:52:58",
+                "id": "SONG003383",
+                "label": "Virgin",
+                "title": "Hideway"
             },
             {
-                "id": "SONG039028",
+                "album": null,
                 "artist": "DJ DADO",
-                "title": "Give Me Love",
-                "album": null,
-                "label": "Time Records",
                 "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song039028_100x100.jpg",
-                "datePlay": "2023-07-22 22:49:00"
+                "datePlay": "2023-07-22 22:49:00",
+                "id": "SONG039028",
+                "label": "Time Records",
+                "title": "Give Me Love"
             },
             {
-                "id": "SONG040558",
+                "album": null,
                 "artist": "SHARADA HOUSE GANG",
-                "title": "Gipsy Boy",
-                "album": null,
-                "label": "Zyx",
                 "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song040558_100x100.jpg",
-                "datePlay": "2023-07-22 22:43:52"
+                "datePlay": "2023-07-22 22:43:52",
+                "id": "SONG040558",
+                "label": "Zyx",
+                "title": "Gipsy Boy"
             },
             {
-                "id": "SONG078165",
-                "artist": "BARTHEZZ",
-                "title": "On The Move",
                 "album": null,
-                "label": "Tremolo",
+                "artist": "BARTHEZZ",
                 "coverUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radio/coverart/song078165_100x100.jpg",
-                "datePlay": "2023-07-22 22:40:24"
+                "datePlay": "2023-07-22 22:40:24",
+                "id": "SONG078165",
+                "label": "Tremolo",
+                "title": "On The Move"
             }
-        ]
+        ],
+        "success": true,
+        "time": "2023-07-22 23:01:25"
     },
-    "active": "pri"
+    "reason": "missing"
 }
