@@ -211,7 +211,9 @@ class DeejayIt:
                 self._safe_get_pic(ep, "size_320x320"),  # logo_url
                 self._safe_get_pic(ep, "size_1200x675"),  # fanart_url
                 ep["datePublished"],  # dd/mm/yyyy
-                unescape(" e ".join(speaker["name"] for speaker in ep["speakers"])),
+                unescape(" e ".join(speaker["name"] for speaker in ep["speakers"]))
+                if ep["speakers"]
+                else "",
                 unescape(ep["program"]["name"]),
             )
             for ep in eps_raw
