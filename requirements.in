@@ -3,10 +3,8 @@ requests
 python-dateutil
 
 # dev
-black
 commitizen
 coverage
-isort
 mypy
 nox
 pre-commit
@@ -15,6 +13,6 @@ pytest
 pytest-randomly
 requests-mock
 rich
-ruff
+ruff>=0.2.0
 types-python-dateutil
 types-requests
