@@ -1,58 +1,62 @@
 [tool.ruff]
-    # Enable pycodestyle (`E`) and Pyflakes (`F`) codes by default.
-    ignore = [
-        "D203",
-        "D213",
-        "ANN101",
-        "D107",
-        "T201",
-        "TD",
-        "FIX001",
-        "FIX002",
-        "PYI024", # false positives in lib/deejayit.py
-    ]
-    select = ["ALL"]
-    # Same as Black.
-    line-length = 88
+ignore = [
+    "D203",
+    "D213",
+    "ANN101",
+    "D107",
+    "T201",
+    "TD",
+    "FIX001",
+    "FIX002",
+    "PYI024", # false positives in lib/deejayit.py
+    # because we are using ruff format...
+    "COM812",
+    "ISC001",
+]
+select = ["ALL"]
+# Same as Black.
+line-length = 88
 
-    # Allow unused variables when underscore-prefixed.
-    dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
 
-    target-version = "py38"
+target-version = "py38"
 
-    [tool.ruff.mccabe]
-        # Unlike Flake8, default to a complexity level of 10.
-        max-complexity = 10
+[tool.ruff.mccabe]
+# Unlike Flake8, default to a complexity level of 10.
+max-complexity = 10
+
+[tool.ruff.format]
+docstring-code-format = true
+
 
 [tool.coverage]
 
-    [tool.coverage.run]
-        branch = true
-        omit = [
-            "./tests/*",
-        ]
-    [tool.coverage.report]
-        # Regexes for lines to exclude from consideration
-        exclude_also = [
-            # Don't complain about missing debug-only code:
-            "def __repr__",
-            "if self\\.debug",
+[tool.coverage.run]
+branch = true
+omit = ["./tests/*"]
+[tool.coverage.report]
+# Regexes for lines to exclude from consideration
+exclude_also = [
+    # Don't complain about missing debug-only code:
+    "def __repr__",
+    "if self\\.debug",
 
-            # Don't complain if tests don't hit defensive assertion code:
-            "raise AssertionError",
-            "raise NotImplementedError",
+    # Don't complain if tests don't hit defensive assertion code:
+    "raise AssertionError",
+    "raise NotImplementedError",
 
-            # Don't complain if non-runnable code isn't run:
-            "if 0:",
-            "if __name__ == .__main__.:",
+    # Don't complain if non-runnable code isn't run:
+    "if 0:",
+    "if __name__ == .__main__.:",
 
-            # Don't complain about abstract methods, they aren't run:
-            "@(abc\\.)?abstractmethod",
-        ]
+    # Don't complain about abstract methods, they aren't run:
+    "@(abc\\.)?abstractmethod",
+]
 
-        ignore_errors = true
-        show_missing  = true
-        skip_empty    = true
+ignore_errors = true
+show_missing = true
+skip_empty = true
 
-    [tool.coverage.html]
-        directory = "coverage_html_report"
+[tool.coverage.html]
+directory = "coverage_html_report"

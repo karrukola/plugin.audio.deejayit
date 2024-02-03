@@ -1,10 +1,13 @@
 {
     "recommendations": [
-        "ms-python.flake8",
-        "ms-python.isort",
         "charliermarsh.ruff",
         "njpwerner.autodocstring",
-        "wayou.vscode-todo-highlight"
+        "wayou.vscode-todo-highlight",
+        "ms-python.python",
+        "tamasfe.even-better-toml",
+        "ms-python.flake8",
+        "ms-python.vscode-pylance",
+        "visualstudioexptteam.vscodeintellicode"
     ],
     "unwantedRecommendations": []
 }

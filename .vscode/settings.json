@@ -1,4 +1,12 @@
 {
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true
+    },
+    "editor.formatOnSave": true,
     "python.testing.pytestArgs": [
         "tests"
     ],
