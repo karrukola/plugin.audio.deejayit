@@ -18,6 +18,9 @@ ignore = [
 ]
 select = ["ALL"]
 
+[tool.ruff.lint.pydocstyle]
+convention = "pep257"
+
 [tool.ruff.format]
 docstring-code-format = true
 
