@@ -1,0 +1,653 @@
+{
+    "shows": {
+        "10": {
+            "desc": "Da luned\u00ec a venerd\u00ec alle 12 Alessandro Cattelan \u00e8 in diretta con Catteland su Radio DEEJAY",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/CATTELAND-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/CATTELAND-1200x627-640x360.jpg",
+            "name": "Catteland"
+        },
+        "11": {
+            "desc": "In diretta dal \u201cDeejay studio\u201d di Roma il Trio Medusa, Andrea Prevignano, Veronica Di Pietrantonio e Magister Patrick presentano un magazine a tutto tondo. Protagonisti, insieme ai conduttori, tutti gli ascoltatori grazie alle molte rubriche ideate dal Trio. Dal luned\u00ec al venerd\u00ec dalle 7.30 alle 9.00 su Radio DEEJAY.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/ChiamateRoma_Cover-1200x627-alta-1200x627.png",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/ChiamateRoma_Cover-1200x627-alta-640x360.png",
+            "name": "Chiamate Roma Triuno Triuno"
+        },
+        "12": {
+            "desc": "Vittoria Hyde e Chicco Giuliani vi aspettano in diretta il sabato e la domenica pomeriggio, con il programma del weekend di Radio DEEJAY.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/Nightcall-COVER-SITO-2-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/Nightcall-COVER-SITO-2-640x360.jpg",
+            "name": "Megajay - parte 2"
+        },
+        "13": {
+            "desc": "Da luned\u00ec a venerd\u00ec alle 14 Digei Angelo e Roberto Ferrari ti portano nel mondo di \u201cCiao Belli\u201d. I protagonisti sono i curiosi personaggi che di volta in volta si inseriscono, pi\u00f9 o meno ufficialmente, sulle frequenze di Radio DEEJAY.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/CiaoBelli_Cover-1200x627-alta-1200x627.png",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/CiaoBelli_Cover-1200x627-alta-640x360.png",
+            "name": "Ciao Belli"
+        },
+        "14": {
+            "desc": "'<strong>Colazione da Deejay</strong>' con <strong>Laura Antonini</strong> e <strong>Rudy Zerbi</strong> in diretta il sabato e la domenica dalle 7 alle 10",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/laura-antonini-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/laura-antonini-640x360.jpg",
+            "name": "Colazione da Deejay"
+        },
+        "15": {
+            "desc": "Cordialmente con Linus e gli Elio e le Storie Tese torna per quattro puntate all'anno: una per stagione\r\n\r\n2022\r\n\r\nInverno 28 febbraio\r\n\r\nPrimavera 23 maggio\r\n\r\nEstate 19 settembre\r\n\r\nAutunno 21 novembre\r\n\r\n\u00a0\r\n\r\n2023\r\n\r\n\u00a0\r\n\r\nInverno 6 marzo <a href=\"https://www.deejay.it/programmi/cordialmente/puntate/cordialmente-4-stagioni-del-06-03-2023/\">ascolta qui</a>\r\n\r\nPrimavera\u00a0 22 maggio <a href=\"https://www.deejay.it/programmi/cordialmente/puntate/cordialmente-4-stagioni-del-22-05-2023/\">ascolta qui\u00a0</a>\r\n\r\nEstate 24 luglio",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/12/cordialmente-4-stagioni-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/12/cordialmente-4-stagioni-1200x627-640x360.jpg",
+            "name": "Cordialmente 4 Stagioni"
+        },
+        "16": {
+            "desc": "\u201cDance Revolution\u201d, la migliore musica da club in circolazione scelta da Albertino in esclusiva nel weekend di Radio Deejay.",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "Dance Revolution"
+        },
+        "17": {
+            "desc": "Il radiodramma declinato su storie del mondo della musica, e non solo,\u00a0a sfondo tragico.",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "Dee Giallo"
+        },
+        "18": {
+            "desc": "Lo show notturno di Radio DEEJAY con Nicola Vitiello e Gianluca Vitiello, rigorosamente in diretta. Microfoni aperti per una trasmissione dedicata al popolo della sera\u2026 anche il pi\u00f9 trasgressivo.\u00a0In onda dal luned\u00ec al\u00a0venerd\u00ec dalle 22 alle 24.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/DeeNotte_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/DeeNotte_Cover-1200x627-640x360.jpg",
+            "name": "Dee Notte"
+        },
+        "19": {
+            "desc": "Andrea e Michele e tutti i guerrieri vi aspettano in diretta dal luned\u00ec a venerd\u00ec alle 6 per darvi il \"buongiornazzo\".\r\n\r\nPer contattarci su WhatsApp scrivi a 393/4252200",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/Deejay6Tu_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/Deejay6Tu_Cover-1200x627-640x360.jpg",
+            "name": "Deejay 6 Tu"
+        },
+        "20": {
+            "desc": "Linus e Nicola Savino in diretta con Matteo Curti e la regia di Alex Farolfi nel morning show che ha fatto la storia di Radio DEEJAY. Da luned\u00ec a venerd\u00ec dalle 10 alle 12, in radio, web e TV (canale 69 del Digitale Terrestre).\u00a0Per contattarci su WhatsApp scrivi a 342/5221012",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/07/Linus-e-Nicola-COVER-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/07/Linus-e-Nicola-COVER-640x360.jpg",
+            "name": "Deejay Chiama Italia"
+        },
+        "21": {
+            "desc": "Ogni sabato alle 12 c'\u00e8\u00a0Deejay Football Club: interviste, analisi e approfondimenti sul calcio con gli esperti Ivan Zazzaroni e Fabio Caressa",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/07/FootballClub_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/07/FootballClub_Cover-1200x627-640x360.jpg",
+            "name": "Deejay Football Club"
+        },
+        "22": {
+            "desc": "Il programma musicale del weekend con Aladyn, Alex Farolfi e Shorty. In onda venerd\u00ec dalle 2 alle 4 e sabato dall'1 alle 4\r\n\r\n(immagine di <a href=\"https://www.behance.net/enricodallavecchia\">Enrico Dalla Vecchia</a>)\r\n\r\n\u00a0",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/12001-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/12001-640x360.jpg",
+            "name": "Deejay Is Your Deejay"
+        },
+        "23": {
+            "desc": "Il viaggio contraddistingue la nostra vita. Durante un viaggio si prendono decisioni, si cambiano prospettive, ci si emoziona.\r\n\r\nFrank racconta su Radio DEEJAY esperienze, cambiamenti e aneddoti che hanno come fil rouge il viaggio, intervistando viaggiatori ed esploratori che hanno messo in discussione il proprio stile di vita trasformandolo in una esistenza non convenzionale.\r\n\r\nDomenica sera dalle 22. Produzione curata da Dj Aladyn",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/DEEJAY-ON-THE-ROAD-1200x627_OK-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/DEEJAY-ON-THE-ROAD-1200x627_OK-640x360.jpg",
+            "name": "Deejay On The Road"
+        },
+        "24": {
+            "desc": "Lo storico programma di Albertino e Mario Fargetta: Deejay Parade. Un grande regalo per tutti gli appassionati di musica dance in onda ogni sabato alle 23. Da non perdere!\r\n\r\n<a href=\"https://www.deejay.it/classifiche/deejay-parade/\" target=\"_blank\" rel=\"noopener\">Sfoglia la classifica della settimana</a>",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/ALBERTINO1-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/ALBERTINO1-640x360.jpg",
+            "name": "Deejay Parade"
+        },
+        "25": {
+            "desc": "Linus, Elena Casiraghi, Davide Cassani, Stefano Baldini, Herv\u00e9 Barmasse, Daniel Fontana e Alessandra Patitucci parlano di allenamento, preparazione, integrazione, alimentazione, gare e tante altre cose che girano attorno alla vita degli sportivi. Con particolare attenzione agli sport di fatica e alle ricerche scientifiche grazie alla collaborazione con Enervit, sponsor del programma.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/IMG_0237_1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/IMG_0237_1200x627-640x360.jpg",
+            "name": "Deejay Training Center"
+        },
+        "26": {
+            "desc": "Un'ora con i <strong>Djs From Mars</strong>, i numero uno in fatto di mash up.\r\n\r\nPer scoprire qualcosa in pi\u00f9 sui Djs from Mars potete visitare <a href=\"http://www.djsfrommars.com\">il loro sito internet</a>, o ascoltare <a href=\"https://www.youtube.com/user/DjsFromMarsChannel\">le loro ultime produzioni</a>.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/marsJPG-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/marsJPG-640x360.jpg",
+            "name": "Djs from Mars on Radio Deejay"
+        },
+        "27": {
+            "desc": "Il programma dedicato al Fantacalcio con Stefano De Grandis e Riccardo Trevisani. Rigorosamente in diretta.",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "FantaDeejay"
+        },
+        "28": {
+            "desc": "Il programma con Federico e Marisa",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "FM"
+        },
+        "29": {
+            "desc": "La classifica urban di Radio DEEJAY con Michele \"Wad\" Caporosso\r\n\r\n<a href=\"https://www.deejay.it/classifiche/fresh/\">Guarda l'ultima classifica</a>\r\n\r\n\u00a0\r\n\r\n\u00a0",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "One Two One Two Fresh"
+        },
+        "30": {
+            "desc": "<strong>Gente della Notte</strong> con <a href=\"https://www.deejay.it/schede-conduttori/gianluca-gazzoli/\">Gianluca Gazzoli</a> venerd\u00ec, sabato e domenica dalle 22 alle 24.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62716-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62716-640x360.jpg",
+            "name": "Gente della notte"
+        },
+        "31": {
+            "desc": "Guido Bagatta torna a Radio Deejay con \u201cGuido al cinema\u201d.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62726-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62726-640x360.jpg",
+            "name": "Guido al Cinema"
+        },
+        "32": {
+            "desc": "\"<strong>Il Rosario della Sera</strong>\", con <strong>Fiorello</strong>, ti aspetta da luned\u00ec a venerd\u00ec dalle 19 alle 20.\r\n\r\nA fianco di Rosario Fiorello, l\u2019immancabile maestro Enrico Cremonesi e l\u2019imitatrice Gabriella Germani con tutto il suo repertorio di imitazioni e nuovi nomi che verranno lanciati nel corso del programma.\r\n\r\n\u201cIl Rosario della Sera\u201d, ideato da <a href=\"https://www.deejay.it/conduttori/fiorello/\"><strong>Rosario</strong> <strong>Fiorello</strong></a> e scritto con Francesco Bozzi, Pierluigi Montebelli e Federico Taddia.\r\n\r\n(foto di Adolfo Franz\u00f2)",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x6279-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x6279-640x360.jpg",
+            "name": "Il Rosario della sera"
+        },
+        "33": {
+            "desc": "Fabio Volo e il suo storico programma. Con la partecipazione di Viola Afrifa e la regia di Maurizio Rossato.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/07/il-volo-della-sera-COVER-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/07/il-volo-della-sera-COVER-1200x627-640x360.jpg",
+            "name": "Il Volo Del Mattino"
+        },
+        "34": {
+            "desc": "Sabato e domenica dalle 20 alle 22 Megajay \u00e8 in diretta con <a href=\"https://www.deejay.it/schede-conduttori/francesco-quarna/\">Francesco Quarna</a>",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62719-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62719-640x360.jpg",
+            "name": "Megajay - parte 3"
+        },
+        "35": {
+            "desc": "Luciana Littizzetto e il Vic in diretta ogni sabato dalle 10.00 alle 12.00 su Radio DEEJAY.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2018/09/LA-BOMBA-GASTEL-1200-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2018/09/LA-BOMBA-GASTEL-1200-640x360.jpg",
+            "name": "La Bomba"
+        },
+        "36": {
+            "desc": "Alessandro Prisco \u00e8 in diretta il sabato e la domenica mattina dalle 6 alle 7.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62721-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62721-640x360.jpg",
+            "name": "Megajay \u2013 parte 1"
+        },
+        "37": {
+            "desc": "Il programma di Radio DEEJAY rivolto a tutti gli appassionati di Serie TV torna ogni sabato dalle 20 alle 21. Antonio Visca racconta quali sono gli elementi e le ragioni per cui milioni di persone nel mondo regolano la propria vita in base alla serialit\u00e0 televisiva.\u00a0Curiosit\u00e0, aneddoti e news provenienti dalle serie pi\u00f9 interessanti del momento con un occhio di riguardo ai titoli che hanno fatto la storia di questa moderna forma di narrazione.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/10/visca-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/10/visca-640x360.jpg",
+            "name": "No Spoiler"
+        },
+        "38": {
+            "desc": "Ritorna One Two One Two su Radio DEEJAY con Wad!",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "One Two One Two"
+        },
+        "39": {
+            "desc": "E\u2019 tempo di \u201cdrive time\u201d. Con Pinocchio si ritorna ai pollai.\r\nDedicato a chi ritorna a casa, il programma \u201cdi alleggerimento\u201d de La Pina, Diego e Valentina Ricci si prefigge di rispondere, grazie al generoso contributo degli ascoltatori, al grande quesito che attanaglia l\u2019umanit\u00e0 intera, \u201cCiao, che fate?\u201d. Ma non solo\u2026",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/PINA-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/PINA-640x360.jpg",
+            "name": "La Pina"
+        },
+        "40": {
+            "desc": "Da luned\u00ec a venerd\u00ec il programma viral di Radio DEEJAY con Michele \"Wad\" Caporosso e tutta la gang!",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/SayWaaad_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/SayWaaad_Cover-1200x627-640x360.jpg",
+            "name": "Say Waaad?"
+        },
+        "41": {
+            "desc": "La musica\u00a0di Radio DEEJAY nella notte tra sabato e domenica scelta da Mauro Miclini.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/Miclini_Cover-1200x627-alta-1200x627.png",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/Miclini_Cover-1200x627-alta-640x360.png",
+            "name": "Sunday Morning"
+        },
+        "42": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62729-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62729-640x360.jpg",
+            "name": "Top Five"
+        },
+        "43": {
+            "desc": "Nikki al microfono, Dj Aladyn in regia e una selezione musicale eclettica con spirito rock\u2019n\u2019roll. Oltre ovviamente alle performance acustiche con gli ospiti in studio e i messaggi dei tropicalisti all\u2019ascolto. Fai merenda con Tropical Pizza!\r\n\r\nPer contattarci su WhatsApp scrivi a 345/0630063",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2018/09/tropical-1200-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2018/09/tropical-1200-640x360.jpg",
+            "name": "Tropical Pizza"
+        },
+        "44": {
+            "desc": "Vic e Marisa Passera vi aspettano in diretta\u00a0da <strong>luned\u00ec a venerd\u00ec alle 12.\r\n</strong>",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/12005-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/12005-640x360.jpg",
+            "name": "Via Massena"
+        },
+        "45": {
+            "desc": "\u201cC'\u00e8 chi sostiene che per raccontare belle storie basta guardarsi attorno. Io non ci credo, perch\u00e9 se cos\u00ec fosse i vigili urbani sarebbero tutti Ingmar Bergman\u201d. Probabilmente aveva ragione Massimo Troisi, ma per raccontare belle storie, effettivamente non si pu\u00f2 fare altro che osservare il mondo. In What's The Story, <strong>Nikki </strong>metter\u00e0 insieme ritagli di piccole e grandi storie di un mondo in perenne cambiamento: storie di uomini, tecnologie, progresso, esplorazioni, nuove tendenze. Il tutto unito dalla colla pi\u00f9 potente: la musica.\r\n\r\nScrivici a\u00a0<a href=\"mailto:whatsthestory@deejay.it\">whatsthestory@deejay.it</a>",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "What's The Story"
+        },
+        "4905": {
+            "desc": "Il programma che segna il ritorno dopo 20 anni di Daniele Bossari su Radio DEEJAY. In onda ogni domenica dalle 20 con ospiti e approfondimenti",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/IL-BOSS-DEL-WEEKEND-1200-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/IL-BOSS-DEL-WEEKEND-1200-640x360.jpg",
+            "name": "Il Boss Del Weekend"
+        },
+        "4992": {
+            "desc": "Francesco Quarna e Vittoria Hyde in diretta dal luned\u00ec al venerd\u00ec dalle 21 alle 24 su Radio DEEJAY.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/07/FQuarna_VHyde_1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/07/FQuarna_VHyde_1200x627-640x360.jpg",
+            "name": "Deejay Summerlive"
+        },
+        "4993": {
+            "desc": "Arte precolombiana, cultura ellenistica e danze caraibiche. Questi sono gli unici temi di cui Frank (Francesco Lotta), \u00a0Ciccio (Francesco Lancia) e Chiara Galeazzi (Chiara Galeazzi) NON parleranno. Sempre ovviamente con l\u2019ironia e il divertimento che li contraddistingue. Tutti i giorni dalle 13 alle 14 su Radio DEEJAY. Si dovrebbe ridere, ma non sono previsti rimborsi.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/CHIARA-FRANKCICCIO-1200X627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/CHIARA-FRANKCICCIO-1200X627-640x360.jpg",
+            "name": "Chiara, Frank e Ciccio"
+        },
+        "4994": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/07/SummerNight-COVER-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/07/SummerNight-COVER-640x360.jpg",
+            "name": "Deejay Summernight"
+        },
+        "4995": {
+            "desc": "Il meglio dell'anno di Radio DEEJAY",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/07/radio-deejay-logo-cartello-thumb-320x1671.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/07/radio-deejay-logo-cartello-thumb-320x1671.jpg",
+            "name": "Deejay '23"
+        },
+        "4996": {
+            "desc": "",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "Yesterjay"
+        },
+        "5082": {
+            "desc": "Gianluca e Nicola Vitiello in onda su Radio DEEJAY ogni mattina da luned\u00ec a venerd\u00ec dalle 6.00 alle 7.30!",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/DeeNotte_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/DeeNotte_Cover-1200x627-640x360.jpg",
+            "name": "Dee Mattina"
+        },
+        "5083": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/rudy-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/rudy-640x360.jpg",
+            "name": "Rudy Zerbi"
+        },
+        "5084": {
+            "desc": "L'ora dell'aperitivo con Andrea e Michele! I\u00a0guerrieri saranno chiamati prima di cena per racconti di vita (e di tradimenti) senza accantonare rubriche tanto storiche quanto amate!\r\n\r\nDa luned\u00ec a venerd\u00ec dalle 19.00 alle 20.00 su Radio DEEJAY!",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/Deejay6Tu_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/Deejay6Tu_Cover-1200x627-640x360.jpg",
+            "name": "Andy e Mike"
+        },
+        "5085": {
+            "desc": "Gianluca porta il suo mondo in radio: interviste, fenomeni social e sport! Con la collaborazione di Elisa Copeta.\r\n\r\nIn diretta su Radio DEEJAY dalle 20.00 alle 21.00!",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/07/gazzoli-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/07/gazzoli-640x360.jpg",
+            "name": "Gazzology"
+        },
+        "5086": {
+            "desc": "Le canzoni preferite dai nostri DEEJAY, con Frank dalle 20 alle 21.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62730-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62730-640x360.jpg",
+            "name": "Playlist"
+        },
+        "5102": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/08/matilde-amato-alessandro-prisco-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/08/matilde-amato-alessandro-prisco-640x360.jpg",
+            "name": "Alessandro Prisco e Matilde Amato"
+        },
+        "5105": {
+            "desc": "A luglio <a href=\"https://www.deejay.it/conduttori/federico-russo/\" target=\"_blank\" rel=\"noopener\">Federico Russo</a> e <a href=\"https://www.deejay.it/conduttori/francesco-quarna/\" target=\"_blank\" rel=\"noopener\">Francesco Quarna</a>\u00a0tornano in diretta da luned\u00ec e venerd\u00ec dalle 14 alle 17 con PLAY DEEJAY.\r\n\r\nPlay come \"suonare\", play come \"giocare\": il pomeriggio di Radio DEEJAY \u00e8 sempre nel segno della leggerezza.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/Playdeejay-COVER-SITO-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/Playdeejay-COVER-SITO-640x360.jpg",
+            "name": "Play Deejay"
+        },
+        "5106": {
+            "desc": "Vic e Marisa vi danno la buonasera su Radio DEEJAY. In diretta da luned\u00ec a venerd\u00ec alle 19",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/09/BonaseraDeejay_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/09/BonaseraDeejay_Cover-1200x627-640x360.jpg",
+            "name": "Buonasera Deejay"
+        },
+        "5107": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/NightCall_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/NightCall_Cover-1200x627-640x360.jpg",
+            "name": "Chicco Giuliani"
+        },
+        "5108": {
+            "desc": "Rudy Zerbi e Laura Antonini vi accompagnano nel risveglio del fine-settimana con ospiti, musica e attualit\u00e0. In diretta ogni sabato e domenica dalle 7 alle 10",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/08/rudy-e-laura-1200-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/08/rudy-e-laura-1200-640x360.jpg",
+            "name": "Rudy e Laura"
+        },
+        "5109": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2018/02/vale_vic_cover.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2018/02/vale_vic_cover-640x360.jpg",
+            "name": "V&V"
+        },
+        "5110": {
+            "desc": "Analisi, recensioni, curiosit\u00e0 e aggiornamenti sul mondo del cinema ogni il sabato dalle 19 alle 20 con Antonio Visca e Nicola Vitiello",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/08/cinema-deejay-1200-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/08/cinema-deejay-1200-640x360.jpg",
+            "name": "Cinema Deejay"
+        },
+        "5111": {
+            "desc": "Gianluca Gazzoli in diretta il sabato e la domenica dalle 20 alle 23",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "In viaggio con Deejay"
+        },
+        "5112": {
+            "desc": "Legend \u00e8 il programma musicale in onda ogni sabato e domenica notte, da mezzanotte alle quattro. Tutta la musica da ballare dagli anni '70 a oggi \"magheggiata\" da DJ Aladyn e Alex Farolfi",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/09/logo-legend-2--1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/09/logo-legend-2--640x360.jpg",
+            "name": "Legend"
+        },
+        "5161": {
+            "desc": "La notte di Radio DEEJAY continua in diretta, c'\u00e8 NIGHTCALL con Chicco Giuliani.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/NightCall_App-1200-x-1200-alta-1200x627.png",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/NightCall_App-1200-x-1200-alta-640x360.png",
+            "name": "Nightcall"
+        },
+        "5165": {
+            "desc": "Deejay 6 Tu Weekend \u00e8 in onda il sabato e la domenica dalle 6 alle 8 con Alessandro Prisco e Florencia",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/10/Deejay6Tu_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/10/Deejay6Tu_Cover-1200x627-640x360.jpg",
+            "name": "Florencia e Alessandro Prisco"
+        },
+        "5399": {
+            "desc": "Mercoled\u00ec 18 dicembre c'\u00e8 <strong>Deejay for Children</strong>, e per l\u2019occasione il palinsesto della radio verr\u00e0 completamente rivoluzionato.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/Deejay_4_children_sito_1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/Deejay_4_children_sito_1200x627-640x360.jpg",
+            "name": "Deejay for Children"
+        },
+        "5407": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/christmas.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/christmas.jpg",
+            "name": "Deejay 4 Christmas"
+        },
+        "5408": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/Nicola-Vitiello-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/Nicola-Vitiello-1200x627-640x360.jpg",
+            "name": "Nicola Vitiello"
+        },
+        "5410": {
+            "desc": "Linus in diretta la mattina di Natale! TANTI AUGURI!",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2017/12/JingleBell_1200x6271-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2017/12/JingleBell_1200x6271-640x360.jpg",
+            "name": "Jingle Bell"
+        },
+        "5411": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62713-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62713-640x360.jpg",
+            "name": "30 songs \u2013 Decade"
+        },
+        "5412": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/christmas.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/12/christmas.jpg",
+            "name": "Deejay Wintertime"
+        },
+        "5413": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/daniele-bossari-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/daniele-bossari-640x360.jpg",
+            "name": "Daniele Bossari"
+        },
+        "5414": {
+            "desc": "Da luned\u00ec a venerd\u00ec dalle 13.00 alle 14.00 Vic e Marisa Passera su Radio DEEJAY!",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/vic-e-mari-1220x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/vic-e-mari-1220x627-640x360.jpg",
+            "name": "Vic e Mari"
+        },
+        "5415": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62724-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/1200x62724-640x360.jpg",
+            "name": "Capodanno con Frank"
+        },
+        "5416": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/PRISCO--1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/PRISCO--640x360.jpg",
+            "name": "Alessandro Prisco"
+        },
+        "5417": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/07/laura-antonini-1200x1200-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/07/laura-antonini-1200x1200-640x360.jpg",
+            "name": "Laura Antonini"
+        },
+        "5438": {
+            "desc": "Il magazine di Radio DEEJAY condotto da Claudia Cassani. Con lei ogni settimana gli speaker della radio con i temi pi\u00f9 discussi della settimana.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/01/Claudia-Cassani-1200-x-62739-1200x627.png",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/01/Claudia-Cassani-1200-x-62739-640x360.png",
+            "name": "Megajay"
+        },
+        "5477": {
+            "desc": "Su una collina ventosa del Giappone, un uomo ha messo nel suo giardino una cabina con dentro un telefono scollegato. Tutti i giorni le persone vanno l\u00ec a chiamare chi non c\u2019\u00e8 pi\u00f9 affidando al vento i propri messaggi. Sono messaggi semplici, legati alla vita di tutti i giorni, che permettono di riportare gli affetti persi, nella quotidianit\u00e0.\r\n\r\nI messaggi vocali che ci avete mandato sono in onda da mezzanotte alle quattro affinch\u00e8 il vento li trasporti, in una notte speciale dedicata a chi, dal vento, ci ascolta.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/cabina-giappone-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/cabina-giappone-640x360.jpg",
+            "name": "Deejay nel vento"
+        },
+        "5544": {
+            "desc": "Non importa quanti anni abbiamo, dove viviamo, che lavoro facciamo. Presto o tardi la vita ci porta a subire brusche battute d'arresto, a rimettere tutto in discussione o semplicemente a farci delle domande.\r\n\u00c8 questa la felicit\u00e0? Meglio essere o apparire? Seguire i propri sogni di bambino o accontentarsi di vivere una vita tutto sommato serena?\r\nLe domande sono tante e le risposte sono l\u00e0 fuori. L'uomo, con la sua inesauribile creativit\u00e0 ha gi\u00e0 risposto praticamente a tutto. Fabio Volo cerca e trova le risposte nel cinema, nella filosofia, nella poesia, nella musica senza la pretesa di avere la verit\u00e0 in tasca. Sono solo spunti: \"NON LO DICO IO\".\r\n\r\nNon lo dico io \u00e8 un contenuto in esclusiva per l'applicazione di Radio Deejay. Scaricala su <a href=\"https://apps.apple.com/it/app/ideejay/id299851208\">AppleStore</a> o <a href=\"https://play.google.com/store/apps/details?id=it.deejay.radiodeejay\">GooglePlay</a>.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/03/podcast_ondemand_volo2-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/03/podcast_ondemand_volo2-640x360.jpg",
+            "name": "Non lo dico io"
+        },
+        "5559": {
+            "desc": "Siamo nel 2020 e le ragazzine figlie di questo nuovo decennio partono gi\u00e0 con una buona dose di aspettative: devono essere ribelli, sognatrici, geniali. \r\nQuesto non significa che le loro sorelle maggiori, mamme e nonne se ne siano state con le mani in mano. Anche loro il mondo l'hanno osservato, scoperto, esplorato: chi in punta di piedi, per non far rumore, chi con passo sicuro senza paura. E allora siamo andate a cercarle queste mamme, sorelle e nonne. Gli abbiamo chiesto di tornare nei loro panni di bambine e di raccontarci come era essere una piccola donna in Italia, dagli anni 40 in poi. \r\nIn ogni episodio una donna nata in un decennio diverso porter\u00e0 Valentina con s\u00e9 indietro nel tempo per scoprire se questa \u00e8 davvero la vita che sognava da bambina.\r\n\r\nLa vita che sognavo da bambina \u00e8 un contenuto in esclusiva per l'applicazione di Radio Deejay. Scaricala su <a href=\"https://apps.apple.com/it/app/ideejay/id299851208\">AppleStore</a> o <a href=\"https://play.google.com/store/apps/details?id=it.deejay.radiodeejay\">GooglePlay</a>.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/03/podcast_ondemand_valentina-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/03/podcast_ondemand_valentina-640x360.jpg",
+            "name": "La vita che sognavo da bambina"
+        },
+        "5560": {
+            "desc": "10 puntate, una per ciascuna delle 10 serie pi\u00f9 significative del decennio appena finito. 10 titoli da riscoprire, da ricordare e magari un p\u00f2 da rimpiangere; 10 titoli da recuperare, per tutti quelli che se li sono persi. In un'epoca in cui le serie sono sempre di pi\u00f9, una guida ragionata al meglio del meglio delle serie \"must\", che bisogna assolutamente avere nel proprio bagaglio culturale.\r\n\r\nLe dieci degli anni 10 \u00e8 un contenuto in esclusiva per l'applicazione di Radio Deejay. Scaricala su <a href=\"https://apps.apple.com/it/app/ideejay/id299851208\">AppleStore</a> o <a href=\"https://play.google.com/store/apps/details?id=it.deejay.radiodeejay\">GooglePlay</a>.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/03/podcast_ondemand_visca2-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/03/podcast_ondemand_visca2-640x360.jpg",
+            "name": "Le 10 degli anni '10"
+        },
+        "5561": {
+            "desc": "Riparte Mc\u00b2, il programma di Matteo Curti e Francesco Lancia su scienza e dintorni che cerca di rispondere alla pi\u00f9 universale delle domande: \"eh?\".\r\n\r\nMc\u00b2 \u00e8 un contenuto in esclusiva per l'applicazione di Radio Deejay. Scaricala su <a href=\"https://apps.apple.com/it/app/ideejay/id299851208\">AppleStore</a> o <a href=\"https://play.google.com/store/apps/details?id=it.deejay.radiodeejay\">GooglePlay</a>.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/03/podcast_ondemand_curti-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/03/podcast_ondemand_curti-640x360.jpg",
+            "name": "MC2"
+        },
+        "5682": {
+            "desc": "Il campo estivo di Radio DEEJAY continua tutto l'anno perch\u00e9 l'estate \u00e8 uno \"State of Mind\".\r\n\r\nDa luned\u00ec a venerd\u00ec alle 15, due ore di musica e divertimento con Nikki, Federico Russo, Francesco Quarna e DJ Aladyn",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/SUMMERCAMP_cover_1200X1200_V02-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/07/SUMMERCAMP_cover_1200X1200_V02-640x360.jpg",
+            "name": "Summer Camp"
+        },
+        "5776": {
+            "desc": "",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "Amici di Radio DEEJAY"
+        },
+        "5797": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2018/09/wad-2-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2018/09/wad-2-640x360.jpg",
+            "name": "WWW \u2013 Wad Without Wad"
+        },
+        "5823": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/06/radio-deejay-logo-cartello-thumb-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/06/radio-deejay-logo-cartello-thumb-1200x627-640x360.jpg",
+            "name": "Podcast"
+        },
+        "5824": {
+            "desc": "La classifica delle 30 canzoni pi\u00f9 \"streammate\" della settimana \u00e8 in onda ogni sabato e domenica alle 15 con Wad e Marta Boffelli",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/09/cover-viral-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/09/cover-viral-640x360.jpg",
+            "name": "Deejay Viral"
+        },
+        "5910": {
+            "desc": "In ogni puntata di Showtime Gianluca Gazzoli racconta di tutte quelle volte in cui la musica ha reso indelebile un gesto atletico o\u00a0 lo sport ha portato la musica nell\u2019Olimpo.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/podcast_gazzoli-corretto-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/podcast_gazzoli-corretto-640x360.jpg",
+            "name": "Showtime"
+        },
+        "5911": {
+            "desc": "<p style=\"font-weight: 400\">Il podcast dedicato alla cultura (pop) del vino. Storie \u201cdi vite\u201d raccontate dal DJ-vignaiolo Francesco\u00a0Quarna\u00a0e dalla sommelier e wine influencer Adua Villa.</p>\r\n<p style=\"font-weight: 400\"><strong>\u201cDEEVINO, la cantina di Radio DEEJAY\u201d</strong>\u00a0\u00e8 un contenuto in esclusiva per l'applicazione di Radio Deejay. Scaricala su\u00a0<a href=\"https://apps.apple.com/it/app/ideejay/id299851208\">AppleStore</a>\u00a0o\u00a0<a href=\"https://play.google.com/store/apps/details?id=it.deejay.radiodeejay\">GooglePlay</a>.</p>",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/deevino-logo-finale-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2020/01/deevino-logo-finale-640x360.jpg",
+            "name": "Deevino"
+        },
+        "5913": {
+            "desc": "",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "I Love My Radio"
+        },
+        "6": {
+            "desc": "Il meglio della musica di RADIO DEEJAY",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/01/Claudia-Cassani-1200-x-62739-1200x627.png",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/01/Claudia-Cassani-1200-x-62739-640x360.png",
+            "name": "50 Songs '23"
+        },
+        "6020": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/06/radio-deejay-logo-cartello-thumb-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/06/radio-deejay-logo-cartello-thumb-1200x627-640x360.jpg",
+            "name": "Mega Mix dell'Anno"
+        },
+        "6106": {
+            "desc": "Una puntata celebrativa di\u00a0<em>C.O.C.C.O.</em>\u00a0dedicata a\u00a0Claudio Coccoluto\u00a0e composta da un montaggio dei migliori dj set che fece nel suo programma cult in onda su Radio\u00a0DEEJAY dal 2003 al 2009.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/03/C.O.C.C.O.-COP-2-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/03/C.O.C.C.O.-COP-2-640x360.jpg",
+            "name": "C.O.C.C.O. Celebration"
+        },
+        "6136": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/04/Pasqua2021ok-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/04/Pasqua2021ok-640x360.jpg",
+            "name": "Easter Egg"
+        },
+        "6137": {
+            "desc": "",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "Frank e Gianluca Gazzoli"
+        },
+        "6219": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/05/summertime_cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/05/summertime_cover-1200x627-640x360.jpg",
+            "name": "Deejay Summertime"
+        },
+        "6317": {
+            "desc": "Quarant'anni di successi targati Radio DEEJAY. Ogni sabato e domenica dalle 14 i nostri deejay presentano i brani che hanno fatto la storia della radio.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/09/COVER_SPORT_1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/09/COVER_SPORT_1200x627-640x360.jpg",
+            "name": "Forty Forti"
+        },
+        "6408": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/10/vic-1200x1200.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2021/10/vic-1200x1200-627x360.jpg",
+            "name": "Vic e Andrea Prevignano"
+        },
+        "6781": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/05/thumbnail_1200x1200_onepodcast-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/05/thumbnail_1200x1200_onepodcast-640x360.jpg",
+            "name": "One Podcast"
+        },
+        "6877": {
+            "desc": "Fari puntati sull\u2019attualit\u00e0, sullo sport, sul cinema e sugli eventi: nel pomeriggio del weekend Guido Bagatta sapr\u00e0 raccontare curiosit\u00e0 e dettagli di tutto quanto fa spettacolo.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/Guido-Bagatta-2-Cover-1200x627--1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/Guido-Bagatta-2-Cover-1200x627--640x360.jpg",
+            "name": "MegaGibbi"
+        },
+        "6915": {
+            "desc": "Fari puntati sull'attualit\u00e0, sullo sport, sul cinema e sugli eventi: nel pomeriggio del weekend Guido Bagatta sapr\u00e0 raccontare curiosit\u00e0 e dettagli di tutto quanto fa spettacolo.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/09/bagatta1200-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/09/bagatta1200-640x360.jpg",
+            "name": "GiBi Show"
+        },
+        "6989": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/04/deejay-natale-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/04/deejay-natale-640x360.jpg",
+            "name": "Natale Con Deejay"
+        },
+        "7": {
+            "desc": "Albertino Everyday \u00e8 la guida definitiva alla musica moderna di Radio Deejay.\r\nDall\u2019EDM alla deep house, dal pop alla dubstep, dall\u2019hip hop alla drum and bass.\r\nE poi info, curiosit\u00e0, aneddoti, rubriche, sorrisi. Un programma che se tipo ci fosse ancora la cassettina lo registreresti tutti i giorni, ma tranquillo, oggi c\u2019\u00e8 il reloaded che si sente pure meglio. In regia Shorty.\r\n\r\n<a href=\"http://www.deejay.it/audio/?reloaded=albertino-everyday-2\">Ascolta tutte le puntate! </a>\r\n\r\nPer contattarci su WhatsApp scrivi a 342/6543210",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "Albertino Everyday"
+        },
+        "7042": {
+            "desc": "\"Uno\u00a0show che fa ridere ma anche riflettere\" tutti i weekend dalle 14.00 alle 16.00 con Gianluca Gazzoli.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/07/gazzoli-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/07/gazzoli-640x360.jpg",
+            "name": "GG Show"
+        },
+        "7265": {
+            "desc": "Il meglio della musica di Radio DEEJAY dal 1982 ad oggi, con Francesco Quarna.\r\n\r\nLe canzoni pop compongono la colonna sonora della nostra vita. Sbloccano ricordi, rievocano situazioni e accendono emozioni condivise. E quando passano alla radio diventano un rito collettivo.\u00a0Cos\u00ec nasce la playlist di Notorious ",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/06/NOTORIUS_01_1920x1080_1mb-1200x675.png",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/06/NOTORIUS_01_1920x1080_1mb-640x360.png",
+            "name": "Notorious"
+        },
+        "7266": {
+            "desc": "State of the Nation \u00e8 un programma musicale condotto da Nicola Savino e Bassi Maestro che racconta gli anni 80 con divertimento,\u00a0 nostalgia e le testimonianze dei protagonisti: l\u2019italodisco (e non solo!) come non l\u2019avete mai ascoltata che vi accompagner\u00e0 per una serie di puntate da antologia.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/06/STATE-OF-THE-NATION_1mb.png",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/06/STATE-OF-THE-NATION_1mb-640x360.png",
+            "name": "State Of The Nation"
+        },
+        "7268": {
+            "desc": "Mauro Corvino e Andrea Tuzio in diretta dalle 22 a mezzanotte",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/11/1200x627-640x360.jpg",
+            "name": "Mauro e Andrea"
+        },
+        "7285": {
+            "desc": "Francesco Lancia e Chiara Galeazzi e il terzo incomodo su <a href=\"https://www.deejay.it/\" target=\"_blank\" rel=\"noopener\">Radio DEEJAY</a>: personaggi della stand up comedy e del teatro, attori, autori e interlocutori che daranno vita ad uno spazio creativo di improvvisazione e sperimentazione. Inseriamo le locuzioni stand up comedy italiani e podcast comici italiani che fanno ridere divertenti perch\u00e9 ci indicizzano meglio il programma.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/09/IlTerzoIncomodo__Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/09/IlTerzoIncomodo__Cover-1200x627-640x360.jpg",
+            "name": "Francesco Lancia e Chiara Galeazzi"
+        },
+        "7287": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/09/We-Jay-1-Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/09/We-Jay-1-Cover-1200x627-640x360.jpg",
+            "name": "We-Jay Parte 1"
+        },
+        "7291": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/11/Damiano_Umberto__Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/11/Damiano_Umberto__Cover-1200x627-640x360.jpg",
+            "name": "Umberto e Damiano"
+        },
+        "7332": {
+            "desc": "Il Festival di Marracash con il meglio della scena rap italiana \u00e8 in diretta su Radio DEEJAY e Radio m2o con il commento di Albertino e Wad e le interviste ai protagonisti",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/09/Speciale-Marrageddon-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/09/Speciale-Marrageddon-1200x627-640x360.jpg",
+            "name": "Speciale Marrageddon"
+        },
+        "7374": {
+            "desc": "",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/10/MatildeAmato_Itunes-1500-x-1500_bianco-1200x675.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2023/10/MatildeAmato_Itunes-1500-x-1500_bianco-640x360.jpg",
+            "name": "We-Jay parte 3"
+        },
+        "8": {
+            "desc": "Animal House con Paolo Menegatti e Dunia Rahwan \u00e8 l\u2019appuntamento domenicale che Radio DEEJAY dedica al mondo degli animali. Protagonisti\u2026 cani, gatti, pesci rossi, conigli, criceti.. insomma tutti gli animali che vengono chiamati \u2018d\u2019affezione\u2019 e che vivono nelle nostre case. Ma non solo.\r\n\r\nDi puntata in puntata si cerca anche di dare informazioni su grandi predatori, animali marini e animali selvatici. Ma anche su milioni di animaletti che non vediamo e fanno parte della nostra vita, come gli insetti o la microfauna. Si coinvolgono gli ascoltatori che raccontano le loro \u2018esperienze animalesche\u2019 e li si incuriosiscono attraverso aneddotti e notizie divertenti sul mondo animale raccontate con ironia e leggerezza.\r\n\r\nL\u2019intento \u00e8 quello di provare a conoscere un po\u2019 meglio tutto il mondo animale, gli habitat e i comportamenti che noi esseri umani dobbiamo osservare anche in funzione a una pi\u00f9 rispettosa, serena e felice convivenza.\r\n\r\nCon l\u2019aiuto di esperti come istruttori, veterinari, studiosi e ricercatori saranno affrontate le tematiche che comportano il relazionarsi con un animale dando consigli su come vivere al meglio la meravigliosa esperienza che \u00e8 condividere la propria vita con uno o pi\u00f9 pets.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/AnimalHouse_Cover-1200x627-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2022/08/AnimalHouse_Cover-1200x627-640x360.jpg",
+            "name": "Animal House"
+        },
+        "9": {
+            "desc": "I racconti di Giorgio Prezioso: ogni venerd\u00ec a mezzanotte\r\n\r\n<a href=\"http://www.giorgioprezioso.com/it/\">giorgioprezioso.com</a>\u00a0/\u00a0<a href=\"https://www.facebook.com/giorgiopreziosoofficial/\">facebook.com/giorgiopreziosoofficial</a>\r\n\r\n\u00a0\r\n\r\n\u00a0\r\n\r\n\u00a0",
+            "fanart_url": null,
+            "logo_url": null,
+            "name": "Audio Video"
+        },
+        "97": {
+            "desc": "Il programma dance che ha fatto la storia di Radio DEEJAY \u00e8 in onda ogni sabato alle 22 con Albertino, Fargetta, Molella e Prezioso.",
+            "fanart_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/deejay-time-1200-1200x627.jpg",
+            "logo_url": "https://cdn.gelestatic.it/deejay/sites/2/2019/06/deejay-time-1200-640x360.jpg",
+            "name": "Deejay Time"
+        }
+    },
+    "updated_on": "2024-01-05T20:09:31.080009+00:00"
+}

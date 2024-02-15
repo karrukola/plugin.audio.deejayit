@@ -74,6 +74,28 @@ def _build_shows_page() -> None:
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
 
 
+def _build_legacy_shows_page() -> None:
+    xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
+    li_list = []
+    for show in DeejayIt().get_legacy_shows():
+        item = xbmcgui.ListItem(label=show.name, label2=show.desc)
+        item.setProperty("IsPlayable", "false")
+        item.setArt({"icon": show.logo_url, "fanart": show.fanart_url})
+        url = _build_url(
+            {
+                "mode": "reloaded",
+                "show_id": show.id,
+                "page": 1,
+                "fanart_url": show.fanart_url,
+            },
+        )
+        li_list.append((url, item, True))
+    xbmcplugin.addDirectoryItems(ADDON_HANDLE, li_list, len(li_list))
+    # set the content of the directory
+    xbmcplugin.setContent(ADDON_HANDLE, "songs")
+    xbmcplugin.endOfDirectory(ADDON_HANDLE)
+
+
 def _build_podcasts_page() -> None:
     xbmcplugin.addSortMethod(ADDON_HANDLE, xbmcplugin.SORT_METHOD_LABEL)
     li_list = []
@@ -337,6 +359,7 @@ def _build_main_page() -> None:
         "programmi": "Tutti i programmi",
         "webradio": "Webradio",
         "podcasts": "Podcast",
+        "legacy": "Legacy",
     }
     for target, name in targets.items():
         xbmcplugin.addDirectoryItem(
@@ -348,7 +371,7 @@ def _build_main_page() -> None:
     xbmcplugin.endOfDirectory(ADDON_HANDLE)
 
 
-def _main() -> None:
+def _main() -> None:  # noqa: C901
     args = parse_qs(sys.argv[2][1:])
     mode = args.get("mode", None)
 
@@ -359,6 +382,8 @@ def _main() -> None:
         _build_webradios_page()
     elif mode[0] == "programmi":
         _build_shows_page()
+    elif mode[0] == "legacy":
+        _build_legacy_shows_page()
     elif mode[0] == "podcasts":
         _build_podcasts_page()
     elif mode[0] == "reloaded":

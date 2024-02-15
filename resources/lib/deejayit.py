@@ -4,6 +4,8 @@ from __future__ import annotations
 import logging
 from collections import namedtuple
 from html import unescape
+from json import loads
+from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
 
@@ -170,6 +172,35 @@ class DeejayIt:
                 show["images"]["size_1200x675"],
             )
             for show in shows
+        )
+
+    def get_legacy_shows(self) -> frozenset[Show]:
+        """Return the legacy shows.
+
+        Legacy shows are available on the CDN, but not advertised by the API.
+        The list of shows advertised by the API comes out of `get_shows()`
+        You can reach those episodes by knowing the ID.
+
+        :return: List of shows that we know exist, but are not advertised.
+        :rtype: frozenset[Show]
+        """
+        legacy_file = Path(__file__).parent / "legacy.json"
+        legacy: dict[str, dict[str, str]] = loads(legacy_file.read_text())["shows"]
+
+        # remove the shows that are published online
+        o_shows = self.get_shows()
+        for o_show in o_shows:
+            del legacy[str(o_show.id)]
+
+        return frozenset(
+            Show(
+                unescape(show["name"]),
+                s_id,
+                unescape(show["desc"]),
+                show["logo_url"],
+                show["fanart_url"],
+            )
+            for s_id, show in legacy.items()
         )
 
     def _safe_get_pic(self, ep_dict: JsonType, key: str) -> str | None:
