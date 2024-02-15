@@ -1,28 +1,43 @@
 # plugin.audio.deejayit
-![Build Status](https://travis-ci.org/karrukola/plugin.audio.deejayit.svg?branch=master)
+
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 [IT]
-I reloaded di Radio DeeJay su Kodi. Da Deejay Chiama Italia a Tropical Pizza, da Asganaway al Deejay Time, i programmi di [Radio Deejay](http://www.deejay.it) da riascoltare quando e dove vuoi.
+_Reloaded_, _podcast_ e _webradio_ di Radio DeeJay su Kodi. Da Deejay Chiama Italia a
+Tropical Pizza, da Asganaway al Deejay Time, i programmi di
+[Radio Deejay](http://www.deejay.it) da riascoltare quando e dove vuoi.
 
 [EN]
 A Kodi plugin that lets you access [Radio Deejay](http://www.deejay.it)'s ondemand archive.
 
-Radio DeeJay is an Italian radio station. It was founded on 1 February 1982 by the Italian radio and television personality Claudio Cecchetto and was acquired by the Gruppo Editoriale L'Espresso in 1989 (which also owns DeeJay TV, Repubblica Radio TV, m2o and Radio Capital). [source: Wikipedia]
+Radio DeeJay is an Italian radio station. It was founded on 1 February 1982 by the
+Italian radio and television personality Claudio Cecchetto and was acquired by the
+Gruppo Editoriale L'Espresso in 1989 (which also owns DeeJay TV, Repubblica Radio TV,
+m2o and Radio Capital). [source: Wikipedia]
 
-# Technical details
+## Why does this exist?
 
-Version 2 of this plugin relies on the API used by the official mobile apps, sniffed using [Fiddler](https://www.telerik.com/fiddler). The JSON output is then parsed and used to present data on screen.
+So I am able to access all episodes of [**Cordialmente**](https://www.deejay.it/programmi/cordialmente/)
+and play them on long road trips.
+
+## Technical details
+
+Version 2 of this plugin relies on the API used by the official mobile apps, sniffed
+using [Fiddler Classic](https://www.telerik.com/fiddler).
+The JSON output is then parsed and used to present data on screen.
 
 ## List of API calls
-## Get list of Reloaded
-http://www.deejay.it/api/pub/v1/programs_ondemand?section=radio
-## Get latest episode(s)
-http://www.deejay.it/api/pub/v1/archive_ondemand?last_day=1&pid=225196&rid=225228
-The oldest episode is from 23-09-2009 - hard stop there?
 
-## Sample usage
-Episodi di Via Massena
-http://www.deejay.it/api/pub/v1/archive_ondemand?pid=44&rid=44&date_start=2019-06-18&date_end=2019-07-18
+### Home page
 
-Cordialmente
-http://www.deejay.it/api/pub/v1/archive_ondemand?pid=15&rid=15&date_start=2018-05-01
+[Reloaded list](https://www.deejay.it/api/pub/v2/all/mhub/programs?brand_id=deejay&page=1&pagination_rows=15&sort=desc)
+
+[Podcasts](https://www.deejay.it/api/pub/v2/all/mhub/series?brand_id=deejay&page=1&pagination_rows=15&sort=desc)
+
+[Webradios](https://www.deejay.it/api/pub/v2/all/mhub/webradios/deejay)
+
+### Get latest episode(s)
+
+Once you know the `program_id` you can query for its latest episodes.
+
+[Show's episodes: Cordialmente](https://www.deejay.it/api/pub/v2/all/mhub/search?program_id=15&audio_type=episode&page=1&pagination_rows=15&sort=desc)
